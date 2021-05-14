@@ -1,4 +1,4 @@
-# web-ui-library
+# ds-pack-web-lib
 
 ## Project setup
 ```
