@@ -3,16 +3,24 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "preserve": "npm run download",
     "serve": "vue-cli-service serve",
-    "prebuild": "npm run download",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
     "build-library": "vue-cli-service build --target lib --name ds-pack-web-lib ./src/install.js",
-    "download": "node ./src/utils/download.js"
+    "download": "node ./src/utils/download.js",
+    "prebuild": "npm run download",
+    "preserve": "npm run download"
   },
+  "main": "./dist/ds-pack-web-lib.common.js",
+  "files": [
+    "dist/*"
+  ],
   "dependencies": {
+    "@tailwindcss/postcss7-compat": "^2.0.2",
+    "autoprefixer": "^9",
     "core-js": "^3.6.5",
+    "postcss": "^7",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.2",
     "vue": "^2.6.11"
   },
   "devDependencies": {
@@ -25,6 +33,7 @@
     "eslint-plugin-vue": "^6.2.2",
     "husky": "^6.0.0",
     "node-fetch": "^2.6.1",
+    "vue-cli-plugin-tailwind": "~2.0.6",
     "vue-template-compiler": "^2.6.11"
   },
   "eslintConfig": {
@@ -45,10 +54,6 @@
     "> 1%",
     "last 2 versions",
     "not dead"
-  ],
-  "main": "./dist/ds-pack-web-lib.common.js",
-  "files": [
-    "dist/*"
   ],
   "husky": {
     "hooks": {
