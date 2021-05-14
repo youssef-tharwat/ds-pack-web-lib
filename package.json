@@ -3,14 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "preserve": "npm run download",
     "serve": "vue-cli-service serve",
+    "prebuild": "npm run download",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "build-library": "vue-cli-service build --target lib --name ds-pack-web-lib ./src/install.js"
+    "build-library": "vue-cli-service build --target lib --name ds-pack-web-lib ./src/install.js",
+    "download": "node ./src/utils/download.js"
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "node-fetch": "^2.6.1",
     "vue": "^2.6.11"
   },
   "devDependencies": {
@@ -18,8 +20,11 @@
     "@vue/cli-plugin-eslint": "~4.5.0",
     "@vue/cli-service": "~4.5.0",
     "babel-eslint": "^10.1.0",
+    "dotenv": "^9.0.2",
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^6.2.2",
+    "husky": "^6.0.0",
+    "node-fetch": "^2.6.1",
     "vue-template-compiler": "^2.6.11"
   },
   "eslintConfig": {
@@ -44,5 +49,10 @@
   "main": "./dist/ds-pack-web-lib.common.js",
   "files": [
     "dist/*"
-  ]
+  ],
+  "husky": {
+    "hooks": {
+      "post-checkout": "npm run download"
+    }
+  }
 }

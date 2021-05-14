@@ -1,5 +1,10 @@
 /* eslint-disable no-undef */
-import { BASE_LIBRARY_FILE, BASE_LIBRARY_TARGET_LOCATION } from "./constants";
+const BASE_LIBRARY_REPO = "ds-pack-style-guide";
+const BASE_LIBRARY_PATH = "build/scss/_variables.scss";
+const BASE_LIBRARY_OWNER = "youssef-tharwat";
+const BASE_LIBRARY_FILE = `https://api.github.com/repos/${BASE_LIBRARY_OWNER}/${BASE_LIBRARY_REPO}/contents/${BASE_LIBRARY_PATH}`;
+
+const BASE_LIBRARY_TARGET_LOCATION = "./src/assets/scss/_variables.scss";
 
 const fs = require("fs");
 const fetch = require("node-fetch");
@@ -12,7 +17,6 @@ const download = () => {
   })
     .then((response) => response.buffer())
     .then((content) => {
-      console.log("[FILE]", "Writing " + content);
       fs.writeFileSync(BASE_LIBRARY_TARGET_LOCATION, content);
     })
     .catch((e) => {
@@ -20,4 +24,4 @@ const download = () => {
     });
 };
 
-export default download;
+download();
