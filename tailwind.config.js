@@ -1,4 +1,4 @@
-const tokens = require("./src/vendors/tailwind/tokens/index");
+const tokens = require("./src/vendors/tailwind/tokens/tokens");
 console.log(tokens);
 
 module.exports = {

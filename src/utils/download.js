@@ -4,7 +4,7 @@ const BASE_LIBRARY_PATH = "build/js/tokens.js";
 const BASE_LIBRARY_OWNER = "youssef-tharwat";
 const BASE_LIBRARY_FILE = `https://api.github.com/repos/${BASE_LIBRARY_OWNER}/${BASE_LIBRARY_REPO}/contents/${BASE_LIBRARY_PATH}`;
 
-const BASE_LIBRARY_TARGET_LOCATION = "./src/vendors/tailwind/tokens/index.js";
+const BASE_LIBRARY_TARGET_LOCATION = "./src/vendors/tailwind/tokens/tokens.js";
 
 const fs = require("fs");
 const fetch = require("node-fetch");
