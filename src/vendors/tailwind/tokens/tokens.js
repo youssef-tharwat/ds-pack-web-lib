@@ -1,9231 +1,10691 @@
 /**
  * Do not edit directly
- * Generated on Fri, 14 May 2021 18:58:24 GMT
+ * Generated on Sat, 15 May 2021 17:19:48 GMT
  */
 
 module.exports = {
-  "black": {
-    "category": "fill",
-    "value": "rgba(0, 0, 0, 1)",
-    "type": "color",
-    "original": {
-      "category": "fill",
-      "value": "rgba(0, 0, 0, 1)",
-      "type": "color"
-    },
-    "name": "Black",
-    "attributes": {
-      "category": "black"
-    },
-    "path": [
-      "black"
-    ]
-  },
-  "white": {
-    "category": "fill",
-    "value": "rgba(255, 255, 255, 1)",
-    "type": "color",
-    "original": {
-      "category": "fill",
-      "value": "rgba(255, 255, 255, 1)",
-      "type": "color"
-    },
-    "name": "White",
-    "attributes": {
-      "category": "white"
-    },
-    "path": [
-      "white"
-    ]
-  },
-  "test": {
-    "category": "fill",
-    "comment": "test",
-    "value": "rgba(0, 0, 1, 1)",
-    "type": "color",
-    "original": {
-      "category": "fill",
-      "comment": "test",
-      "value": "rgba(0, 0, 1, 1)",
-      "type": "color"
-    },
-    "name": "Test",
-    "attributes": {
-      "category": "test"
-    },
-    "path": [
-      "test"
-    ]
-  },
-  "grayscale": {
-    "50": {
-      "category": "fill",
-      "value": "rgba(247, 247, 252, 1)",
-      "type": "color",
-      "original": {
+  "colors": {
+    "grayscale": {
+      "50": {
         "category": "fill",
         "value": "rgba(247, 247, 252, 1)",
-        "type": "color"
+        "type": "color",
+        "original": {
+          "category": "fill",
+          "value": "rgba(247, 247, 252, 1)",
+          "type": "color"
+        },
+        "name": "ColorsGrayscale50",
+        "attributes": {
+          "category": "colors",
+          "type": "grayscale",
+          "item": "50"
+        },
+        "path": [
+          "colors",
+          "grayscale",
+          "50"
+        ]
       },
-      "name": "Grayscale50",
-      "attributes": {
-        "category": "grayscale",
-        "type": "50"
-      },
-      "path": [
-        "grayscale",
-        "50"
-      ]
-    },
-    "100": {
-      "category": "fill",
-      "value": "rgba(247, 247, 252, 1)",
-      "type": "color",
-      "original": {
+      "100": {
         "category": "fill",
         "value": "rgba(247, 247, 252, 1)",
-        "type": "color"
+        "type": "color",
+        "original": {
+          "category": "fill",
+          "value": "rgba(247, 247, 252, 1)",
+          "type": "color"
+        },
+        "name": "ColorsGrayscale100",
+        "attributes": {
+          "category": "colors",
+          "type": "grayscale",
+          "item": "100"
+        },
+        "path": [
+          "colors",
+          "grayscale",
+          "100"
+        ]
       },
-      "name": "Grayscale100",
-      "attributes": {
-        "category": "grayscale",
-        "type": "100"
-      },
-      "path": [
-        "grayscale",
-        "100"
-      ]
-    },
-    "200": {
-      "category": "fill",
-      "value": "rgba(239, 240, 246, 1)",
-      "type": "color",
-      "original": {
+      "200": {
         "category": "fill",
         "value": "rgba(239, 240, 246, 1)",
-        "type": "color"
+        "type": "color",
+        "original": {
+          "category": "fill",
+          "value": "rgba(239, 240, 246, 1)",
+          "type": "color"
+        },
+        "name": "ColorsGrayscale200",
+        "attributes": {
+          "category": "colors",
+          "type": "grayscale",
+          "item": "200"
+        },
+        "path": [
+          "colors",
+          "grayscale",
+          "200"
+        ]
       },
-      "name": "Grayscale200",
-      "attributes": {
-        "category": "grayscale",
-        "type": "200"
-      },
-      "path": [
-        "grayscale",
-        "200"
-      ]
-    },
-    "300": {
-      "category": "fill",
-      "value": "rgba(217, 219, 233, 1)",
-      "type": "color",
-      "original": {
+      "300": {
         "category": "fill",
         "value": "rgba(217, 219, 233, 1)",
-        "type": "color"
+        "type": "color",
+        "original": {
+          "category": "fill",
+          "value": "rgba(217, 219, 233, 1)",
+          "type": "color"
+        },
+        "name": "ColorsGrayscale300",
+        "attributes": {
+          "category": "colors",
+          "type": "grayscale",
+          "item": "300"
+        },
+        "path": [
+          "colors",
+          "grayscale",
+          "300"
+        ]
       },
-      "name": "Grayscale300",
-      "attributes": {
-        "category": "grayscale",
-        "type": "300"
-      },
-      "path": [
-        "grayscale",
-        "300"
-      ]
-    },
-    "400": {
-      "category": "fill",
-      "value": "rgba(160, 163, 189, 1)",
-      "type": "color",
-      "original": {
+      "400": {
         "category": "fill",
         "value": "rgba(160, 163, 189, 1)",
-        "type": "color"
+        "type": "color",
+        "original": {
+          "category": "fill",
+          "value": "rgba(160, 163, 189, 1)",
+          "type": "color"
+        },
+        "name": "ColorsGrayscale400",
+        "attributes": {
+          "category": "colors",
+          "type": "grayscale",
+          "item": "400"
+        },
+        "path": [
+          "colors",
+          "grayscale",
+          "400"
+        ]
       },
-      "name": "Grayscale400",
-      "attributes": {
-        "category": "grayscale",
-        "type": "400"
-      },
-      "path": [
-        "grayscale",
-        "400"
-      ]
-    },
-    "500": {
-      "category": "fill",
-      "value": "rgba(110, 113, 145, 1)",
-      "type": "color",
-      "original": {
+      "500": {
         "category": "fill",
         "value": "rgba(110, 113, 145, 1)",
-        "type": "color"
+        "type": "color",
+        "original": {
+          "category": "fill",
+          "value": "rgba(110, 113, 145, 1)",
+          "type": "color"
+        },
+        "name": "ColorsGrayscale500",
+        "attributes": {
+          "category": "colors",
+          "type": "grayscale",
+          "item": "500"
+        },
+        "path": [
+          "colors",
+          "grayscale",
+          "500"
+        ]
       },
-      "name": "Grayscale500",
-      "attributes": {
-        "category": "grayscale",
-        "type": "500"
-      },
-      "path": [
-        "grayscale",
-        "500"
-      ]
-    },
-    "600": {
-      "category": "fill",
-      "value": "rgba(78, 75, 102, 1)",
-      "type": "color",
-      "original": {
+      "600": {
         "category": "fill",
         "value": "rgba(78, 75, 102, 1)",
-        "type": "color"
+        "type": "color",
+        "original": {
+          "category": "fill",
+          "value": "rgba(78, 75, 102, 1)",
+          "type": "color"
+        },
+        "name": "ColorsGrayscale600",
+        "attributes": {
+          "category": "colors",
+          "type": "grayscale",
+          "item": "600"
+        },
+        "path": [
+          "colors",
+          "grayscale",
+          "600"
+        ]
       },
-      "name": "Grayscale600",
-      "attributes": {
-        "category": "grayscale",
-        "type": "600"
-      },
-      "path": [
-        "grayscale",
-        "600"
-      ]
-    },
-    "700": {
-      "category": "fill",
-      "value": "rgba(50, 47, 70, 1)",
-      "type": "color",
-      "original": {
+      "700": {
         "category": "fill",
         "value": "rgba(50, 47, 70, 1)",
-        "type": "color"
+        "type": "color",
+        "original": {
+          "category": "fill",
+          "value": "rgba(50, 47, 70, 1)",
+          "type": "color"
+        },
+        "name": "ColorsGrayscale700",
+        "attributes": {
+          "category": "colors",
+          "type": "grayscale",
+          "item": "700"
+        },
+        "path": [
+          "colors",
+          "grayscale",
+          "700"
+        ]
       },
-      "name": "Grayscale700",
-      "attributes": {
-        "category": "grayscale",
-        "type": "700"
-      },
-      "path": [
-        "grayscale",
-        "700"
-      ]
-    },
-    "800": {
-      "category": "fill",
-      "value": "rgba(20, 20, 43, 1)",
-      "type": "color",
-      "original": {
+      "800": {
         "category": "fill",
         "value": "rgba(20, 20, 43, 1)",
-        "type": "color"
+        "type": "color",
+        "original": {
+          "category": "fill",
+          "value": "rgba(20, 20, 43, 1)",
+          "type": "color"
+        },
+        "name": "ColorsGrayscale800",
+        "attributes": {
+          "category": "colors",
+          "type": "grayscale",
+          "item": "800"
+        },
+        "path": [
+          "colors",
+          "grayscale",
+          "800"
+        ]
+      }
+    },
+    "neutrals": {
+      "black": {
+        "category": "fill",
+        "value": "rgba(0, 0, 0, 1)",
+        "type": "color",
+        "original": {
+          "category": "fill",
+          "value": "rgba(0, 0, 0, 1)",
+          "type": "color"
+        },
+        "name": "ColorsNeutralsBlack",
+        "attributes": {
+          "category": "colors",
+          "type": "neutrals",
+          "item": "black"
+        },
+        "path": [
+          "colors",
+          "neutrals",
+          "black"
+        ]
       },
-      "name": "Grayscale800",
-      "attributes": {
-        "category": "grayscale",
-        "type": "800"
-      },
-      "path": [
-        "grayscale",
-        "800"
-      ]
-    }
-  },
-  "primary": {
-    "100": {
-      "category": "fill",
-      "value": "rgba(229, 248, 255, 1)",
-      "type": "color",
-      "original": {
+      "white": {
+        "category": "fill",
+        "value": "rgba(255, 255, 255, 1)",
+        "type": "color",
+        "original": {
+          "category": "fill",
+          "value": "rgba(255, 255, 255, 1)",
+          "type": "color"
+        },
+        "name": "ColorsNeutralsWhite",
+        "attributes": {
+          "category": "colors",
+          "type": "neutrals",
+          "item": "white"
+        },
+        "path": [
+          "colors",
+          "neutrals",
+          "white"
+        ]
+      }
+    },
+    "primary": {
+      "100": {
         "category": "fill",
         "value": "rgba(229, 248, 255, 1)",
-        "type": "color"
+        "type": "color",
+        "original": {
+          "category": "fill",
+          "value": "rgba(229, 248, 255, 1)",
+          "type": "color"
+        },
+        "name": "ColorsPrimary100",
+        "attributes": {
+          "category": "colors",
+          "type": "primary",
+          "item": "100"
+        },
+        "path": [
+          "colors",
+          "primary",
+          "100"
+        ]
       },
-      "name": "Primary100",
-      "attributes": {
-        "category": "primary",
-        "type": "100"
-      },
-      "path": [
-        "primary",
-        "100"
-      ]
-    },
-    "200": {
-      "category": "fill",
-      "value": "rgba(208, 232, 245, 1)",
-      "type": "color",
-      "original": {
+      "200": {
         "category": "fill",
         "value": "rgba(208, 232, 245, 1)",
-        "type": "color"
+        "type": "color",
+        "original": {
+          "category": "fill",
+          "value": "rgba(208, 232, 245, 1)",
+          "type": "color"
+        },
+        "name": "ColorsPrimary200",
+        "attributes": {
+          "category": "colors",
+          "type": "primary",
+          "item": "200"
+        },
+        "path": [
+          "colors",
+          "primary",
+          "200"
+        ]
       },
-      "name": "Primary200",
-      "attributes": {
-        "category": "primary",
-        "type": "200"
-      },
-      "path": [
-        "primary",
-        "200"
-      ]
-    },
-    "300": {
-      "category": "fill",
-      "value": "rgba(162, 209, 235, 1)",
-      "type": "color",
-      "original": {
+      "300": {
         "category": "fill",
         "value": "rgba(162, 209, 235, 1)",
-        "type": "color"
+        "type": "color",
+        "original": {
+          "category": "fill",
+          "value": "rgba(162, 209, 235, 1)",
+          "type": "color"
+        },
+        "name": "ColorsPrimary300",
+        "attributes": {
+          "category": "colors",
+          "type": "primary",
+          "item": "300"
+        },
+        "path": [
+          "colors",
+          "primary",
+          "300"
+        ]
       },
-      "name": "Primary300",
-      "attributes": {
-        "category": "primary",
-        "type": "300"
-      },
-      "path": [
-        "primary",
-        "300"
-      ]
-    },
-    "400": {
-      "category": "fill",
-      "value": "rgba(69, 163, 216, 1)",
-      "type": "color",
-      "original": {
+      "400": {
         "category": "fill",
         "value": "rgba(69, 163, 216, 1)",
-        "type": "color"
+        "type": "color",
+        "original": {
+          "category": "fill",
+          "value": "rgba(69, 163, 216, 1)",
+          "type": "color"
+        },
+        "name": "ColorsPrimary400",
+        "attributes": {
+          "category": "colors",
+          "type": "primary",
+          "item": "400"
+        },
+        "path": [
+          "colors",
+          "primary",
+          "400"
+        ]
       },
-      "name": "Primary400",
-      "attributes": {
-        "category": "primary",
-        "type": "400"
-      },
-      "path": [
-        "primary",
-        "400"
-      ]
-    },
-    "600": {
-      "category": "fill",
-      "value": "rgba(3, 80, 123, 1)",
-      "type": "color",
-      "original": {
+      "600": {
         "category": "fill",
         "value": "rgba(3, 80, 123, 1)",
-        "type": "color"
+        "type": "color",
+        "original": {
+          "category": "fill",
+          "value": "rgba(3, 80, 123, 1)",
+          "type": "color"
+        },
+        "name": "ColorsPrimary600",
+        "attributes": {
+          "category": "colors",
+          "type": "primary",
+          "item": "600"
+        },
+        "path": [
+          "colors",
+          "primary",
+          "600"
+        ]
       },
-      "name": "Primary600",
-      "attributes": {
-        "category": "primary",
-        "type": "600"
-      },
-      "path": [
-        "primary",
-        "600"
-      ]
-    },
-    "500 (default)": {
-      "category": "fill",
-      "value": "rgba(0, 115, 178, 1)",
-      "type": "color",
-      "original": {
+      "500 (default)": {
         "category": "fill",
         "value": "rgba(0, 115, 178, 1)",
-        "type": "color"
-      },
-      "name": "Primary500Default",
-      "attributes": {
-        "category": "primary",
-        "type": "500 (default)"
-      },
-      "path": [
-        "primary",
-        "500 (default)"
-      ]
-    }
-  },
-  "success": {
-    "100": {
-      "category": "fill",
-      "value": "rgba(237, 246, 244, 1)",
-      "type": "color",
-      "original": {
+        "type": "color",
+        "original": {
+          "category": "fill",
+          "value": "rgba(0, 115, 178, 1)",
+          "type": "color"
+        },
+        "name": "ColorsPrimary500Default",
+        "attributes": {
+          "category": "colors",
+          "type": "primary",
+          "item": "500 (default)"
+        },
+        "path": [
+          "colors",
+          "primary",
+          "500 (default)"
+        ]
+      }
+    },
+    "success": {
+      "100": {
         "category": "fill",
         "value": "rgba(237, 246, 244, 1)",
-        "type": "color"
+        "type": "color",
+        "original": {
+          "category": "fill",
+          "value": "rgba(237, 246, 244, 1)",
+          "type": "color"
+        },
+        "name": "ColorsSuccess100",
+        "attributes": {
+          "category": "colors",
+          "type": "success",
+          "item": "100"
+        },
+        "path": [
+          "colors",
+          "success",
+          "100"
+        ]
       },
-      "name": "Success100",
-      "attributes": {
-        "category": "success",
-        "type": "100"
-      },
-      "path": [
-        "success",
-        "100"
-      ]
-    },
-    "200": {
-      "category": "fill",
-      "value": "rgba(209, 245, 238, 1)",
-      "type": "color",
-      "original": {
+      "200": {
         "category": "fill",
         "value": "rgba(209, 245, 238, 1)",
-        "type": "color"
+        "type": "color",
+        "original": {
+          "category": "fill",
+          "value": "rgba(209, 245, 238, 1)",
+          "type": "color"
+        },
+        "name": "ColorsSuccess200",
+        "attributes": {
+          "category": "colors",
+          "type": "success",
+          "item": "200"
+        },
+        "path": [
+          "colors",
+          "success",
+          "200"
+        ]
       },
-      "name": "Success200",
-      "attributes": {
-        "category": "success",
-        "type": "200"
-      },
-      "path": [
-        "success",
-        "200"
-      ]
-    },
-    "300": {
-      "category": "fill",
-      "value": "rgba(152, 210, 198, 1)",
-      "type": "color",
-      "original": {
+      "300": {
         "category": "fill",
         "value": "rgba(152, 210, 198, 1)",
-        "type": "color"
+        "type": "color",
+        "original": {
+          "category": "fill",
+          "value": "rgba(152, 210, 198, 1)",
+          "type": "color"
+        },
+        "name": "ColorsSuccess300",
+        "attributes": {
+          "category": "colors",
+          "type": "success",
+          "item": "300"
+        },
+        "path": [
+          "colors",
+          "success",
+          "300"
+        ]
       },
-      "name": "Success300",
-      "attributes": {
-        "category": "success",
-        "type": "300"
-      },
-      "path": [
-        "success",
-        "300"
-      ]
-    },
-    "400": {
-      "category": "fill",
-      "value": "rgba(114, 190, 174, 1)",
-      "type": "color",
-      "original": {
+      "400": {
         "category": "fill",
         "value": "rgba(114, 190, 174, 1)",
-        "type": "color"
+        "type": "color",
+        "original": {
+          "category": "fill",
+          "value": "rgba(114, 190, 174, 1)",
+          "type": "color"
+        },
+        "name": "ColorsSuccess400",
+        "attributes": {
+          "category": "colors",
+          "type": "success",
+          "item": "400"
+        },
+        "path": [
+          "colors",
+          "success",
+          "400"
+        ]
       },
-      "name": "Success400",
-      "attributes": {
-        "category": "success",
-        "type": "400"
-      },
-      "path": [
-        "success",
-        "400"
-      ]
-    },
-    "500": {
-      "category": "fill",
-      "value": "rgba(8, 160, 247, 1)",
-      "type": "color",
-      "original": {
+      "500": {
         "category": "fill",
-        "value": "rgba(8, 160, 247, 1)",
-        "type": "color"
+        "value": "rgba(0, 153, 119, 1)",
+        "type": "color",
+        "original": {
+          "category": "fill",
+          "value": "rgba(0, 153, 119, 1)",
+          "type": "color"
+        },
+        "name": "ColorsSuccess500",
+        "attributes": {
+          "category": "colors",
+          "type": "success",
+          "item": "500"
+        },
+        "path": [
+          "colors",
+          "success",
+          "500"
+        ]
       },
-      "name": "Success500",
-      "attributes": {
-        "category": "success",
-        "type": "500"
-      },
-      "path": [
-        "success",
-        "500"
-      ]
-    },
-    "600": {
-      "category": "fill",
-      "value": "rgba(0, 128, 93, 1)",
-      "type": "color",
-      "original": {
+      "600": {
         "category": "fill",
         "value": "rgba(0, 128, 93, 1)",
-        "type": "color"
-      },
-      "name": "Success600",
-      "attributes": {
-        "category": "success",
-        "type": "600"
-      },
-      "path": [
-        "success",
-        "600"
-      ]
-    }
-  },
-  "warning": {
-    "100": {
-      "category": "fill",
-      "value": "rgba(251, 243, 226, 1)",
-      "type": "color",
-      "original": {
+        "type": "color",
+        "original": {
+          "category": "fill",
+          "value": "rgba(0, 128, 93, 1)",
+          "type": "color"
+        },
+        "name": "ColorsSuccess600",
+        "attributes": {
+          "category": "colors",
+          "type": "success",
+          "item": "600"
+        },
+        "path": [
+          "colors",
+          "success",
+          "600"
+        ]
+      }
+    },
+    "warning": {
+      "100": {
         "category": "fill",
         "value": "rgba(251, 243, 226, 1)",
-        "type": "color"
+        "type": "color",
+        "original": {
+          "category": "fill",
+          "value": "rgba(251, 243, 226, 1)",
+          "type": "color"
+        },
+        "name": "ColorsWarning100",
+        "attributes": {
+          "category": "colors",
+          "type": "warning",
+          "item": "100"
+        },
+        "path": [
+          "colors",
+          "warning",
+          "100"
+        ]
       },
-      "name": "Warning100",
-      "attributes": {
-        "category": "warning",
-        "type": "100"
-      },
-      "path": [
-        "warning",
-        "100"
-      ]
-    },
-    "200": {
-      "category": "fill",
-      "value": "rgba(252, 234, 198, 1)",
-      "type": "color",
-      "original": {
+      "200": {
         "category": "fill",
         "value": "rgba(252, 234, 198, 1)",
-        "type": "color"
+        "type": "color",
+        "original": {
+          "category": "fill",
+          "value": "rgba(252, 234, 198, 1)",
+          "type": "color"
+        },
+        "name": "ColorsWarning200",
+        "attributes": {
+          "category": "colors",
+          "type": "warning",
+          "item": "200"
+        },
+        "path": [
+          "colors",
+          "warning",
+          "200"
+        ]
       },
-      "name": "Warning200",
-      "attributes": {
-        "category": "warning",
-        "type": "200"
-      },
-      "path": [
-        "warning",
-        "200"
-      ]
-    },
-    "300": {
-      "category": "fill",
-      "value": "rgba(253, 225, 169, 1)",
-      "type": "color",
-      "original": {
+      "300": {
         "category": "fill",
         "value": "rgba(253, 225, 169, 1)",
-        "type": "color"
+        "type": "color",
+        "original": {
+          "category": "fill",
+          "value": "rgba(253, 225, 169, 1)",
+          "type": "color"
+        },
+        "name": "ColorsWarning300",
+        "attributes": {
+          "category": "colors",
+          "type": "warning",
+          "item": "300"
+        },
+        "path": [
+          "colors",
+          "warning",
+          "300"
+        ]
       },
-      "name": "Warning300",
-      "attributes": {
-        "category": "warning",
-        "type": "300"
-      },
-      "path": [
-        "warning",
-        "300"
-      ]
-    },
-    "400": {
-      "category": "fill",
-      "value": "rgba(229, 194, 121, 1)",
-      "type": "color",
-      "original": {
+      "400": {
         "category": "fill",
         "value": "rgba(229, 194, 121, 1)",
-        "type": "color"
+        "type": "color",
+        "original": {
+          "category": "fill",
+          "value": "rgba(229, 194, 121, 1)",
+          "type": "color"
+        },
+        "name": "ColorsWarning400",
+        "attributes": {
+          "category": "colors",
+          "type": "warning",
+          "item": "400"
+        },
+        "path": [
+          "colors",
+          "warning",
+          "400"
+        ]
       },
-      "name": "Warning400",
-      "attributes": {
-        "category": "warning",
-        "type": "400"
-      },
-      "path": [
-        "warning",
-        "400"
-      ]
-    },
-    "500": {
-      "category": "fill",
-      "value": "rgba(226, 162, 31, 1)",
-      "type": "color",
-      "original": {
+      "500": {
         "category": "fill",
         "value": "rgba(226, 162, 31, 1)",
-        "type": "color"
+        "type": "color",
+        "original": {
+          "category": "fill",
+          "value": "rgba(226, 162, 31, 1)",
+          "type": "color"
+        },
+        "name": "ColorsWarning500",
+        "attributes": {
+          "category": "colors",
+          "type": "warning",
+          "item": "500"
+        },
+        "path": [
+          "colors",
+          "warning",
+          "500"
+        ]
       },
-      "name": "Warning500",
-      "attributes": {
-        "category": "warning",
-        "type": "500"
-      },
-      "path": [
-        "warning",
-        "500"
-      ]
-    },
-    "600": {
-      "category": "fill",
-      "value": "rgba(181, 129, 23, 1)",
-      "type": "color",
-      "original": {
+      "600": {
         "category": "fill",
         "value": "rgba(181, 129, 23, 1)",
-        "type": "color"
-      },
-      "name": "Warning600",
-      "attributes": {
-        "category": "warning",
-        "type": "600"
-      },
-      "path": [
-        "warning",
-        "600"
-      ]
-    }
-  },
-  "error": {
-    "100": {
-      "category": "fill",
-      "value": "rgba(251, 239, 239, 1)",
-      "type": "color",
-      "original": {
+        "type": "color",
+        "original": {
+          "category": "fill",
+          "value": "rgba(181, 129, 23, 1)",
+          "type": "color"
+        },
+        "name": "ColorsWarning600",
+        "attributes": {
+          "category": "colors",
+          "type": "warning",
+          "item": "600"
+        },
+        "path": [
+          "colors",
+          "warning",
+          "600"
+        ]
+      }
+    },
+    "error": {
+      "100": {
         "category": "fill",
         "value": "rgba(251, 239, 239, 1)",
-        "type": "color"
+        "type": "color",
+        "original": {
+          "category": "fill",
+          "value": "rgba(251, 239, 239, 1)",
+          "type": "color"
+        },
+        "name": "ColorsError100",
+        "attributes": {
+          "category": "colors",
+          "type": "error",
+          "item": "100"
+        },
+        "path": [
+          "colors",
+          "error",
+          "100"
+        ]
       },
-      "name": "Error100",
-      "attributes": {
-        "category": "error",
-        "type": "100"
-      },
-      "path": [
-        "error",
-        "100"
-      ]
-    },
-    "200": {
-      "category": "fill",
-      "value": "rgba(243, 204, 204, 1)",
-      "type": "color",
-      "original": {
+      "200": {
         "category": "fill",
         "value": "rgba(243, 204, 204, 1)",
-        "type": "color"
+        "type": "color",
+        "original": {
+          "category": "fill",
+          "value": "rgba(243, 204, 204, 1)",
+          "type": "color"
+        },
+        "name": "ColorsError200",
+        "attributes": {
+          "category": "colors",
+          "type": "error",
+          "item": "200"
+        },
+        "path": [
+          "colors",
+          "error",
+          "200"
+        ]
       },
-      "name": "Error200",
-      "attributes": {
-        "category": "error",
-        "type": "200"
-      },
-      "path": [
-        "error",
-        "200"
-      ]
-    },
-    "300": {
-      "category": "fill",
-      "value": "rgba(243, 172, 172, 1)",
-      "type": "color",
-      "original": {
+      "300": {
         "category": "fill",
         "value": "rgba(243, 172, 172, 1)",
-        "type": "color"
+        "type": "color",
+        "original": {
+          "category": "fill",
+          "value": "rgba(243, 172, 172, 1)",
+          "type": "color"
+        },
+        "name": "ColorsError300",
+        "attributes": {
+          "category": "colors",
+          "type": "error",
+          "item": "300"
+        },
+        "path": [
+          "colors",
+          "error",
+          "300"
+        ]
       },
-      "name": "Error300",
-      "attributes": {
-        "category": "error",
-        "type": "300"
-      },
-      "path": [
-        "error",
-        "300"
-      ]
-    },
-    "400": {
-      "category": "fill",
-      "value": "rgba(229, 128, 128, 1)",
-      "type": "color",
-      "original": {
+      "400": {
         "category": "fill",
         "value": "rgba(229, 128, 128, 1)",
-        "type": "color"
+        "type": "color",
+        "original": {
+          "category": "fill",
+          "value": "rgba(229, 128, 128, 1)",
+          "type": "color"
+        },
+        "name": "ColorsError400",
+        "attributes": {
+          "category": "colors",
+          "type": "error",
+          "item": "400"
+        },
+        "path": [
+          "colors",
+          "error",
+          "400"
+        ]
       },
-      "name": "Error400",
-      "attributes": {
-        "category": "error",
-        "type": "400"
-      },
-      "path": [
-        "error",
-        "400"
-      ]
-    },
-    "500": {
-      "category": "fill",
-      "value": "rgba(204, 0, 0, 1)",
-      "type": "color",
-      "original": {
+      "500": {
         "category": "fill",
         "value": "rgba(204, 0, 0, 1)",
-        "type": "color"
+        "type": "color",
+        "original": {
+          "category": "fill",
+          "value": "rgba(204, 0, 0, 1)",
+          "type": "color"
+        },
+        "name": "ColorsError500",
+        "attributes": {
+          "category": "colors",
+          "type": "error",
+          "item": "500"
+        },
+        "path": [
+          "colors",
+          "error",
+          "500"
+        ]
       },
-      "name": "Error500",
-      "attributes": {
-        "category": "error",
-        "type": "500"
-      },
-      "path": [
-        "error",
-        "500"
-      ]
-    },
-    "600": {
-      "category": "fill",
-      "value": "rgba(153, 0, 0, 1)",
-      "type": "color",
-      "original": {
+      "600": {
         "category": "fill",
         "value": "rgba(153, 0, 0, 1)",
-        "type": "color"
-      },
-      "name": "Error600",
-      "attributes": {
-        "category": "error",
-        "type": "600"
-      },
-      "path": [
-        "error",
-        "600"
-      ]
+        "type": "color",
+        "original": {
+          "category": "fill",
+          "value": "rgba(153, 0, 0, 1)",
+          "type": "color"
+        },
+        "name": "ColorsError600",
+        "attributes": {
+          "category": "colors",
+          "type": "error",
+          "item": "600"
+        },
+        "path": [
+          "colors",
+          "error",
+          "600"
+        ]
+      }
     }
   },
+  "desktop grid": {
+    "0": {
+      "pattern": {
+        "value": "columns",
+        "type": "string",
+        "original": {
+          "value": "columns",
+          "type": "string"
+        },
+        "name": "DesktopGrid0Pattern",
+        "attributes": {
+          "category": "desktop grid",
+          "type": "0",
+          "item": "pattern"
+        },
+        "path": [
+          "desktop grid",
+          "0",
+          "pattern"
+        ]
+      },
+      "sectionSize": {
+        "value": 72,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 72,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "DesktopGrid0SectionSize",
+        "attributes": {
+          "category": "desktop grid",
+          "type": "0",
+          "item": "sectionSize"
+        },
+        "path": [
+          "desktop grid",
+          "0",
+          "sectionSize"
+        ]
+      },
+      "gutterSize": {
+        "value": 32,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 32,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "DesktopGrid0GutterSize",
+        "attributes": {
+          "category": "desktop grid",
+          "type": "0",
+          "item": "gutterSize"
+        },
+        "path": [
+          "desktop grid",
+          "0",
+          "gutterSize"
+        ]
+      },
+      "alignment": {
+        "value": "center",
+        "type": "string",
+        "original": {
+          "value": "center",
+          "type": "string"
+        },
+        "name": "DesktopGrid0Alignment",
+        "attributes": {
+          "category": "desktop grid",
+          "type": "0",
+          "item": "alignment"
+        },
+        "path": [
+          "desktop grid",
+          "0",
+          "alignment"
+        ]
+      },
+      "count": {
+        "value": 12,
+        "type": "number",
+        "original": {
+          "value": 12,
+          "type": "number"
+        },
+        "name": "DesktopGrid0Count",
+        "attributes": {
+          "category": "desktop grid",
+          "type": "0",
+          "item": "count"
+        },
+        "path": [
+          "desktop grid",
+          "0",
+          "count"
+        ]
+      }
+    },
+    "1": {
+      "pattern": {
+        "value": "rows",
+        "type": "string",
+        "original": {
+          "value": "rows",
+          "type": "string"
+        },
+        "name": "DesktopGrid1Pattern",
+        "attributes": {
+          "category": "desktop grid",
+          "type": "1",
+          "item": "pattern"
+        },
+        "path": [
+          "desktop grid",
+          "1",
+          "pattern"
+        ]
+      },
+      "sectionSize": {
+        "value": 96,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 96,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "DesktopGrid1SectionSize",
+        "attributes": {
+          "category": "desktop grid",
+          "type": "1",
+          "item": "sectionSize"
+        },
+        "path": [
+          "desktop grid",
+          "1",
+          "sectionSize"
+        ]
+      },
+      "gutterSize": {
+        "value": 20,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 20,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "DesktopGrid1GutterSize",
+        "attributes": {
+          "category": "desktop grid",
+          "type": "1",
+          "item": "gutterSize"
+        },
+        "path": [
+          "desktop grid",
+          "1",
+          "gutterSize"
+        ]
+      },
+      "alignment": {
+        "value": "min",
+        "type": "string",
+        "original": {
+          "value": "min",
+          "type": "string"
+        },
+        "name": "DesktopGrid1Alignment",
+        "attributes": {
+          "category": "desktop grid",
+          "type": "1",
+          "item": "alignment"
+        },
+        "path": [
+          "desktop grid",
+          "1",
+          "alignment"
+        ]
+      },
+      "count": {
+        "value": 1,
+        "type": "number",
+        "original": {
+          "value": 1,
+          "type": "number"
+        },
+        "name": "DesktopGrid1Count",
+        "attributes": {
+          "category": "desktop grid",
+          "type": "1",
+          "item": "count"
+        },
+        "path": [
+          "desktop grid",
+          "1",
+          "count"
+        ]
+      },
+      "offset": {
+        "value": 0,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "DesktopGrid1Offset",
+        "attributes": {
+          "category": "desktop grid",
+          "type": "1",
+          "item": "offset"
+        },
+        "path": [
+          "desktop grid",
+          "1",
+          "offset"
+        ]
+      }
+    },
+    "category": "grid"
+  },
+  "tablet grid": {
+    "0": {
+      "pattern": {
+        "value": "columns",
+        "type": "string",
+        "original": {
+          "value": "columns",
+          "type": "string"
+        },
+        "name": "TabletGrid0Pattern",
+        "attributes": {
+          "category": "tablet grid",
+          "type": "0",
+          "item": "pattern"
+        },
+        "path": [
+          "tablet grid",
+          "0",
+          "pattern"
+        ]
+      },
+      "sectionSize": {
+        "value": 72,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 72,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "TabletGrid0SectionSize",
+        "attributes": {
+          "category": "tablet grid",
+          "type": "0",
+          "item": "sectionSize"
+        },
+        "path": [
+          "tablet grid",
+          "0",
+          "sectionSize"
+        ]
+      },
+      "gutterSize": {
+        "value": 24,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 24,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "TabletGrid0GutterSize",
+        "attributes": {
+          "category": "tablet grid",
+          "type": "0",
+          "item": "gutterSize"
+        },
+        "path": [
+          "tablet grid",
+          "0",
+          "gutterSize"
+        ]
+      },
+      "alignment": {
+        "value": "center",
+        "type": "string",
+        "original": {
+          "value": "center",
+          "type": "string"
+        },
+        "name": "TabletGrid0Alignment",
+        "attributes": {
+          "category": "tablet grid",
+          "type": "0",
+          "item": "alignment"
+        },
+        "path": [
+          "tablet grid",
+          "0",
+          "alignment"
+        ]
+      },
+      "count": {
+        "value": 8,
+        "type": "number",
+        "original": {
+          "value": 8,
+          "type": "number"
+        },
+        "name": "TabletGrid0Count",
+        "attributes": {
+          "category": "tablet grid",
+          "type": "0",
+          "item": "count"
+        },
+        "path": [
+          "tablet grid",
+          "0",
+          "count"
+        ]
+      }
+    },
+    "1": {
+      "pattern": {
+        "value": "rows",
+        "type": "string",
+        "original": {
+          "value": "rows",
+          "type": "string"
+        },
+        "name": "TabletGrid1Pattern",
+        "attributes": {
+          "category": "tablet grid",
+          "type": "1",
+          "item": "pattern"
+        },
+        "path": [
+          "tablet grid",
+          "1",
+          "pattern"
+        ]
+      },
+      "sectionSize": {
+        "value": 72,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 72,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "TabletGrid1SectionSize",
+        "attributes": {
+          "category": "tablet grid",
+          "type": "1",
+          "item": "sectionSize"
+        },
+        "path": [
+          "tablet grid",
+          "1",
+          "sectionSize"
+        ]
+      },
+      "gutterSize": {
+        "value": 20,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 20,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "TabletGrid1GutterSize",
+        "attributes": {
+          "category": "tablet grid",
+          "type": "1",
+          "item": "gutterSize"
+        },
+        "path": [
+          "tablet grid",
+          "1",
+          "gutterSize"
+        ]
+      },
+      "alignment": {
+        "value": "min",
+        "type": "string",
+        "original": {
+          "value": "min",
+          "type": "string"
+        },
+        "name": "TabletGrid1Alignment",
+        "attributes": {
+          "category": "tablet grid",
+          "type": "1",
+          "item": "alignment"
+        },
+        "path": [
+          "tablet grid",
+          "1",
+          "alignment"
+        ]
+      },
+      "count": {
+        "value": 1,
+        "type": "number",
+        "original": {
+          "value": 1,
+          "type": "number"
+        },
+        "name": "TabletGrid1Count",
+        "attributes": {
+          "category": "tablet grid",
+          "type": "1",
+          "item": "count"
+        },
+        "path": [
+          "tablet grid",
+          "1",
+          "count"
+        ]
+      },
+      "offset": {
+        "value": 0,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "TabletGrid1Offset",
+        "attributes": {
+          "category": "tablet grid",
+          "type": "1",
+          "item": "offset"
+        },
+        "path": [
+          "tablet grid",
+          "1",
+          "offset"
+        ]
+      }
+    },
+    "category": "grid"
+  },
+  "phone grid": {
+    "0": {
+      "pattern": {
+        "value": "columns",
+        "type": "string",
+        "original": {
+          "value": "columns",
+          "type": "string"
+        },
+        "name": "PhoneGrid0Pattern",
+        "attributes": {
+          "category": "phone grid",
+          "type": "0",
+          "item": "pattern"
+        },
+        "path": [
+          "phone grid",
+          "0",
+          "pattern"
+        ]
+      },
+      "sectionSize": {
+        "value": 64,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 64,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "PhoneGrid0SectionSize",
+        "attributes": {
+          "category": "phone grid",
+          "type": "0",
+          "item": "sectionSize"
+        },
+        "path": [
+          "phone grid",
+          "0",
+          "sectionSize"
+        ]
+      },
+      "gutterSize": {
+        "value": 24,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 24,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "PhoneGrid0GutterSize",
+        "attributes": {
+          "category": "phone grid",
+          "type": "0",
+          "item": "gutterSize"
+        },
+        "path": [
+          "phone grid",
+          "0",
+          "gutterSize"
+        ]
+      },
+      "alignment": {
+        "value": "center",
+        "type": "string",
+        "original": {
+          "value": "center",
+          "type": "string"
+        },
+        "name": "PhoneGrid0Alignment",
+        "attributes": {
+          "category": "phone grid",
+          "type": "0",
+          "item": "alignment"
+        },
+        "path": [
+          "phone grid",
+          "0",
+          "alignment"
+        ]
+      },
+      "count": {
+        "value": 4,
+        "type": "number",
+        "original": {
+          "value": 4,
+          "type": "number"
+        },
+        "name": "PhoneGrid0Count",
+        "attributes": {
+          "category": "phone grid",
+          "type": "0",
+          "item": "count"
+        },
+        "path": [
+          "phone grid",
+          "0",
+          "count"
+        ]
+      }
+    },
+    "1": {
+      "pattern": {
+        "value": "rows",
+        "type": "string",
+        "original": {
+          "value": "rows",
+          "type": "string"
+        },
+        "name": "PhoneGrid1Pattern",
+        "attributes": {
+          "category": "phone grid",
+          "type": "1",
+          "item": "pattern"
+        },
+        "path": [
+          "phone grid",
+          "1",
+          "pattern"
+        ]
+      },
+      "sectionSize": {
+        "value": 44,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 44,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "PhoneGrid1SectionSize",
+        "attributes": {
+          "category": "phone grid",
+          "type": "1",
+          "item": "sectionSize"
+        },
+        "path": [
+          "phone grid",
+          "1",
+          "sectionSize"
+        ]
+      },
+      "gutterSize": {
+        "value": 20,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 20,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "PhoneGrid1GutterSize",
+        "attributes": {
+          "category": "phone grid",
+          "type": "1",
+          "item": "gutterSize"
+        },
+        "path": [
+          "phone grid",
+          "1",
+          "gutterSize"
+        ]
+      },
+      "alignment": {
+        "value": "min",
+        "type": "string",
+        "original": {
+          "value": "min",
+          "type": "string"
+        },
+        "name": "PhoneGrid1Alignment",
+        "attributes": {
+          "category": "phone grid",
+          "type": "1",
+          "item": "alignment"
+        },
+        "path": [
+          "phone grid",
+          "1",
+          "alignment"
+        ]
+      },
+      "count": {
+        "value": 1,
+        "type": "number",
+        "original": {
+          "value": 1,
+          "type": "number"
+        },
+        "name": "PhoneGrid1Count",
+        "attributes": {
+          "category": "phone grid",
+          "type": "1",
+          "item": "count"
+        },
+        "path": [
+          "phone grid",
+          "1",
+          "count"
+        ]
+      },
+      "offset": {
+        "value": 0,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "PhoneGrid1Offset",
+        "attributes": {
+          "category": "phone grid",
+          "type": "1",
+          "item": "offset"
+        },
+        "path": [
+          "phone grid",
+          "1",
+          "offset"
+        ]
+      }
+    },
+    "2": {
+      "pattern": {
+        "value": "rows",
+        "type": "string",
+        "original": {
+          "value": "rows",
+          "type": "string"
+        },
+        "name": "PhoneGrid2Pattern",
+        "attributes": {
+          "category": "phone grid",
+          "type": "2",
+          "item": "pattern"
+        },
+        "path": [
+          "phone grid",
+          "2",
+          "pattern"
+        ]
+      },
+      "sectionSize": {
+        "value": 34,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 34,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "PhoneGrid2SectionSize",
+        "attributes": {
+          "category": "phone grid",
+          "type": "2",
+          "item": "sectionSize"
+        },
+        "path": [
+          "phone grid",
+          "2",
+          "sectionSize"
+        ]
+      },
+      "gutterSize": {
+        "value": 20,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 20,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "PhoneGrid2GutterSize",
+        "attributes": {
+          "category": "phone grid",
+          "type": "2",
+          "item": "gutterSize"
+        },
+        "path": [
+          "phone grid",
+          "2",
+          "gutterSize"
+        ]
+      },
+      "alignment": {
+        "value": "max",
+        "type": "string",
+        "original": {
+          "value": "max",
+          "type": "string"
+        },
+        "name": "PhoneGrid2Alignment",
+        "attributes": {
+          "category": "phone grid",
+          "type": "2",
+          "item": "alignment"
+        },
+        "path": [
+          "phone grid",
+          "2",
+          "alignment"
+        ]
+      },
+      "count": {
+        "value": 1,
+        "type": "number",
+        "original": {
+          "value": 1,
+          "type": "number"
+        },
+        "name": "PhoneGrid2Count",
+        "attributes": {
+          "category": "phone grid",
+          "type": "2",
+          "item": "count"
+        },
+        "path": [
+          "phone grid",
+          "2",
+          "count"
+        ]
+      },
+      "offset": {
+        "value": 0,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "PhoneGrid2Offset",
+        "attributes": {
+          "category": "phone grid",
+          "type": "2",
+          "item": "offset"
+        },
+        "path": [
+          "phone grid",
+          "2",
+          "offset"
+        ]
+      }
+    },
+    "category": "grid"
+  },
   "desktop": {
-    "display huge": {
-      "category": "font",
-      "fontSize": {
-        "value": 60,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 60,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "DesktopDisplayHugeFontSize",
-        "attributes": {
-          "category": "desktop",
-          "type": "display huge",
-          "item": "fontSize"
-        },
-        "path": [
-          "desktop",
-          "display huge",
-          "fontSize"
-        ]
-      },
-      "textDecoration": {
-        "value": "none",
-        "type": "string",
-        "original": {
-          "value": "none",
-          "type": "string"
-        },
-        "name": "DesktopDisplayHugeTextDecoration",
-        "attributes": {
-          "category": "desktop",
-          "type": "display huge",
-          "item": "textDecoration"
-        },
-        "path": [
-          "desktop",
-          "display huge",
-          "textDecoration"
-        ]
-      },
-      "fontFamily": {
-        "value": "Poppins",
-        "type": "string",
-        "original": {
-          "value": "Poppins",
-          "type": "string"
-        },
-        "name": "DesktopDisplayHugeFontFamily",
-        "attributes": {
-          "category": "desktop",
-          "type": "display huge",
-          "item": "fontFamily"
-        },
-        "path": [
-          "desktop",
-          "display huge",
-          "fontFamily"
-        ]
-      },
-      "fontWeight": {
-        "value": 400,
-        "type": "number",
-        "original": {
-          "value": 400,
-          "type": "number"
-        },
-        "name": "DesktopDisplayHugeFontWeight",
-        "attributes": {
-          "category": "desktop",
-          "type": "display huge",
-          "item": "fontWeight"
-        },
-        "path": [
-          "desktop",
-          "display huge",
-          "fontWeight"
-        ]
-      },
-      "fontStyle": {
-        "value": "normal",
-        "type": "string",
-        "original": {
-          "value": "normal",
-          "type": "string"
-        },
-        "name": "DesktopDisplayHugeFontStyle",
-        "attributes": {
-          "category": "desktop",
-          "type": "display huge",
-          "item": "fontStyle"
-        },
-        "path": [
-          "desktop",
-          "display huge",
-          "fontStyle"
-        ]
-      },
-      "fontStretch": {
-        "value": "normal",
-        "type": "string",
-        "original": {
-          "value": "normal",
-          "type": "string"
-        },
-        "name": "DesktopDisplayHugeFontStretch",
-        "attributes": {
-          "category": "desktop",
-          "type": "display huge",
-          "item": "fontStretch"
-        },
-        "path": [
-          "desktop",
-          "display huge",
-          "fontStretch"
-        ]
-      },
-      "_fontStyleOld": {
-        "value": "Regular",
-        "type": "string",
-        "original": {
-          "value": "Regular",
-          "type": "string"
-        },
-        "name": "DesktopDisplayHugeFontStyleOld",
-        "attributes": {
-          "category": "desktop",
-          "type": "display huge",
-          "item": "_fontStyleOld"
-        },
-        "path": [
-          "desktop",
-          "display huge",
-          "_fontStyleOld"
-        ]
-      },
-      "letterSpacing": {
-        "value": 1,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
-          "value": 1,
-          "type": "number",
-          "unit": "pixels"
-        },
-        "name": "DesktopDisplayHugeLetterSpacing",
-        "attributes": {
-          "category": "desktop",
-          "type": "display huge",
-          "item": "letterSpacing"
-        },
-        "path": [
-          "desktop",
-          "display huge",
-          "letterSpacing"
-        ]
-      },
-      "lineHeight": {
-        "value": 72,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
-          "value": 72,
-          "type": "number",
-          "unit": "pixels"
-        },
-        "name": "DesktopDisplayHugeLineHeight",
-        "attributes": {
-          "category": "desktop",
-          "type": "display huge",
-          "item": "lineHeight"
-        },
-        "path": [
-          "desktop",
-          "display huge",
-          "lineHeight"
-        ]
-      },
-      "paragraphIndent": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "DesktopDisplayHugeParagraphIndent",
-        "attributes": {
-          "category": "desktop",
-          "type": "display huge",
-          "item": "paragraphIndent"
-        },
-        "path": [
-          "desktop",
-          "display huge",
-          "paragraphIndent"
-        ]
-      },
-      "paragraphSpacing": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "DesktopDisplayHugeParagraphSpacing",
-        "attributes": {
-          "category": "desktop",
-          "type": "display huge",
-          "item": "paragraphSpacing"
-        },
-        "path": [
-          "desktop",
-          "display huge",
-          "paragraphSpacing"
-        ]
-      },
-      "textCase": {
-        "value": "none",
-        "type": "string",
-        "original": {
-          "value": "none",
-          "type": "string"
-        },
-        "name": "DesktopDisplayHugeTextCase",
-        "attributes": {
-          "category": "desktop",
-          "type": "display huge",
-          "item": "textCase"
-        },
-        "path": [
-          "desktop",
-          "display huge",
-          "textCase"
-        ]
-      }
-    },
-    "display large": {
-      "category": "font",
-      "fontSize": {
-        "value": 50,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 50,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "DesktopDisplayLargeFontSize",
-        "attributes": {
-          "category": "desktop",
-          "type": "display large",
-          "item": "fontSize"
-        },
-        "path": [
-          "desktop",
-          "display large",
-          "fontSize"
-        ]
-      },
-      "textDecoration": {
-        "value": "none",
-        "type": "string",
-        "original": {
-          "value": "none",
-          "type": "string"
-        },
-        "name": "DesktopDisplayLargeTextDecoration",
-        "attributes": {
-          "category": "desktop",
-          "type": "display large",
-          "item": "textDecoration"
-        },
-        "path": [
-          "desktop",
-          "display large",
-          "textDecoration"
-        ]
-      },
-      "fontFamily": {
-        "value": "Poppins",
-        "type": "string",
-        "original": {
-          "value": "Poppins",
-          "type": "string"
-        },
-        "name": "DesktopDisplayLargeFontFamily",
-        "attributes": {
-          "category": "desktop",
-          "type": "display large",
-          "item": "fontFamily"
-        },
-        "path": [
-          "desktop",
-          "display large",
-          "fontFamily"
-        ]
-      },
-      "fontWeight": {
-        "value": 400,
-        "type": "number",
-        "original": {
-          "value": 400,
-          "type": "number"
-        },
-        "name": "DesktopDisplayLargeFontWeight",
-        "attributes": {
-          "category": "desktop",
-          "type": "display large",
-          "item": "fontWeight"
-        },
-        "path": [
-          "desktop",
-          "display large",
-          "fontWeight"
-        ]
-      },
-      "fontStyle": {
-        "value": "normal",
-        "type": "string",
-        "original": {
-          "value": "normal",
-          "type": "string"
-        },
-        "name": "DesktopDisplayLargeFontStyle",
-        "attributes": {
-          "category": "desktop",
-          "type": "display large",
-          "item": "fontStyle"
-        },
-        "path": [
-          "desktop",
-          "display large",
-          "fontStyle"
-        ]
-      },
-      "fontStretch": {
-        "value": "normal",
-        "type": "string",
-        "original": {
-          "value": "normal",
-          "type": "string"
-        },
-        "name": "DesktopDisplayLargeFontStretch",
-        "attributes": {
-          "category": "desktop",
-          "type": "display large",
-          "item": "fontStretch"
-        },
-        "path": [
-          "desktop",
-          "display large",
-          "fontStretch"
-        ]
-      },
-      "_fontStyleOld": {
-        "value": "Regular",
-        "type": "string",
-        "original": {
-          "value": "Regular",
-          "type": "string"
-        },
-        "name": "DesktopDisplayLargeFontStyleOld",
-        "attributes": {
-          "category": "desktop",
-          "type": "display large",
-          "item": "_fontStyleOld"
-        },
-        "path": [
-          "desktop",
-          "display large",
-          "_fontStyleOld"
-        ]
-      },
-      "letterSpacing": {
-        "value": 1,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
-          "value": 1,
-          "type": "number",
-          "unit": "pixels"
-        },
-        "name": "DesktopDisplayLargeLetterSpacing",
-        "attributes": {
-          "category": "desktop",
-          "type": "display large",
-          "item": "letterSpacing"
-        },
-        "path": [
-          "desktop",
-          "display large",
-          "letterSpacing"
-        ]
-      },
-      "lineHeight": {
-        "value": 64,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
-          "value": 64,
-          "type": "number",
-          "unit": "pixels"
-        },
-        "name": "DesktopDisplayLargeLineHeight",
-        "attributes": {
-          "category": "desktop",
-          "type": "display large",
-          "item": "lineHeight"
-        },
-        "path": [
-          "desktop",
-          "display large",
-          "lineHeight"
-        ]
-      },
-      "paragraphIndent": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "DesktopDisplayLargeParagraphIndent",
-        "attributes": {
-          "category": "desktop",
-          "type": "display large",
-          "item": "paragraphIndent"
-        },
-        "path": [
-          "desktop",
-          "display large",
-          "paragraphIndent"
-        ]
-      },
-      "paragraphSpacing": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "DesktopDisplayLargeParagraphSpacing",
-        "attributes": {
-          "category": "desktop",
-          "type": "display large",
-          "item": "paragraphSpacing"
-        },
-        "path": [
-          "desktop",
-          "display large",
-          "paragraphSpacing"
-        ]
-      },
-      "textCase": {
-        "value": "none",
-        "type": "string",
-        "original": {
-          "value": "none",
-          "type": "string"
-        },
-        "name": "DesktopDisplayLargeTextCase",
-        "attributes": {
-          "category": "desktop",
-          "type": "display large",
-          "item": "textCase"
-        },
-        "path": [
-          "desktop",
-          "display large",
-          "textCase"
-        ]
-      }
-    },
-    "display medium": {
-      "category": "font",
-      "fontSize": {
-        "value": 40,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 40,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "DesktopDisplayMediumFontSize",
-        "attributes": {
-          "category": "desktop",
-          "type": "display medium",
-          "item": "fontSize"
-        },
-        "path": [
-          "desktop",
-          "display medium",
-          "fontSize"
-        ]
-      },
-      "textDecoration": {
-        "value": "none",
-        "type": "string",
-        "original": {
-          "value": "none",
-          "type": "string"
-        },
-        "name": "DesktopDisplayMediumTextDecoration",
-        "attributes": {
-          "category": "desktop",
-          "type": "display medium",
-          "item": "textDecoration"
-        },
-        "path": [
-          "desktop",
-          "display medium",
-          "textDecoration"
-        ]
-      },
-      "fontFamily": {
-        "value": "Poppins",
-        "type": "string",
-        "original": {
-          "value": "Poppins",
-          "type": "string"
-        },
-        "name": "DesktopDisplayMediumFontFamily",
-        "attributes": {
-          "category": "desktop",
-          "type": "display medium",
-          "item": "fontFamily"
-        },
-        "path": [
-          "desktop",
-          "display medium",
-          "fontFamily"
-        ]
-      },
-      "fontWeight": {
-        "value": 400,
-        "type": "number",
-        "original": {
-          "value": 400,
-          "type": "number"
-        },
-        "name": "DesktopDisplayMediumFontWeight",
-        "attributes": {
-          "category": "desktop",
-          "type": "display medium",
-          "item": "fontWeight"
-        },
-        "path": [
-          "desktop",
-          "display medium",
-          "fontWeight"
-        ]
-      },
-      "fontStyle": {
-        "value": "normal",
-        "type": "string",
-        "original": {
-          "value": "normal",
-          "type": "string"
-        },
-        "name": "DesktopDisplayMediumFontStyle",
-        "attributes": {
-          "category": "desktop",
-          "type": "display medium",
-          "item": "fontStyle"
-        },
-        "path": [
-          "desktop",
-          "display medium",
-          "fontStyle"
-        ]
-      },
-      "fontStretch": {
-        "value": "normal",
-        "type": "string",
-        "original": {
-          "value": "normal",
-          "type": "string"
-        },
-        "name": "DesktopDisplayMediumFontStretch",
-        "attributes": {
-          "category": "desktop",
-          "type": "display medium",
-          "item": "fontStretch"
-        },
-        "path": [
-          "desktop",
-          "display medium",
-          "fontStretch"
-        ]
-      },
-      "_fontStyleOld": {
-        "value": "Regular",
-        "type": "string",
-        "original": {
-          "value": "Regular",
-          "type": "string"
-        },
-        "name": "DesktopDisplayMediumFontStyleOld",
-        "attributes": {
-          "category": "desktop",
-          "type": "display medium",
-          "item": "_fontStyleOld"
-        },
-        "path": [
-          "desktop",
-          "display medium",
-          "_fontStyleOld"
-        ]
-      },
-      "letterSpacing": {
-        "value": 1,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
-          "value": 1,
-          "type": "number",
-          "unit": "pixels"
-        },
-        "name": "DesktopDisplayMediumLetterSpacing",
-        "attributes": {
-          "category": "desktop",
-          "type": "display medium",
-          "item": "letterSpacing"
-        },
-        "path": [
-          "desktop",
-          "display medium",
-          "letterSpacing"
-        ]
-      },
-      "lineHeight": {
-        "value": 56,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
-          "value": 56,
-          "type": "number",
-          "unit": "pixels"
-        },
-        "name": "DesktopDisplayMediumLineHeight",
-        "attributes": {
-          "category": "desktop",
-          "type": "display medium",
-          "item": "lineHeight"
-        },
-        "path": [
-          "desktop",
-          "display medium",
-          "lineHeight"
-        ]
-      },
-      "paragraphIndent": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "DesktopDisplayMediumParagraphIndent",
-        "attributes": {
-          "category": "desktop",
-          "type": "display medium",
-          "item": "paragraphIndent"
-        },
-        "path": [
-          "desktop",
-          "display medium",
-          "paragraphIndent"
-        ]
-      },
-      "paragraphSpacing": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "DesktopDisplayMediumParagraphSpacing",
-        "attributes": {
-          "category": "desktop",
-          "type": "display medium",
-          "item": "paragraphSpacing"
-        },
-        "path": [
-          "desktop",
-          "display medium",
-          "paragraphSpacing"
-        ]
-      },
-      "textCase": {
-        "value": "none",
-        "type": "string",
-        "original": {
-          "value": "none",
-          "type": "string"
-        },
-        "name": "DesktopDisplayMediumTextCase",
-        "attributes": {
-          "category": "desktop",
-          "type": "display medium",
-          "item": "textCase"
-        },
-        "path": [
-          "desktop",
-          "display medium",
-          "textCase"
-        ]
-      }
-    },
-    "display small": {
-      "category": "font",
-      "fontSize": {
-        "value": 33,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 33,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "DesktopDisplaySmallFontSize",
-        "attributes": {
-          "category": "desktop",
-          "type": "display small",
-          "item": "fontSize"
-        },
-        "path": [
-          "desktop",
-          "display small",
-          "fontSize"
-        ]
-      },
-      "textDecoration": {
-        "value": "none",
-        "type": "string",
-        "original": {
-          "value": "none",
-          "type": "string"
-        },
-        "name": "DesktopDisplaySmallTextDecoration",
-        "attributes": {
-          "category": "desktop",
-          "type": "display small",
-          "item": "textDecoration"
-        },
-        "path": [
-          "desktop",
-          "display small",
-          "textDecoration"
-        ]
-      },
-      "fontFamily": {
-        "value": "Poppins",
-        "type": "string",
-        "original": {
-          "value": "Poppins",
-          "type": "string"
-        },
-        "name": "DesktopDisplaySmallFontFamily",
-        "attributes": {
-          "category": "desktop",
-          "type": "display small",
-          "item": "fontFamily"
-        },
-        "path": [
-          "desktop",
-          "display small",
-          "fontFamily"
-        ]
-      },
-      "fontWeight": {
-        "value": 400,
-        "type": "number",
-        "original": {
-          "value": 400,
-          "type": "number"
-        },
-        "name": "DesktopDisplaySmallFontWeight",
-        "attributes": {
-          "category": "desktop",
-          "type": "display small",
-          "item": "fontWeight"
-        },
-        "path": [
-          "desktop",
-          "display small",
-          "fontWeight"
-        ]
-      },
-      "fontStyle": {
-        "value": "normal",
-        "type": "string",
-        "original": {
-          "value": "normal",
-          "type": "string"
-        },
-        "name": "DesktopDisplaySmallFontStyle",
-        "attributes": {
-          "category": "desktop",
-          "type": "display small",
-          "item": "fontStyle"
-        },
-        "path": [
-          "desktop",
-          "display small",
-          "fontStyle"
-        ]
-      },
-      "fontStretch": {
-        "value": "normal",
-        "type": "string",
-        "original": {
-          "value": "normal",
-          "type": "string"
-        },
-        "name": "DesktopDisplaySmallFontStretch",
-        "attributes": {
-          "category": "desktop",
-          "type": "display small",
-          "item": "fontStretch"
-        },
-        "path": [
-          "desktop",
-          "display small",
-          "fontStretch"
-        ]
-      },
-      "_fontStyleOld": {
-        "value": "Regular",
-        "type": "string",
-        "original": {
-          "value": "Regular",
-          "type": "string"
-        },
-        "name": "DesktopDisplaySmallFontStyleOld",
-        "attributes": {
-          "category": "desktop",
-          "type": "display small",
-          "item": "_fontStyleOld"
-        },
-        "path": [
-          "desktop",
-          "display small",
-          "_fontStyleOld"
-        ]
-      },
-      "letterSpacing": {
-        "value": 1,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
-          "value": 1,
-          "type": "number",
-          "unit": "pixels"
-        },
-        "name": "DesktopDisplaySmallLetterSpacing",
-        "attributes": {
-          "category": "desktop",
-          "type": "display small",
-          "item": "letterSpacing"
-        },
-        "path": [
-          "desktop",
-          "display small",
-          "letterSpacing"
-        ]
-      },
-      "lineHeight": {
-        "value": 40,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
-          "value": 40,
-          "type": "number",
-          "unit": "pixels"
-        },
-        "name": "DesktopDisplaySmallLineHeight",
-        "attributes": {
-          "category": "desktop",
-          "type": "display small",
-          "item": "lineHeight"
-        },
-        "path": [
-          "desktop",
-          "display small",
-          "lineHeight"
-        ]
-      },
-      "paragraphIndent": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "DesktopDisplaySmallParagraphIndent",
-        "attributes": {
-          "category": "desktop",
-          "type": "display small",
-          "item": "paragraphIndent"
-        },
-        "path": [
-          "desktop",
-          "display small",
-          "paragraphIndent"
-        ]
-      },
-      "paragraphSpacing": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "DesktopDisplaySmallParagraphSpacing",
-        "attributes": {
-          "category": "desktop",
-          "type": "display small",
-          "item": "paragraphSpacing"
-        },
-        "path": [
-          "desktop",
-          "display small",
-          "paragraphSpacing"
-        ]
-      },
-      "textCase": {
-        "value": "none",
-        "type": "string",
-        "original": {
-          "value": "none",
-          "type": "string"
-        },
-        "name": "DesktopDisplaySmallTextCase",
-        "attributes": {
-          "category": "desktop",
-          "type": "display small",
-          "item": "textCase"
-        },
-        "path": [
-          "desktop",
-          "display small",
-          "textCase"
-        ]
-      }
-    },
-    "display x-small": {
-      "category": "font",
-      "fontSize": {
-        "value": 24,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
+    "display": {
+      "display x-small bold": {
+        "category": "font",
+        "fontSize": {
           "value": 24,
           "type": "number",
-          "unit": "pixel"
+          "unit": "pixel",
+          "original": {
+            "value": 24,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "DesktopDisplayDisplayXSmallBoldFontSize",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display x-small bold",
+            "subitem": "fontSize"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display x-small bold",
+            "fontSize"
+          ]
         },
-        "name": "DesktopDisplayXSmallFontSize",
-        "attributes": {
-          "category": "desktop",
-          "type": "display x-small",
-          "item": "fontSize"
-        },
-        "path": [
-          "desktop",
-          "display x-small",
-          "fontSize"
-        ]
-      },
-      "textDecoration": {
-        "value": "none",
-        "type": "string",
-        "original": {
+        "textDecoration": {
           "value": "none",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplayXSmallBoldTextDecoration",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display x-small bold",
+            "subitem": "textDecoration"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display x-small bold",
+            "textDecoration"
+          ]
         },
-        "name": "DesktopDisplayXSmallTextDecoration",
-        "attributes": {
-          "category": "desktop",
-          "type": "display x-small",
-          "item": "textDecoration"
-        },
-        "path": [
-          "desktop",
-          "display x-small",
-          "textDecoration"
-        ]
-      },
-      "fontFamily": {
-        "value": "Poppins",
-        "type": "string",
-        "original": {
+        "fontFamily": {
           "value": "Poppins",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "Poppins",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplayXSmallBoldFontFamily",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display x-small bold",
+            "subitem": "fontFamily"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display x-small bold",
+            "fontFamily"
+          ]
         },
-        "name": "DesktopDisplayXSmallFontFamily",
-        "attributes": {
-          "category": "desktop",
-          "type": "display x-small",
-          "item": "fontFamily"
+        "fontWeight": {
+          "value": 700,
+          "type": "number",
+          "original": {
+            "value": 700,
+            "type": "number"
+          },
+          "name": "DesktopDisplayDisplayXSmallBoldFontWeight",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display x-small bold",
+            "subitem": "fontWeight"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display x-small bold",
+            "fontWeight"
+          ]
         },
-        "path": [
-          "desktop",
-          "display x-small",
-          "fontFamily"
-        ]
-      },
-      "fontWeight": {
-        "value": 400,
-        "type": "number",
-        "original": {
-          "value": 400,
-          "type": "number"
-        },
-        "name": "DesktopDisplayXSmallFontWeight",
-        "attributes": {
-          "category": "desktop",
-          "type": "display x-small",
-          "item": "fontWeight"
-        },
-        "path": [
-          "desktop",
-          "display x-small",
-          "fontWeight"
-        ]
-      },
-      "fontStyle": {
-        "value": "normal",
-        "type": "string",
-        "original": {
+        "fontStyle": {
           "value": "normal",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplayXSmallBoldFontStyle",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display x-small bold",
+            "subitem": "fontStyle"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display x-small bold",
+            "fontStyle"
+          ]
         },
-        "name": "DesktopDisplayXSmallFontStyle",
-        "attributes": {
-          "category": "desktop",
-          "type": "display x-small",
-          "item": "fontStyle"
-        },
-        "path": [
-          "desktop",
-          "display x-small",
-          "fontStyle"
-        ]
-      },
-      "fontStretch": {
-        "value": "normal",
-        "type": "string",
-        "original": {
+        "fontStretch": {
           "value": "normal",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplayXSmallBoldFontStretch",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display x-small bold",
+            "subitem": "fontStretch"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display x-small bold",
+            "fontStretch"
+          ]
         },
-        "name": "DesktopDisplayXSmallFontStretch",
-        "attributes": {
-          "category": "desktop",
-          "type": "display x-small",
-          "item": "fontStretch"
+        "_fontStyleOld": {
+          "value": "Bold",
+          "type": "string",
+          "original": {
+            "value": "Bold",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplayXSmallBoldFontStyleOld",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display x-small bold",
+            "subitem": "_fontStyleOld"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display x-small bold",
+            "_fontStyleOld"
+          ]
         },
-        "path": [
-          "desktop",
-          "display x-small",
-          "fontStretch"
-        ]
-      },
-      "_fontStyleOld": {
-        "value": "Regular",
-        "type": "string",
-        "original": {
-          "value": "Regular",
-          "type": "string"
-        },
-        "name": "DesktopDisplayXSmallFontStyleOld",
-        "attributes": {
-          "category": "desktop",
-          "type": "display x-small",
-          "item": "_fontStyleOld"
-        },
-        "path": [
-          "desktop",
-          "display x-small",
-          "_fontStyleOld"
-        ]
-      },
-      "letterSpacing": {
-        "value": 1,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
+        "letterSpacing": {
           "value": 1,
           "type": "number",
-          "unit": "pixels"
+          "unit": "pixels",
+          "original": {
+            "value": 1,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "DesktopDisplayDisplayXSmallBoldLetterSpacing",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display x-small bold",
+            "subitem": "letterSpacing"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display x-small bold",
+            "letterSpacing"
+          ]
         },
-        "name": "DesktopDisplayXSmallLetterSpacing",
-        "attributes": {
-          "category": "desktop",
-          "type": "display x-small",
-          "item": "letterSpacing"
-        },
-        "path": [
-          "desktop",
-          "display x-small",
-          "letterSpacing"
-        ]
-      },
-      "lineHeight": {
-        "value": 32,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
+        "lineHeight": {
           "value": 32,
           "type": "number",
-          "unit": "pixels"
+          "unit": "pixels",
+          "original": {
+            "value": 32,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "DesktopDisplayDisplayXSmallBoldLineHeight",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display x-small bold",
+            "subitem": "lineHeight"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display x-small bold",
+            "lineHeight"
+          ]
         },
-        "name": "DesktopDisplayXSmallLineHeight",
-        "attributes": {
-          "category": "desktop",
-          "type": "display x-small",
-          "item": "lineHeight"
-        },
-        "path": [
-          "desktop",
-          "display x-small",
-          "lineHeight"
-        ]
-      },
-      "paragraphIndent": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
+        "paragraphIndent": {
           "value": 0,
           "type": "number",
-          "unit": "pixel"
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "DesktopDisplayDisplayXSmallBoldParagraphIndent",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display x-small bold",
+            "subitem": "paragraphIndent"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display x-small bold",
+            "paragraphIndent"
+          ]
         },
-        "name": "DesktopDisplayXSmallParagraphIndent",
-        "attributes": {
-          "category": "desktop",
-          "type": "display x-small",
-          "item": "paragraphIndent"
-        },
-        "path": [
-          "desktop",
-          "display x-small",
-          "paragraphIndent"
-        ]
-      },
-      "paragraphSpacing": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
+        "paragraphSpacing": {
           "value": 0,
           "type": "number",
-          "unit": "pixel"
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "DesktopDisplayDisplayXSmallBoldParagraphSpacing",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display x-small bold",
+            "subitem": "paragraphSpacing"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display x-small bold",
+            "paragraphSpacing"
+          ]
         },
-        "name": "DesktopDisplayXSmallParagraphSpacing",
-        "attributes": {
-          "category": "desktop",
-          "type": "display x-small",
-          "item": "paragraphSpacing"
-        },
-        "path": [
-          "desktop",
-          "display x-small",
-          "paragraphSpacing"
-        ]
-      },
-      "textCase": {
-        "value": "none",
-        "type": "string",
-        "original": {
+        "textCase": {
           "value": "none",
-          "type": "string"
-        },
-        "name": "DesktopDisplayXSmallTextCase",
-        "attributes": {
-          "category": "desktop",
-          "type": "display x-small",
-          "item": "textCase"
-        },
-        "path": [
-          "desktop",
-          "display x-small",
-          "textCase"
-        ]
-      }
-    },
-    "display huge bold": {
-      "category": "font",
-      "fontSize": {
-        "value": 60,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplayXSmallBoldTextCase",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display x-small bold",
+            "subitem": "textCase"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display x-small bold",
+            "textCase"
+          ]
+        }
+      },
+      "display huge": {
+        "category": "font",
+        "fontSize": {
           "value": 60,
           "type": "number",
-          "unit": "pixel"
+          "unit": "pixel",
+          "original": {
+            "value": 60,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "DesktopDisplayDisplayHugeFontSize",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display huge",
+            "subitem": "fontSize"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display huge",
+            "fontSize"
+          ]
         },
-        "name": "DesktopDisplayHugeBoldFontSize",
-        "attributes": {
-          "category": "desktop",
-          "type": "display huge bold",
-          "item": "fontSize"
-        },
-        "path": [
-          "desktop",
-          "display huge bold",
-          "fontSize"
-        ]
-      },
-      "textDecoration": {
-        "value": "none",
-        "type": "string",
-        "original": {
+        "textDecoration": {
           "value": "none",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplayHugeTextDecoration",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display huge",
+            "subitem": "textDecoration"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display huge",
+            "textDecoration"
+          ]
         },
-        "name": "DesktopDisplayHugeBoldTextDecoration",
-        "attributes": {
-          "category": "desktop",
-          "type": "display huge bold",
-          "item": "textDecoration"
-        },
-        "path": [
-          "desktop",
-          "display huge bold",
-          "textDecoration"
-        ]
-      },
-      "fontFamily": {
-        "value": "Poppins",
-        "type": "string",
-        "original": {
+        "fontFamily": {
           "value": "Poppins",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "Poppins",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplayHugeFontFamily",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display huge",
+            "subitem": "fontFamily"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display huge",
+            "fontFamily"
+          ]
         },
-        "name": "DesktopDisplayHugeBoldFontFamily",
-        "attributes": {
-          "category": "desktop",
-          "type": "display huge bold",
-          "item": "fontFamily"
+        "fontWeight": {
+          "value": 400,
+          "type": "number",
+          "original": {
+            "value": 400,
+            "type": "number"
+          },
+          "name": "DesktopDisplayDisplayHugeFontWeight",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display huge",
+            "subitem": "fontWeight"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display huge",
+            "fontWeight"
+          ]
         },
-        "path": [
-          "desktop",
-          "display huge bold",
-          "fontFamily"
-        ]
-      },
-      "fontWeight": {
-        "value": 700,
-        "type": "number",
-        "original": {
-          "value": 700,
-          "type": "number"
-        },
-        "name": "DesktopDisplayHugeBoldFontWeight",
-        "attributes": {
-          "category": "desktop",
-          "type": "display huge bold",
-          "item": "fontWeight"
-        },
-        "path": [
-          "desktop",
-          "display huge bold",
-          "fontWeight"
-        ]
-      },
-      "fontStyle": {
-        "value": "normal",
-        "type": "string",
-        "original": {
+        "fontStyle": {
           "value": "normal",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplayHugeFontStyle",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display huge",
+            "subitem": "fontStyle"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display huge",
+            "fontStyle"
+          ]
         },
-        "name": "DesktopDisplayHugeBoldFontStyle",
-        "attributes": {
-          "category": "desktop",
-          "type": "display huge bold",
-          "item": "fontStyle"
-        },
-        "path": [
-          "desktop",
-          "display huge bold",
-          "fontStyle"
-        ]
-      },
-      "fontStretch": {
-        "value": "normal",
-        "type": "string",
-        "original": {
+        "fontStretch": {
           "value": "normal",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplayHugeFontStretch",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display huge",
+            "subitem": "fontStretch"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display huge",
+            "fontStretch"
+          ]
         },
-        "name": "DesktopDisplayHugeBoldFontStretch",
-        "attributes": {
-          "category": "desktop",
-          "type": "display huge bold",
-          "item": "fontStretch"
+        "_fontStyleOld": {
+          "value": "Regular",
+          "type": "string",
+          "original": {
+            "value": "Regular",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplayHugeFontStyleOld",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display huge",
+            "subitem": "_fontStyleOld"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display huge",
+            "_fontStyleOld"
+          ]
         },
-        "path": [
-          "desktop",
-          "display huge bold",
-          "fontStretch"
-        ]
-      },
-      "_fontStyleOld": {
-        "value": "Bold",
-        "type": "string",
-        "original": {
-          "value": "Bold",
-          "type": "string"
-        },
-        "name": "DesktopDisplayHugeBoldFontStyleOld",
-        "attributes": {
-          "category": "desktop",
-          "type": "display huge bold",
-          "item": "_fontStyleOld"
-        },
-        "path": [
-          "desktop",
-          "display huge bold",
-          "_fontStyleOld"
-        ]
-      },
-      "letterSpacing": {
-        "value": 1,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
+        "letterSpacing": {
           "value": 1,
           "type": "number",
-          "unit": "pixels"
+          "unit": "pixels",
+          "original": {
+            "value": 1,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "DesktopDisplayDisplayHugeLetterSpacing",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display huge",
+            "subitem": "letterSpacing"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display huge",
+            "letterSpacing"
+          ]
         },
-        "name": "DesktopDisplayHugeBoldLetterSpacing",
-        "attributes": {
-          "category": "desktop",
-          "type": "display huge bold",
-          "item": "letterSpacing"
-        },
-        "path": [
-          "desktop",
-          "display huge bold",
-          "letterSpacing"
-        ]
-      },
-      "lineHeight": {
-        "value": 72,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
+        "lineHeight": {
           "value": 72,
           "type": "number",
-          "unit": "pixels"
+          "unit": "pixels",
+          "original": {
+            "value": 72,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "DesktopDisplayDisplayHugeLineHeight",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display huge",
+            "subitem": "lineHeight"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display huge",
+            "lineHeight"
+          ]
         },
-        "name": "DesktopDisplayHugeBoldLineHeight",
-        "attributes": {
-          "category": "desktop",
-          "type": "display huge bold",
-          "item": "lineHeight"
-        },
-        "path": [
-          "desktop",
-          "display huge bold",
-          "lineHeight"
-        ]
-      },
-      "paragraphIndent": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
+        "paragraphIndent": {
           "value": 0,
           "type": "number",
-          "unit": "pixel"
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "DesktopDisplayDisplayHugeParagraphIndent",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display huge",
+            "subitem": "paragraphIndent"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display huge",
+            "paragraphIndent"
+          ]
         },
-        "name": "DesktopDisplayHugeBoldParagraphIndent",
-        "attributes": {
-          "category": "desktop",
-          "type": "display huge bold",
-          "item": "paragraphIndent"
-        },
-        "path": [
-          "desktop",
-          "display huge bold",
-          "paragraphIndent"
-        ]
-      },
-      "paragraphSpacing": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
+        "paragraphSpacing": {
           "value": 0,
           "type": "number",
-          "unit": "pixel"
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "DesktopDisplayDisplayHugeParagraphSpacing",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display huge",
+            "subitem": "paragraphSpacing"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display huge",
+            "paragraphSpacing"
+          ]
         },
-        "name": "DesktopDisplayHugeBoldParagraphSpacing",
-        "attributes": {
-          "category": "desktop",
-          "type": "display huge bold",
-          "item": "paragraphSpacing"
-        },
-        "path": [
-          "desktop",
-          "display huge bold",
-          "paragraphSpacing"
-        ]
-      },
-      "textCase": {
-        "value": "none",
-        "type": "string",
-        "original": {
+        "textCase": {
           "value": "none",
-          "type": "string"
-        },
-        "name": "DesktopDisplayHugeBoldTextCase",
-        "attributes": {
-          "category": "desktop",
-          "type": "display huge bold",
-          "item": "textCase"
-        },
-        "path": [
-          "desktop",
-          "display huge bold",
-          "textCase"
-        ]
-      }
-    },
-    "display large bold": {
-      "category": "font",
-      "fontSize": {
-        "value": 50,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplayHugeTextCase",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display huge",
+            "subitem": "textCase"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display huge",
+            "textCase"
+          ]
+        }
+      },
+      "display large": {
+        "category": "font",
+        "fontSize": {
           "value": 50,
           "type": "number",
-          "unit": "pixel"
+          "unit": "pixel",
+          "original": {
+            "value": 50,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "DesktopDisplayDisplayLargeFontSize",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display large",
+            "subitem": "fontSize"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display large",
+            "fontSize"
+          ]
         },
-        "name": "DesktopDisplayLargeBoldFontSize",
-        "attributes": {
-          "category": "desktop",
-          "type": "display large bold",
-          "item": "fontSize"
-        },
-        "path": [
-          "desktop",
-          "display large bold",
-          "fontSize"
-        ]
-      },
-      "textDecoration": {
-        "value": "none",
-        "type": "string",
-        "original": {
+        "textDecoration": {
           "value": "none",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplayLargeTextDecoration",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display large",
+            "subitem": "textDecoration"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display large",
+            "textDecoration"
+          ]
         },
-        "name": "DesktopDisplayLargeBoldTextDecoration",
-        "attributes": {
-          "category": "desktop",
-          "type": "display large bold",
-          "item": "textDecoration"
-        },
-        "path": [
-          "desktop",
-          "display large bold",
-          "textDecoration"
-        ]
-      },
-      "fontFamily": {
-        "value": "Poppins",
-        "type": "string",
-        "original": {
+        "fontFamily": {
           "value": "Poppins",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "Poppins",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplayLargeFontFamily",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display large",
+            "subitem": "fontFamily"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display large",
+            "fontFamily"
+          ]
         },
-        "name": "DesktopDisplayLargeBoldFontFamily",
-        "attributes": {
-          "category": "desktop",
-          "type": "display large bold",
-          "item": "fontFamily"
+        "fontWeight": {
+          "value": 400,
+          "type": "number",
+          "original": {
+            "value": 400,
+            "type": "number"
+          },
+          "name": "DesktopDisplayDisplayLargeFontWeight",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display large",
+            "subitem": "fontWeight"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display large",
+            "fontWeight"
+          ]
         },
-        "path": [
-          "desktop",
-          "display large bold",
-          "fontFamily"
-        ]
-      },
-      "fontWeight": {
-        "value": 700,
-        "type": "number",
-        "original": {
-          "value": 700,
-          "type": "number"
-        },
-        "name": "DesktopDisplayLargeBoldFontWeight",
-        "attributes": {
-          "category": "desktop",
-          "type": "display large bold",
-          "item": "fontWeight"
-        },
-        "path": [
-          "desktop",
-          "display large bold",
-          "fontWeight"
-        ]
-      },
-      "fontStyle": {
-        "value": "normal",
-        "type": "string",
-        "original": {
+        "fontStyle": {
           "value": "normal",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplayLargeFontStyle",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display large",
+            "subitem": "fontStyle"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display large",
+            "fontStyle"
+          ]
         },
-        "name": "DesktopDisplayLargeBoldFontStyle",
-        "attributes": {
-          "category": "desktop",
-          "type": "display large bold",
-          "item": "fontStyle"
-        },
-        "path": [
-          "desktop",
-          "display large bold",
-          "fontStyle"
-        ]
-      },
-      "fontStretch": {
-        "value": "normal",
-        "type": "string",
-        "original": {
+        "fontStretch": {
           "value": "normal",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplayLargeFontStretch",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display large",
+            "subitem": "fontStretch"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display large",
+            "fontStretch"
+          ]
         },
-        "name": "DesktopDisplayLargeBoldFontStretch",
-        "attributes": {
-          "category": "desktop",
-          "type": "display large bold",
-          "item": "fontStretch"
+        "_fontStyleOld": {
+          "value": "Regular",
+          "type": "string",
+          "original": {
+            "value": "Regular",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplayLargeFontStyleOld",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display large",
+            "subitem": "_fontStyleOld"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display large",
+            "_fontStyleOld"
+          ]
         },
-        "path": [
-          "desktop",
-          "display large bold",
-          "fontStretch"
-        ]
-      },
-      "_fontStyleOld": {
-        "value": "Bold",
-        "type": "string",
-        "original": {
-          "value": "Bold",
-          "type": "string"
-        },
-        "name": "DesktopDisplayLargeBoldFontStyleOld",
-        "attributes": {
-          "category": "desktop",
-          "type": "display large bold",
-          "item": "_fontStyleOld"
-        },
-        "path": [
-          "desktop",
-          "display large bold",
-          "_fontStyleOld"
-        ]
-      },
-      "letterSpacing": {
-        "value": 1,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
+        "letterSpacing": {
           "value": 1,
           "type": "number",
-          "unit": "pixels"
+          "unit": "pixels",
+          "original": {
+            "value": 1,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "DesktopDisplayDisplayLargeLetterSpacing",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display large",
+            "subitem": "letterSpacing"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display large",
+            "letterSpacing"
+          ]
         },
-        "name": "DesktopDisplayLargeBoldLetterSpacing",
-        "attributes": {
-          "category": "desktop",
-          "type": "display large bold",
-          "item": "letterSpacing"
-        },
-        "path": [
-          "desktop",
-          "display large bold",
-          "letterSpacing"
-        ]
-      },
-      "lineHeight": {
-        "value": 64,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
+        "lineHeight": {
           "value": 64,
           "type": "number",
-          "unit": "pixels"
+          "unit": "pixels",
+          "original": {
+            "value": 64,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "DesktopDisplayDisplayLargeLineHeight",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display large",
+            "subitem": "lineHeight"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display large",
+            "lineHeight"
+          ]
         },
-        "name": "DesktopDisplayLargeBoldLineHeight",
-        "attributes": {
-          "category": "desktop",
-          "type": "display large bold",
-          "item": "lineHeight"
-        },
-        "path": [
-          "desktop",
-          "display large bold",
-          "lineHeight"
-        ]
-      },
-      "paragraphIndent": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
+        "paragraphIndent": {
           "value": 0,
           "type": "number",
-          "unit": "pixel"
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "DesktopDisplayDisplayLargeParagraphIndent",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display large",
+            "subitem": "paragraphIndent"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display large",
+            "paragraphIndent"
+          ]
         },
-        "name": "DesktopDisplayLargeBoldParagraphIndent",
-        "attributes": {
-          "category": "desktop",
-          "type": "display large bold",
-          "item": "paragraphIndent"
-        },
-        "path": [
-          "desktop",
-          "display large bold",
-          "paragraphIndent"
-        ]
-      },
-      "paragraphSpacing": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
+        "paragraphSpacing": {
           "value": 0,
           "type": "number",
-          "unit": "pixel"
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "DesktopDisplayDisplayLargeParagraphSpacing",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display large",
+            "subitem": "paragraphSpacing"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display large",
+            "paragraphSpacing"
+          ]
         },
-        "name": "DesktopDisplayLargeBoldParagraphSpacing",
-        "attributes": {
-          "category": "desktop",
-          "type": "display large bold",
-          "item": "paragraphSpacing"
-        },
-        "path": [
-          "desktop",
-          "display large bold",
-          "paragraphSpacing"
-        ]
-      },
-      "textCase": {
-        "value": "none",
-        "type": "string",
-        "original": {
+        "textCase": {
           "value": "none",
-          "type": "string"
-        },
-        "name": "DesktopDisplayLargeBoldTextCase",
-        "attributes": {
-          "category": "desktop",
-          "type": "display large bold",
-          "item": "textCase"
-        },
-        "path": [
-          "desktop",
-          "display large bold",
-          "textCase"
-        ]
-      }
-    },
-    "display medium bold": {
-      "category": "font",
-      "fontSize": {
-        "value": 40,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplayLargeTextCase",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display large",
+            "subitem": "textCase"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display large",
+            "textCase"
+          ]
+        }
+      },
+      "display medium": {
+        "category": "font",
+        "fontSize": {
           "value": 40,
           "type": "number",
-          "unit": "pixel"
+          "unit": "pixel",
+          "original": {
+            "value": 40,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "DesktopDisplayDisplayMediumFontSize",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display medium",
+            "subitem": "fontSize"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display medium",
+            "fontSize"
+          ]
         },
-        "name": "DesktopDisplayMediumBoldFontSize",
-        "attributes": {
-          "category": "desktop",
-          "type": "display medium bold",
-          "item": "fontSize"
-        },
-        "path": [
-          "desktop",
-          "display medium bold",
-          "fontSize"
-        ]
-      },
-      "textDecoration": {
-        "value": "none",
-        "type": "string",
-        "original": {
+        "textDecoration": {
           "value": "none",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplayMediumTextDecoration",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display medium",
+            "subitem": "textDecoration"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display medium",
+            "textDecoration"
+          ]
         },
-        "name": "DesktopDisplayMediumBoldTextDecoration",
-        "attributes": {
-          "category": "desktop",
-          "type": "display medium bold",
-          "item": "textDecoration"
-        },
-        "path": [
-          "desktop",
-          "display medium bold",
-          "textDecoration"
-        ]
-      },
-      "fontFamily": {
-        "value": "Poppins",
-        "type": "string",
-        "original": {
+        "fontFamily": {
           "value": "Poppins",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "Poppins",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplayMediumFontFamily",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display medium",
+            "subitem": "fontFamily"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display medium",
+            "fontFamily"
+          ]
         },
-        "name": "DesktopDisplayMediumBoldFontFamily",
-        "attributes": {
-          "category": "desktop",
-          "type": "display medium bold",
-          "item": "fontFamily"
+        "fontWeight": {
+          "value": 400,
+          "type": "number",
+          "original": {
+            "value": 400,
+            "type": "number"
+          },
+          "name": "DesktopDisplayDisplayMediumFontWeight",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display medium",
+            "subitem": "fontWeight"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display medium",
+            "fontWeight"
+          ]
         },
-        "path": [
-          "desktop",
-          "display medium bold",
-          "fontFamily"
-        ]
-      },
-      "fontWeight": {
-        "value": 700,
-        "type": "number",
-        "original": {
-          "value": 700,
-          "type": "number"
-        },
-        "name": "DesktopDisplayMediumBoldFontWeight",
-        "attributes": {
-          "category": "desktop",
-          "type": "display medium bold",
-          "item": "fontWeight"
-        },
-        "path": [
-          "desktop",
-          "display medium bold",
-          "fontWeight"
-        ]
-      },
-      "fontStyle": {
-        "value": "normal",
-        "type": "string",
-        "original": {
+        "fontStyle": {
           "value": "normal",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplayMediumFontStyle",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display medium",
+            "subitem": "fontStyle"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display medium",
+            "fontStyle"
+          ]
         },
-        "name": "DesktopDisplayMediumBoldFontStyle",
-        "attributes": {
-          "category": "desktop",
-          "type": "display medium bold",
-          "item": "fontStyle"
-        },
-        "path": [
-          "desktop",
-          "display medium bold",
-          "fontStyle"
-        ]
-      },
-      "fontStretch": {
-        "value": "normal",
-        "type": "string",
-        "original": {
+        "fontStretch": {
           "value": "normal",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplayMediumFontStretch",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display medium",
+            "subitem": "fontStretch"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display medium",
+            "fontStretch"
+          ]
         },
-        "name": "DesktopDisplayMediumBoldFontStretch",
-        "attributes": {
-          "category": "desktop",
-          "type": "display medium bold",
-          "item": "fontStretch"
+        "_fontStyleOld": {
+          "value": "Regular",
+          "type": "string",
+          "original": {
+            "value": "Regular",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplayMediumFontStyleOld",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display medium",
+            "subitem": "_fontStyleOld"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display medium",
+            "_fontStyleOld"
+          ]
         },
-        "path": [
-          "desktop",
-          "display medium bold",
-          "fontStretch"
-        ]
-      },
-      "_fontStyleOld": {
-        "value": "Bold",
-        "type": "string",
-        "original": {
-          "value": "Bold",
-          "type": "string"
-        },
-        "name": "DesktopDisplayMediumBoldFontStyleOld",
-        "attributes": {
-          "category": "desktop",
-          "type": "display medium bold",
-          "item": "_fontStyleOld"
-        },
-        "path": [
-          "desktop",
-          "display medium bold",
-          "_fontStyleOld"
-        ]
-      },
-      "letterSpacing": {
-        "value": 1,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
+        "letterSpacing": {
           "value": 1,
           "type": "number",
-          "unit": "pixels"
+          "unit": "pixels",
+          "original": {
+            "value": 1,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "DesktopDisplayDisplayMediumLetterSpacing",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display medium",
+            "subitem": "letterSpacing"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display medium",
+            "letterSpacing"
+          ]
         },
-        "name": "DesktopDisplayMediumBoldLetterSpacing",
-        "attributes": {
-          "category": "desktop",
-          "type": "display medium bold",
-          "item": "letterSpacing"
-        },
-        "path": [
-          "desktop",
-          "display medium bold",
-          "letterSpacing"
-        ]
-      },
-      "lineHeight": {
-        "value": 56,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
+        "lineHeight": {
           "value": 56,
           "type": "number",
-          "unit": "pixels"
+          "unit": "pixels",
+          "original": {
+            "value": 56,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "DesktopDisplayDisplayMediumLineHeight",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display medium",
+            "subitem": "lineHeight"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display medium",
+            "lineHeight"
+          ]
         },
-        "name": "DesktopDisplayMediumBoldLineHeight",
-        "attributes": {
-          "category": "desktop",
-          "type": "display medium bold",
-          "item": "lineHeight"
-        },
-        "path": [
-          "desktop",
-          "display medium bold",
-          "lineHeight"
-        ]
-      },
-      "paragraphIndent": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
+        "paragraphIndent": {
           "value": 0,
           "type": "number",
-          "unit": "pixel"
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "DesktopDisplayDisplayMediumParagraphIndent",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display medium",
+            "subitem": "paragraphIndent"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display medium",
+            "paragraphIndent"
+          ]
         },
-        "name": "DesktopDisplayMediumBoldParagraphIndent",
-        "attributes": {
-          "category": "desktop",
-          "type": "display medium bold",
-          "item": "paragraphIndent"
-        },
-        "path": [
-          "desktop",
-          "display medium bold",
-          "paragraphIndent"
-        ]
-      },
-      "paragraphSpacing": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
+        "paragraphSpacing": {
           "value": 0,
           "type": "number",
-          "unit": "pixel"
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "DesktopDisplayDisplayMediumParagraphSpacing",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display medium",
+            "subitem": "paragraphSpacing"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display medium",
+            "paragraphSpacing"
+          ]
         },
-        "name": "DesktopDisplayMediumBoldParagraphSpacing",
-        "attributes": {
-          "category": "desktop",
-          "type": "display medium bold",
-          "item": "paragraphSpacing"
-        },
-        "path": [
-          "desktop",
-          "display medium bold",
-          "paragraphSpacing"
-        ]
-      },
-      "textCase": {
-        "value": "none",
-        "type": "string",
-        "original": {
+        "textCase": {
           "value": "none",
-          "type": "string"
-        },
-        "name": "DesktopDisplayMediumBoldTextCase",
-        "attributes": {
-          "category": "desktop",
-          "type": "display medium bold",
-          "item": "textCase"
-        },
-        "path": [
-          "desktop",
-          "display medium bold",
-          "textCase"
-        ]
-      }
-    },
-    "display small bold": {
-      "category": "font",
-      "fontSize": {
-        "value": 33,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplayMediumTextCase",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display medium",
+            "subitem": "textCase"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display medium",
+            "textCase"
+          ]
+        }
+      },
+      "display small": {
+        "category": "font",
+        "fontSize": {
           "value": 33,
           "type": "number",
-          "unit": "pixel"
+          "unit": "pixel",
+          "original": {
+            "value": 33,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "DesktopDisplayDisplaySmallFontSize",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display small",
+            "subitem": "fontSize"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display small",
+            "fontSize"
+          ]
         },
-        "name": "DesktopDisplaySmallBoldFontSize",
-        "attributes": {
-          "category": "desktop",
-          "type": "display small bold",
-          "item": "fontSize"
-        },
-        "path": [
-          "desktop",
-          "display small bold",
-          "fontSize"
-        ]
-      },
-      "textDecoration": {
-        "value": "none",
-        "type": "string",
-        "original": {
+        "textDecoration": {
           "value": "none",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplaySmallTextDecoration",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display small",
+            "subitem": "textDecoration"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display small",
+            "textDecoration"
+          ]
         },
-        "name": "DesktopDisplaySmallBoldTextDecoration",
-        "attributes": {
-          "category": "desktop",
-          "type": "display small bold",
-          "item": "textDecoration"
-        },
-        "path": [
-          "desktop",
-          "display small bold",
-          "textDecoration"
-        ]
-      },
-      "fontFamily": {
-        "value": "Poppins",
-        "type": "string",
-        "original": {
+        "fontFamily": {
           "value": "Poppins",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "Poppins",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplaySmallFontFamily",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display small",
+            "subitem": "fontFamily"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display small",
+            "fontFamily"
+          ]
         },
-        "name": "DesktopDisplaySmallBoldFontFamily",
-        "attributes": {
-          "category": "desktop",
-          "type": "display small bold",
-          "item": "fontFamily"
+        "fontWeight": {
+          "value": 400,
+          "type": "number",
+          "original": {
+            "value": 400,
+            "type": "number"
+          },
+          "name": "DesktopDisplayDisplaySmallFontWeight",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display small",
+            "subitem": "fontWeight"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display small",
+            "fontWeight"
+          ]
         },
-        "path": [
-          "desktop",
-          "display small bold",
-          "fontFamily"
-        ]
-      },
-      "fontWeight": {
-        "value": 700,
-        "type": "number",
-        "original": {
-          "value": 700,
-          "type": "number"
-        },
-        "name": "DesktopDisplaySmallBoldFontWeight",
-        "attributes": {
-          "category": "desktop",
-          "type": "display small bold",
-          "item": "fontWeight"
-        },
-        "path": [
-          "desktop",
-          "display small bold",
-          "fontWeight"
-        ]
-      },
-      "fontStyle": {
-        "value": "normal",
-        "type": "string",
-        "original": {
+        "fontStyle": {
           "value": "normal",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplaySmallFontStyle",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display small",
+            "subitem": "fontStyle"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display small",
+            "fontStyle"
+          ]
         },
-        "name": "DesktopDisplaySmallBoldFontStyle",
-        "attributes": {
-          "category": "desktop",
-          "type": "display small bold",
-          "item": "fontStyle"
-        },
-        "path": [
-          "desktop",
-          "display small bold",
-          "fontStyle"
-        ]
-      },
-      "fontStretch": {
-        "value": "normal",
-        "type": "string",
-        "original": {
+        "fontStretch": {
           "value": "normal",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplaySmallFontStretch",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display small",
+            "subitem": "fontStretch"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display small",
+            "fontStretch"
+          ]
         },
-        "name": "DesktopDisplaySmallBoldFontStretch",
-        "attributes": {
-          "category": "desktop",
-          "type": "display small bold",
-          "item": "fontStretch"
+        "_fontStyleOld": {
+          "value": "Regular",
+          "type": "string",
+          "original": {
+            "value": "Regular",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplaySmallFontStyleOld",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display small",
+            "subitem": "_fontStyleOld"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display small",
+            "_fontStyleOld"
+          ]
         },
-        "path": [
-          "desktop",
-          "display small bold",
-          "fontStretch"
-        ]
-      },
-      "_fontStyleOld": {
-        "value": "Bold",
-        "type": "string",
-        "original": {
-          "value": "Bold",
-          "type": "string"
-        },
-        "name": "DesktopDisplaySmallBoldFontStyleOld",
-        "attributes": {
-          "category": "desktop",
-          "type": "display small bold",
-          "item": "_fontStyleOld"
-        },
-        "path": [
-          "desktop",
-          "display small bold",
-          "_fontStyleOld"
-        ]
-      },
-      "letterSpacing": {
-        "value": 1,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
+        "letterSpacing": {
           "value": 1,
           "type": "number",
-          "unit": "pixels"
+          "unit": "pixels",
+          "original": {
+            "value": 1,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "DesktopDisplayDisplaySmallLetterSpacing",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display small",
+            "subitem": "letterSpacing"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display small",
+            "letterSpacing"
+          ]
         },
-        "name": "DesktopDisplaySmallBoldLetterSpacing",
-        "attributes": {
-          "category": "desktop",
-          "type": "display small bold",
-          "item": "letterSpacing"
-        },
-        "path": [
-          "desktop",
-          "display small bold",
-          "letterSpacing"
-        ]
-      },
-      "lineHeight": {
-        "value": 40,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
+        "lineHeight": {
           "value": 40,
           "type": "number",
-          "unit": "pixels"
+          "unit": "pixels",
+          "original": {
+            "value": 40,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "DesktopDisplayDisplaySmallLineHeight",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display small",
+            "subitem": "lineHeight"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display small",
+            "lineHeight"
+          ]
         },
-        "name": "DesktopDisplaySmallBoldLineHeight",
-        "attributes": {
-          "category": "desktop",
-          "type": "display small bold",
-          "item": "lineHeight"
-        },
-        "path": [
-          "desktop",
-          "display small bold",
-          "lineHeight"
-        ]
-      },
-      "paragraphIndent": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
+        "paragraphIndent": {
           "value": 0,
           "type": "number",
-          "unit": "pixel"
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "DesktopDisplayDisplaySmallParagraphIndent",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display small",
+            "subitem": "paragraphIndent"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display small",
+            "paragraphIndent"
+          ]
         },
-        "name": "DesktopDisplaySmallBoldParagraphIndent",
-        "attributes": {
-          "category": "desktop",
-          "type": "display small bold",
-          "item": "paragraphIndent"
-        },
-        "path": [
-          "desktop",
-          "display small bold",
-          "paragraphIndent"
-        ]
-      },
-      "paragraphSpacing": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
+        "paragraphSpacing": {
           "value": 0,
           "type": "number",
-          "unit": "pixel"
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "DesktopDisplayDisplaySmallParagraphSpacing",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display small",
+            "subitem": "paragraphSpacing"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display small",
+            "paragraphSpacing"
+          ]
         },
-        "name": "DesktopDisplaySmallBoldParagraphSpacing",
-        "attributes": {
-          "category": "desktop",
-          "type": "display small bold",
-          "item": "paragraphSpacing"
-        },
-        "path": [
-          "desktop",
-          "display small bold",
-          "paragraphSpacing"
-        ]
-      },
-      "textCase": {
-        "value": "none",
-        "type": "string",
-        "original": {
+        "textCase": {
           "value": "none",
-          "type": "string"
-        },
-        "name": "DesktopDisplaySmallBoldTextCase",
-        "attributes": {
-          "category": "desktop",
-          "type": "display small bold",
-          "item": "textCase"
-        },
-        "path": [
-          "desktop",
-          "display small bold",
-          "textCase"
-        ]
-      }
-    },
-    "display x-small bold": {
-      "category": "font",
-      "fontSize": {
-        "value": 24,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplaySmallTextCase",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display small",
+            "subitem": "textCase"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display small",
+            "textCase"
+          ]
+        }
+      },
+      "display x-small": {
+        "category": "font",
+        "fontSize": {
           "value": 24,
           "type": "number",
-          "unit": "pixel"
+          "unit": "pixel",
+          "original": {
+            "value": 24,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "DesktopDisplayDisplayXSmallFontSize",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display x-small",
+            "subitem": "fontSize"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display x-small",
+            "fontSize"
+          ]
         },
-        "name": "DesktopDisplayXSmallBoldFontSize",
-        "attributes": {
-          "category": "desktop",
-          "type": "display x-small bold",
-          "item": "fontSize"
-        },
-        "path": [
-          "desktop",
-          "display x-small bold",
-          "fontSize"
-        ]
-      },
-      "textDecoration": {
-        "value": "none",
-        "type": "string",
-        "original": {
+        "textDecoration": {
           "value": "none",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplayXSmallTextDecoration",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display x-small",
+            "subitem": "textDecoration"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display x-small",
+            "textDecoration"
+          ]
         },
-        "name": "DesktopDisplayXSmallBoldTextDecoration",
-        "attributes": {
-          "category": "desktop",
-          "type": "display x-small bold",
-          "item": "textDecoration"
-        },
-        "path": [
-          "desktop",
-          "display x-small bold",
-          "textDecoration"
-        ]
-      },
-      "fontFamily": {
-        "value": "Poppins",
-        "type": "string",
-        "original": {
+        "fontFamily": {
           "value": "Poppins",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "Poppins",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplayXSmallFontFamily",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display x-small",
+            "subitem": "fontFamily"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display x-small",
+            "fontFamily"
+          ]
         },
-        "name": "DesktopDisplayXSmallBoldFontFamily",
-        "attributes": {
-          "category": "desktop",
-          "type": "display x-small bold",
-          "item": "fontFamily"
+        "fontWeight": {
+          "value": 400,
+          "type": "number",
+          "original": {
+            "value": 400,
+            "type": "number"
+          },
+          "name": "DesktopDisplayDisplayXSmallFontWeight",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display x-small",
+            "subitem": "fontWeight"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display x-small",
+            "fontWeight"
+          ]
         },
-        "path": [
-          "desktop",
-          "display x-small bold",
-          "fontFamily"
-        ]
-      },
-      "fontWeight": {
-        "value": 700,
-        "type": "number",
-        "original": {
-          "value": 700,
-          "type": "number"
-        },
-        "name": "DesktopDisplayXSmallBoldFontWeight",
-        "attributes": {
-          "category": "desktop",
-          "type": "display x-small bold",
-          "item": "fontWeight"
-        },
-        "path": [
-          "desktop",
-          "display x-small bold",
-          "fontWeight"
-        ]
-      },
-      "fontStyle": {
-        "value": "normal",
-        "type": "string",
-        "original": {
+        "fontStyle": {
           "value": "normal",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplayXSmallFontStyle",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display x-small",
+            "subitem": "fontStyle"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display x-small",
+            "fontStyle"
+          ]
         },
-        "name": "DesktopDisplayXSmallBoldFontStyle",
-        "attributes": {
-          "category": "desktop",
-          "type": "display x-small bold",
-          "item": "fontStyle"
-        },
-        "path": [
-          "desktop",
-          "display x-small bold",
-          "fontStyle"
-        ]
-      },
-      "fontStretch": {
-        "value": "normal",
-        "type": "string",
-        "original": {
+        "fontStretch": {
           "value": "normal",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplayXSmallFontStretch",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display x-small",
+            "subitem": "fontStretch"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display x-small",
+            "fontStretch"
+          ]
         },
-        "name": "DesktopDisplayXSmallBoldFontStretch",
-        "attributes": {
-          "category": "desktop",
-          "type": "display x-small bold",
-          "item": "fontStretch"
+        "_fontStyleOld": {
+          "value": "Regular",
+          "type": "string",
+          "original": {
+            "value": "Regular",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplayXSmallFontStyleOld",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display x-small",
+            "subitem": "_fontStyleOld"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display x-small",
+            "_fontStyleOld"
+          ]
         },
-        "path": [
-          "desktop",
-          "display x-small bold",
-          "fontStretch"
-        ]
-      },
-      "_fontStyleOld": {
-        "value": "Bold",
-        "type": "string",
-        "original": {
-          "value": "Bold",
-          "type": "string"
-        },
-        "name": "DesktopDisplayXSmallBoldFontStyleOld",
-        "attributes": {
-          "category": "desktop",
-          "type": "display x-small bold",
-          "item": "_fontStyleOld"
-        },
-        "path": [
-          "desktop",
-          "display x-small bold",
-          "_fontStyleOld"
-        ]
-      },
-      "letterSpacing": {
-        "value": 1,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
+        "letterSpacing": {
           "value": 1,
           "type": "number",
-          "unit": "pixels"
+          "unit": "pixels",
+          "original": {
+            "value": 1,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "DesktopDisplayDisplayXSmallLetterSpacing",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display x-small",
+            "subitem": "letterSpacing"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display x-small",
+            "letterSpacing"
+          ]
         },
-        "name": "DesktopDisplayXSmallBoldLetterSpacing",
-        "attributes": {
-          "category": "desktop",
-          "type": "display x-small bold",
-          "item": "letterSpacing"
-        },
-        "path": [
-          "desktop",
-          "display x-small bold",
-          "letterSpacing"
-        ]
-      },
-      "lineHeight": {
-        "value": 32,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
+        "lineHeight": {
           "value": 32,
           "type": "number",
-          "unit": "pixels"
+          "unit": "pixels",
+          "original": {
+            "value": 32,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "DesktopDisplayDisplayXSmallLineHeight",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display x-small",
+            "subitem": "lineHeight"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display x-small",
+            "lineHeight"
+          ]
         },
-        "name": "DesktopDisplayXSmallBoldLineHeight",
-        "attributes": {
-          "category": "desktop",
-          "type": "display x-small bold",
-          "item": "lineHeight"
-        },
-        "path": [
-          "desktop",
-          "display x-small bold",
-          "lineHeight"
-        ]
-      },
-      "paragraphIndent": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
+        "paragraphIndent": {
           "value": 0,
           "type": "number",
-          "unit": "pixel"
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "DesktopDisplayDisplayXSmallParagraphIndent",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display x-small",
+            "subitem": "paragraphIndent"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display x-small",
+            "paragraphIndent"
+          ]
         },
-        "name": "DesktopDisplayXSmallBoldParagraphIndent",
-        "attributes": {
-          "category": "desktop",
-          "type": "display x-small bold",
-          "item": "paragraphIndent"
-        },
-        "path": [
-          "desktop",
-          "display x-small bold",
-          "paragraphIndent"
-        ]
-      },
-      "paragraphSpacing": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
+        "paragraphSpacing": {
           "value": 0,
           "type": "number",
-          "unit": "pixel"
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "DesktopDisplayDisplayXSmallParagraphSpacing",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display x-small",
+            "subitem": "paragraphSpacing"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display x-small",
+            "paragraphSpacing"
+          ]
         },
-        "name": "DesktopDisplayXSmallBoldParagraphSpacing",
-        "attributes": {
-          "category": "desktop",
-          "type": "display x-small bold",
-          "item": "paragraphSpacing"
-        },
-        "path": [
-          "desktop",
-          "display x-small bold",
-          "paragraphSpacing"
-        ]
-      },
-      "textCase": {
-        "value": "none",
-        "type": "string",
-        "original": {
+        "textCase": {
           "value": "none",
-          "type": "string"
-        },
-        "name": "DesktopDisplayXSmallBoldTextCase",
-        "attributes": {
-          "category": "desktop",
-          "type": "display x-small bold",
-          "item": "textCase"
-        },
-        "path": [
-          "desktop",
-          "display x-small bold",
-          "textCase"
-        ]
-      }
-    },
-    "body text large": {
-      "category": "font",
-      "fontSize": {
-        "value": 20,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 20,
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplayXSmallTextCase",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display x-small",
+            "subitem": "textCase"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display x-small",
+            "textCase"
+          ]
+        }
+      },
+      "display huge bold": {
+        "category": "font",
+        "fontSize": {
+          "value": 60,
           "type": "number",
-          "unit": "pixel"
+          "unit": "pixel",
+          "original": {
+            "value": 60,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "DesktopDisplayDisplayHugeBoldFontSize",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display huge bold",
+            "subitem": "fontSize"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display huge bold",
+            "fontSize"
+          ]
         },
-        "name": "DesktopBodyTextLargeFontSize",
-        "attributes": {
-          "category": "desktop",
-          "type": "body text large",
-          "item": "fontSize"
-        },
-        "path": [
-          "desktop",
-          "body text large",
-          "fontSize"
-        ]
-      },
-      "textDecoration": {
-        "value": "none",
-        "type": "string",
-        "original": {
+        "textDecoration": {
           "value": "none",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplayHugeBoldTextDecoration",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display huge bold",
+            "subitem": "textDecoration"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display huge bold",
+            "textDecoration"
+          ]
         },
-        "name": "DesktopBodyTextLargeTextDecoration",
-        "attributes": {
-          "category": "desktop",
-          "type": "body text large",
-          "item": "textDecoration"
-        },
-        "path": [
-          "desktop",
-          "body text large",
-          "textDecoration"
-        ]
-      },
-      "fontFamily": {
-        "value": "Poppins",
-        "type": "string",
-        "original": {
+        "fontFamily": {
           "value": "Poppins",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "Poppins",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplayHugeBoldFontFamily",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display huge bold",
+            "subitem": "fontFamily"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display huge bold",
+            "fontFamily"
+          ]
         },
-        "name": "DesktopBodyTextLargeFontFamily",
-        "attributes": {
-          "category": "desktop",
-          "type": "body text large",
-          "item": "fontFamily"
-        },
-        "path": [
-          "desktop",
-          "body text large",
-          "fontFamily"
-        ]
-      },
-      "fontWeight": {
-        "value": 700,
-        "type": "number",
-        "original": {
+        "fontWeight": {
           "value": 700,
-          "type": "number"
+          "type": "number",
+          "original": {
+            "value": 700,
+            "type": "number"
+          },
+          "name": "DesktopDisplayDisplayHugeBoldFontWeight",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display huge bold",
+            "subitem": "fontWeight"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display huge bold",
+            "fontWeight"
+          ]
         },
-        "name": "DesktopBodyTextLargeFontWeight",
-        "attributes": {
-          "category": "desktop",
-          "type": "body text large",
-          "item": "fontWeight"
-        },
-        "path": [
-          "desktop",
-          "body text large",
-          "fontWeight"
-        ]
-      },
-      "fontStyle": {
-        "value": "normal",
-        "type": "string",
-        "original": {
+        "fontStyle": {
           "value": "normal",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplayHugeBoldFontStyle",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display huge bold",
+            "subitem": "fontStyle"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display huge bold",
+            "fontStyle"
+          ]
         },
-        "name": "DesktopBodyTextLargeFontStyle",
-        "attributes": {
-          "category": "desktop",
-          "type": "body text large",
-          "item": "fontStyle"
-        },
-        "path": [
-          "desktop",
-          "body text large",
-          "fontStyle"
-        ]
-      },
-      "fontStretch": {
-        "value": "normal",
-        "type": "string",
-        "original": {
+        "fontStretch": {
           "value": "normal",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplayHugeBoldFontStretch",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display huge bold",
+            "subitem": "fontStretch"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display huge bold",
+            "fontStretch"
+          ]
         },
-        "name": "DesktopBodyTextLargeFontStretch",
-        "attributes": {
-          "category": "desktop",
-          "type": "body text large",
-          "item": "fontStretch"
-        },
-        "path": [
-          "desktop",
-          "body text large",
-          "fontStretch"
-        ]
-      },
-      "_fontStyleOld": {
-        "value": "Bold",
-        "type": "string",
-        "original": {
+        "_fontStyleOld": {
           "value": "Bold",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "Bold",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplayHugeBoldFontStyleOld",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display huge bold",
+            "subitem": "_fontStyleOld"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display huge bold",
+            "_fontStyleOld"
+          ]
         },
-        "name": "DesktopBodyTextLargeFontStyleOld",
-        "attributes": {
-          "category": "desktop",
-          "type": "body text large",
-          "item": "_fontStyleOld"
-        },
-        "path": [
-          "desktop",
-          "body text large",
-          "_fontStyleOld"
-        ]
-      },
-      "letterSpacing": {
-        "value": 0.75,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
-          "value": 0.75,
+        "letterSpacing": {
+          "value": 1,
           "type": "number",
-          "unit": "pixels"
+          "unit": "pixels",
+          "original": {
+            "value": 1,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "DesktopDisplayDisplayHugeBoldLetterSpacing",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display huge bold",
+            "subitem": "letterSpacing"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display huge bold",
+            "letterSpacing"
+          ]
         },
-        "name": "DesktopBodyTextLargeLetterSpacing",
-        "attributes": {
-          "category": "desktop",
-          "type": "body text large",
-          "item": "letterSpacing"
-        },
-        "path": [
-          "desktop",
-          "body text large",
-          "letterSpacing"
-        ]
-      },
-      "lineHeight": {
-        "value": 38,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
-          "value": 38,
+        "lineHeight": {
+          "value": 72,
           "type": "number",
-          "unit": "pixels"
+          "unit": "pixels",
+          "original": {
+            "value": 72,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "DesktopDisplayDisplayHugeBoldLineHeight",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display huge bold",
+            "subitem": "lineHeight"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display huge bold",
+            "lineHeight"
+          ]
         },
-        "name": "DesktopBodyTextLargeLineHeight",
-        "attributes": {
-          "category": "desktop",
-          "type": "body text large",
-          "item": "lineHeight"
-        },
-        "path": [
-          "desktop",
-          "body text large",
-          "lineHeight"
-        ]
-      },
-      "paragraphIndent": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
+        "paragraphIndent": {
           "value": 0,
           "type": "number",
-          "unit": "pixel"
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "DesktopDisplayDisplayHugeBoldParagraphIndent",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display huge bold",
+            "subitem": "paragraphIndent"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display huge bold",
+            "paragraphIndent"
+          ]
         },
-        "name": "DesktopBodyTextLargeParagraphIndent",
-        "attributes": {
-          "category": "desktop",
-          "type": "body text large",
-          "item": "paragraphIndent"
-        },
-        "path": [
-          "desktop",
-          "body text large",
-          "paragraphIndent"
-        ]
-      },
-      "paragraphSpacing": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
+        "paragraphSpacing": {
           "value": 0,
           "type": "number",
-          "unit": "pixel"
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "DesktopDisplayDisplayHugeBoldParagraphSpacing",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display huge bold",
+            "subitem": "paragraphSpacing"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display huge bold",
+            "paragraphSpacing"
+          ]
         },
-        "name": "DesktopBodyTextLargeParagraphSpacing",
-        "attributes": {
-          "category": "desktop",
-          "type": "body text large",
-          "item": "paragraphSpacing"
-        },
-        "path": [
-          "desktop",
-          "body text large",
-          "paragraphSpacing"
-        ]
-      },
-      "textCase": {
-        "value": "none",
-        "type": "string",
-        "original": {
+        "textCase": {
           "value": "none",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplayHugeBoldTextCase",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display huge bold",
+            "subitem": "textCase"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display huge bold",
+            "textCase"
+          ]
+        }
+      },
+      "display large bold": {
+        "category": "font",
+        "fontSize": {
+          "value": 50,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 50,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "DesktopDisplayDisplayLargeBoldFontSize",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display large bold",
+            "subitem": "fontSize"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display large bold",
+            "fontSize"
+          ]
         },
-        "name": "DesktopBodyTextLargeTextCase",
-        "attributes": {
-          "category": "desktop",
-          "type": "body text large",
-          "item": "textCase"
+        "textDecoration": {
+          "value": "none",
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplayLargeBoldTextDecoration",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display large bold",
+            "subitem": "textDecoration"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display large bold",
+            "textDecoration"
+          ]
         },
-        "path": [
-          "desktop",
-          "body text large",
-          "textCase"
-        ]
+        "fontFamily": {
+          "value": "Poppins",
+          "type": "string",
+          "original": {
+            "value": "Poppins",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplayLargeBoldFontFamily",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display large bold",
+            "subitem": "fontFamily"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display large bold",
+            "fontFamily"
+          ]
+        },
+        "fontWeight": {
+          "value": 700,
+          "type": "number",
+          "original": {
+            "value": 700,
+            "type": "number"
+          },
+          "name": "DesktopDisplayDisplayLargeBoldFontWeight",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display large bold",
+            "subitem": "fontWeight"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display large bold",
+            "fontWeight"
+          ]
+        },
+        "fontStyle": {
+          "value": "normal",
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplayLargeBoldFontStyle",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display large bold",
+            "subitem": "fontStyle"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display large bold",
+            "fontStyle"
+          ]
+        },
+        "fontStretch": {
+          "value": "normal",
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplayLargeBoldFontStretch",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display large bold",
+            "subitem": "fontStretch"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display large bold",
+            "fontStretch"
+          ]
+        },
+        "_fontStyleOld": {
+          "value": "Bold",
+          "type": "string",
+          "original": {
+            "value": "Bold",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplayLargeBoldFontStyleOld",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display large bold",
+            "subitem": "_fontStyleOld"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display large bold",
+            "_fontStyleOld"
+          ]
+        },
+        "letterSpacing": {
+          "value": 1,
+          "type": "number",
+          "unit": "pixels",
+          "original": {
+            "value": 1,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "DesktopDisplayDisplayLargeBoldLetterSpacing",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display large bold",
+            "subitem": "letterSpacing"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display large bold",
+            "letterSpacing"
+          ]
+        },
+        "lineHeight": {
+          "value": 64,
+          "type": "number",
+          "unit": "pixels",
+          "original": {
+            "value": 64,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "DesktopDisplayDisplayLargeBoldLineHeight",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display large bold",
+            "subitem": "lineHeight"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display large bold",
+            "lineHeight"
+          ]
+        },
+        "paragraphIndent": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "DesktopDisplayDisplayLargeBoldParagraphIndent",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display large bold",
+            "subitem": "paragraphIndent"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display large bold",
+            "paragraphIndent"
+          ]
+        },
+        "paragraphSpacing": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "DesktopDisplayDisplayLargeBoldParagraphSpacing",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display large bold",
+            "subitem": "paragraphSpacing"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display large bold",
+            "paragraphSpacing"
+          ]
+        },
+        "textCase": {
+          "value": "none",
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplayLargeBoldTextCase",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display large bold",
+            "subitem": "textCase"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display large bold",
+            "textCase"
+          ]
+        }
+      },
+      "display medium bold": {
+        "category": "font",
+        "fontSize": {
+          "value": 40,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 40,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "DesktopDisplayDisplayMediumBoldFontSize",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display medium bold",
+            "subitem": "fontSize"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display medium bold",
+            "fontSize"
+          ]
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplayMediumBoldTextDecoration",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display medium bold",
+            "subitem": "textDecoration"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display medium bold",
+            "textDecoration"
+          ]
+        },
+        "fontFamily": {
+          "value": "Poppins",
+          "type": "string",
+          "original": {
+            "value": "Poppins",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplayMediumBoldFontFamily",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display medium bold",
+            "subitem": "fontFamily"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display medium bold",
+            "fontFamily"
+          ]
+        },
+        "fontWeight": {
+          "value": 700,
+          "type": "number",
+          "original": {
+            "value": 700,
+            "type": "number"
+          },
+          "name": "DesktopDisplayDisplayMediumBoldFontWeight",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display medium bold",
+            "subitem": "fontWeight"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display medium bold",
+            "fontWeight"
+          ]
+        },
+        "fontStyle": {
+          "value": "normal",
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplayMediumBoldFontStyle",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display medium bold",
+            "subitem": "fontStyle"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display medium bold",
+            "fontStyle"
+          ]
+        },
+        "fontStretch": {
+          "value": "normal",
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplayMediumBoldFontStretch",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display medium bold",
+            "subitem": "fontStretch"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display medium bold",
+            "fontStretch"
+          ]
+        },
+        "_fontStyleOld": {
+          "value": "Bold",
+          "type": "string",
+          "original": {
+            "value": "Bold",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplayMediumBoldFontStyleOld",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display medium bold",
+            "subitem": "_fontStyleOld"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display medium bold",
+            "_fontStyleOld"
+          ]
+        },
+        "letterSpacing": {
+          "value": 1,
+          "type": "number",
+          "unit": "pixels",
+          "original": {
+            "value": 1,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "DesktopDisplayDisplayMediumBoldLetterSpacing",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display medium bold",
+            "subitem": "letterSpacing"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display medium bold",
+            "letterSpacing"
+          ]
+        },
+        "lineHeight": {
+          "value": 56,
+          "type": "number",
+          "unit": "pixels",
+          "original": {
+            "value": 56,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "DesktopDisplayDisplayMediumBoldLineHeight",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display medium bold",
+            "subitem": "lineHeight"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display medium bold",
+            "lineHeight"
+          ]
+        },
+        "paragraphIndent": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "DesktopDisplayDisplayMediumBoldParagraphIndent",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display medium bold",
+            "subitem": "paragraphIndent"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display medium bold",
+            "paragraphIndent"
+          ]
+        },
+        "paragraphSpacing": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "DesktopDisplayDisplayMediumBoldParagraphSpacing",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display medium bold",
+            "subitem": "paragraphSpacing"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display medium bold",
+            "paragraphSpacing"
+          ]
+        },
+        "textCase": {
+          "value": "none",
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplayMediumBoldTextCase",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display medium bold",
+            "subitem": "textCase"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display medium bold",
+            "textCase"
+          ]
+        }
+      },
+      "display small bold": {
+        "category": "font",
+        "fontSize": {
+          "value": 33,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 33,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "DesktopDisplayDisplaySmallBoldFontSize",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display small bold",
+            "subitem": "fontSize"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display small bold",
+            "fontSize"
+          ]
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplaySmallBoldTextDecoration",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display small bold",
+            "subitem": "textDecoration"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display small bold",
+            "textDecoration"
+          ]
+        },
+        "fontFamily": {
+          "value": "Poppins",
+          "type": "string",
+          "original": {
+            "value": "Poppins",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplaySmallBoldFontFamily",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display small bold",
+            "subitem": "fontFamily"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display small bold",
+            "fontFamily"
+          ]
+        },
+        "fontWeight": {
+          "value": 700,
+          "type": "number",
+          "original": {
+            "value": 700,
+            "type": "number"
+          },
+          "name": "DesktopDisplayDisplaySmallBoldFontWeight",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display small bold",
+            "subitem": "fontWeight"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display small bold",
+            "fontWeight"
+          ]
+        },
+        "fontStyle": {
+          "value": "normal",
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplaySmallBoldFontStyle",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display small bold",
+            "subitem": "fontStyle"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display small bold",
+            "fontStyle"
+          ]
+        },
+        "fontStretch": {
+          "value": "normal",
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplaySmallBoldFontStretch",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display small bold",
+            "subitem": "fontStretch"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display small bold",
+            "fontStretch"
+          ]
+        },
+        "_fontStyleOld": {
+          "value": "Bold",
+          "type": "string",
+          "original": {
+            "value": "Bold",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplaySmallBoldFontStyleOld",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display small bold",
+            "subitem": "_fontStyleOld"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display small bold",
+            "_fontStyleOld"
+          ]
+        },
+        "letterSpacing": {
+          "value": 1,
+          "type": "number",
+          "unit": "pixels",
+          "original": {
+            "value": 1,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "DesktopDisplayDisplaySmallBoldLetterSpacing",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display small bold",
+            "subitem": "letterSpacing"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display small bold",
+            "letterSpacing"
+          ]
+        },
+        "lineHeight": {
+          "value": 40,
+          "type": "number",
+          "unit": "pixels",
+          "original": {
+            "value": 40,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "DesktopDisplayDisplaySmallBoldLineHeight",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display small bold",
+            "subitem": "lineHeight"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display small bold",
+            "lineHeight"
+          ]
+        },
+        "paragraphIndent": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "DesktopDisplayDisplaySmallBoldParagraphIndent",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display small bold",
+            "subitem": "paragraphIndent"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display small bold",
+            "paragraphIndent"
+          ]
+        },
+        "paragraphSpacing": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "DesktopDisplayDisplaySmallBoldParagraphSpacing",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display small bold",
+            "subitem": "paragraphSpacing"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display small bold",
+            "paragraphSpacing"
+          ]
+        },
+        "textCase": {
+          "value": "none",
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "DesktopDisplayDisplaySmallBoldTextCase",
+          "attributes": {
+            "category": "desktop",
+            "type": "display",
+            "item": "display small bold",
+            "subitem": "textCase"
+          },
+          "path": [
+            "desktop",
+            "display",
+            "display small bold",
+            "textCase"
+          ]
+        }
       }
     },
-    "body text medium": {
-      "category": "font",
-      "fontSize": {
-        "value": 17,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
+    "body": {
+      "body link medium": {
+        "category": "font",
+        "fontSize": {
           "value": 17,
           "type": "number",
-          "unit": "pixel"
+          "unit": "pixel",
+          "original": {
+            "value": 17,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "DesktopBodyBodyLinkMediumFontSize",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body link medium",
+            "subitem": "fontSize"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body link medium",
+            "fontSize"
+          ]
         },
-        "name": "DesktopBodyTextMediumFontSize",
-        "attributes": {
-          "category": "desktop",
-          "type": "body text medium",
-          "item": "fontSize"
-        },
-        "path": [
-          "desktop",
-          "body text medium",
-          "fontSize"
-        ]
-      },
-      "textDecoration": {
-        "value": "none",
-        "type": "string",
-        "original": {
+        "textDecoration": {
           "value": "none",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "DesktopBodyBodyLinkMediumTextDecoration",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body link medium",
+            "subitem": "textDecoration"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body link medium",
+            "textDecoration"
+          ]
         },
-        "name": "DesktopBodyTextMediumTextDecoration",
-        "attributes": {
-          "category": "desktop",
-          "type": "body text medium",
-          "item": "textDecoration"
-        },
-        "path": [
-          "desktop",
-          "body text medium",
-          "textDecoration"
-        ]
-      },
-      "fontFamily": {
-        "value": "Poppins",
-        "type": "string",
-        "original": {
+        "fontFamily": {
           "value": "Poppins",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "Poppins",
+            "type": "string"
+          },
+          "name": "DesktopBodyBodyLinkMediumFontFamily",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body link medium",
+            "subitem": "fontFamily"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body link medium",
+            "fontFamily"
+          ]
         },
-        "name": "DesktopBodyTextMediumFontFamily",
-        "attributes": {
-          "category": "desktop",
-          "type": "body text medium",
-          "item": "fontFamily"
+        "fontWeight": {
+          "value": 600,
+          "type": "number",
+          "original": {
+            "value": 600,
+            "type": "number"
+          },
+          "name": "DesktopBodyBodyLinkMediumFontWeight",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body link medium",
+            "subitem": "fontWeight"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body link medium",
+            "fontWeight"
+          ]
         },
-        "path": [
-          "desktop",
-          "body text medium",
-          "fontFamily"
-        ]
-      },
-      "fontWeight": {
-        "value": 400,
-        "type": "number",
-        "original": {
-          "value": 400,
-          "type": "number"
-        },
-        "name": "DesktopBodyTextMediumFontWeight",
-        "attributes": {
-          "category": "desktop",
-          "type": "body text medium",
-          "item": "fontWeight"
-        },
-        "path": [
-          "desktop",
-          "body text medium",
-          "fontWeight"
-        ]
-      },
-      "fontStyle": {
-        "value": "normal",
-        "type": "string",
-        "original": {
+        "fontStyle": {
           "value": "normal",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "DesktopBodyBodyLinkMediumFontStyle",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body link medium",
+            "subitem": "fontStyle"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body link medium",
+            "fontStyle"
+          ]
         },
-        "name": "DesktopBodyTextMediumFontStyle",
-        "attributes": {
-          "category": "desktop",
-          "type": "body text medium",
-          "item": "fontStyle"
-        },
-        "path": [
-          "desktop",
-          "body text medium",
-          "fontStyle"
-        ]
-      },
-      "fontStretch": {
-        "value": "normal",
-        "type": "string",
-        "original": {
+        "fontStretch": {
           "value": "normal",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "DesktopBodyBodyLinkMediumFontStretch",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body link medium",
+            "subitem": "fontStretch"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body link medium",
+            "fontStretch"
+          ]
         },
-        "name": "DesktopBodyTextMediumFontStretch",
-        "attributes": {
-          "category": "desktop",
-          "type": "body text medium",
-          "item": "fontStretch"
+        "_fontStyleOld": {
+          "value": "SemiBold",
+          "type": "string",
+          "original": {
+            "value": "SemiBold",
+            "type": "string"
+          },
+          "name": "DesktopBodyBodyLinkMediumFontStyleOld",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body link medium",
+            "subitem": "_fontStyleOld"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body link medium",
+            "_fontStyleOld"
+          ]
         },
-        "path": [
-          "desktop",
-          "body text medium",
-          "fontStretch"
-        ]
-      },
-      "_fontStyleOld": {
-        "value": "Regular",
-        "type": "string",
-        "original": {
-          "value": "Regular",
-          "type": "string"
-        },
-        "name": "DesktopBodyTextMediumFontStyleOld",
-        "attributes": {
-          "category": "desktop",
-          "type": "body text medium",
-          "item": "_fontStyleOld"
-        },
-        "path": [
-          "desktop",
-          "body text medium",
-          "_fontStyleOld"
-        ]
-      },
-      "letterSpacing": {
-        "value": 0.75,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
+        "letterSpacing": {
           "value": 0.75,
           "type": "number",
-          "unit": "pixels"
+          "unit": "pixels",
+          "original": {
+            "value": 0.75,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "DesktopBodyBodyLinkMediumLetterSpacing",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body link medium",
+            "subitem": "letterSpacing"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body link medium",
+            "letterSpacing"
+          ]
         },
-        "name": "DesktopBodyTextMediumLetterSpacing",
-        "attributes": {
-          "category": "desktop",
-          "type": "body text medium",
-          "item": "letterSpacing"
-        },
-        "path": [
-          "desktop",
-          "body text medium",
-          "letterSpacing"
-        ]
-      },
-      "lineHeight": {
-        "value": 34,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
+        "lineHeight": {
           "value": 34,
           "type": "number",
-          "unit": "pixels"
+          "unit": "pixels",
+          "original": {
+            "value": 34,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "DesktopBodyBodyLinkMediumLineHeight",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body link medium",
+            "subitem": "lineHeight"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body link medium",
+            "lineHeight"
+          ]
         },
-        "name": "DesktopBodyTextMediumLineHeight",
-        "attributes": {
-          "category": "desktop",
-          "type": "body text medium",
-          "item": "lineHeight"
-        },
-        "path": [
-          "desktop",
-          "body text medium",
-          "lineHeight"
-        ]
-      },
-      "paragraphIndent": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
+        "paragraphIndent": {
           "value": 0,
           "type": "number",
-          "unit": "pixel"
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "DesktopBodyBodyLinkMediumParagraphIndent",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body link medium",
+            "subitem": "paragraphIndent"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body link medium",
+            "paragraphIndent"
+          ]
         },
-        "name": "DesktopBodyTextMediumParagraphIndent",
-        "attributes": {
-          "category": "desktop",
-          "type": "body text medium",
-          "item": "paragraphIndent"
-        },
-        "path": [
-          "desktop",
-          "body text medium",
-          "paragraphIndent"
-        ]
-      },
-      "paragraphSpacing": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
+        "paragraphSpacing": {
           "value": 0,
           "type": "number",
-          "unit": "pixel"
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "DesktopBodyBodyLinkMediumParagraphSpacing",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body link medium",
+            "subitem": "paragraphSpacing"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body link medium",
+            "paragraphSpacing"
+          ]
         },
-        "name": "DesktopBodyTextMediumParagraphSpacing",
-        "attributes": {
-          "category": "desktop",
-          "type": "body text medium",
-          "item": "paragraphSpacing"
-        },
-        "path": [
-          "desktop",
-          "body text medium",
-          "paragraphSpacing"
-        ]
-      },
-      "textCase": {
-        "value": "none",
-        "type": "string",
-        "original": {
+        "textCase": {
           "value": "none",
-          "type": "string"
-        },
-        "name": "DesktopBodyTextMediumTextCase",
-        "attributes": {
-          "category": "desktop",
-          "type": "body text medium",
-          "item": "textCase"
-        },
-        "path": [
-          "desktop",
-          "body text medium",
-          "textCase"
-        ]
-      }
-    },
-    "body text small": {
-      "category": "font",
-      "fontSize": {
-        "value": 15,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 15,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "DesktopBodyTextSmallFontSize",
-        "attributes": {
-          "category": "desktop",
-          "type": "body text small",
-          "item": "fontSize"
-        },
-        "path": [
-          "desktop",
-          "body text small",
-          "fontSize"
-        ]
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "DesktopBodyBodyLinkMediumTextCase",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body link medium",
+            "subitem": "textCase"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body link medium",
+            "textCase"
+          ]
+        }
       },
-      "textDecoration": {
-        "value": "none",
-        "type": "string",
-        "original": {
-          "value": "none",
-          "type": "string"
-        },
-        "name": "DesktopBodyTextSmallTextDecoration",
-        "attributes": {
-          "category": "desktop",
-          "type": "body text small",
-          "item": "textDecoration"
-        },
-        "path": [
-          "desktop",
-          "body text small",
-          "textDecoration"
-        ]
-      },
-      "fontFamily": {
-        "value": "Poppins",
-        "type": "string",
-        "original": {
-          "value": "Poppins",
-          "type": "string"
-        },
-        "name": "DesktopBodyTextSmallFontFamily",
-        "attributes": {
-          "category": "desktop",
-          "type": "body text small",
-          "item": "fontFamily"
-        },
-        "path": [
-          "desktop",
-          "body text small",
-          "fontFamily"
-        ]
-      },
-      "fontWeight": {
-        "value": 400,
-        "type": "number",
-        "original": {
-          "value": 400,
-          "type": "number"
-        },
-        "name": "DesktopBodyTextSmallFontWeight",
-        "attributes": {
-          "category": "desktop",
-          "type": "body text small",
-          "item": "fontWeight"
-        },
-        "path": [
-          "desktop",
-          "body text small",
-          "fontWeight"
-        ]
-      },
-      "fontStyle": {
-        "value": "normal",
-        "type": "string",
-        "original": {
-          "value": "normal",
-          "type": "string"
-        },
-        "name": "DesktopBodyTextSmallFontStyle",
-        "attributes": {
-          "category": "desktop",
-          "type": "body text small",
-          "item": "fontStyle"
-        },
-        "path": [
-          "desktop",
-          "body text small",
-          "fontStyle"
-        ]
-      },
-      "fontStretch": {
-        "value": "normal",
-        "type": "string",
-        "original": {
-          "value": "normal",
-          "type": "string"
-        },
-        "name": "DesktopBodyTextSmallFontStretch",
-        "attributes": {
-          "category": "desktop",
-          "type": "body text small",
-          "item": "fontStretch"
-        },
-        "path": [
-          "desktop",
-          "body text small",
-          "fontStretch"
-        ]
-      },
-      "_fontStyleOld": {
-        "value": "Regular",
-        "type": "string",
-        "original": {
-          "value": "Regular",
-          "type": "string"
-        },
-        "name": "DesktopBodyTextSmallFontStyleOld",
-        "attributes": {
-          "category": "desktop",
-          "type": "body text small",
-          "item": "_fontStyleOld"
-        },
-        "path": [
-          "desktop",
-          "body text small",
-          "_fontStyleOld"
-        ]
-      },
-      "letterSpacing": {
-        "value": 0.75,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
-          "value": 0.75,
-          "type": "number",
-          "unit": "pixels"
-        },
-        "name": "DesktopBodyTextSmallLetterSpacing",
-        "attributes": {
-          "category": "desktop",
-          "type": "body text small",
-          "item": "letterSpacing"
-        },
-        "path": [
-          "desktop",
-          "body text small",
-          "letterSpacing"
-        ]
-      },
-      "lineHeight": {
-        "value": 24,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
-          "value": 24,
-          "type": "number",
-          "unit": "pixels"
-        },
-        "name": "DesktopBodyTextSmallLineHeight",
-        "attributes": {
-          "category": "desktop",
-          "type": "body text small",
-          "item": "lineHeight"
-        },
-        "path": [
-          "desktop",
-          "body text small",
-          "lineHeight"
-        ]
-      },
-      "paragraphIndent": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "DesktopBodyTextSmallParagraphIndent",
-        "attributes": {
-          "category": "desktop",
-          "type": "body text small",
-          "item": "paragraphIndent"
-        },
-        "path": [
-          "desktop",
-          "body text small",
-          "paragraphIndent"
-        ]
-      },
-      "paragraphSpacing": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "DesktopBodyTextSmallParagraphSpacing",
-        "attributes": {
-          "category": "desktop",
-          "type": "body text small",
-          "item": "paragraphSpacing"
-        },
-        "path": [
-          "desktop",
-          "body text small",
-          "paragraphSpacing"
-        ]
-      },
-      "textCase": {
-        "value": "none",
-        "type": "string",
-        "original": {
-          "value": "none",
-          "type": "string"
-        },
-        "name": "DesktopBodyTextSmallTextCase",
-        "attributes": {
-          "category": "desktop",
-          "type": "body text small",
-          "item": "textCase"
-        },
-        "path": [
-          "desktop",
-          "body text small",
-          "textCase"
-        ]
-      }
-    },
-    "body text x-small": {
-      "category": "font",
-      "fontSize": {
-        "value": 13,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
+      "body link x-small": {
+        "category": "font",
+        "fontSize": {
           "value": 13,
           "type": "number",
-          "unit": "pixel"
+          "unit": "pixel",
+          "original": {
+            "value": 13,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "DesktopBodyBodyLinkXSmallFontSize",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body link x-small",
+            "subitem": "fontSize"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body link x-small",
+            "fontSize"
+          ]
         },
-        "name": "DesktopBodyTextXSmallFontSize",
-        "attributes": {
-          "category": "desktop",
-          "type": "body text x-small",
-          "item": "fontSize"
-        },
-        "path": [
-          "desktop",
-          "body text x-small",
-          "fontSize"
-        ]
-      },
-      "textDecoration": {
-        "value": "none",
-        "type": "string",
-        "original": {
+        "textDecoration": {
           "value": "none",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "DesktopBodyBodyLinkXSmallTextDecoration",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body link x-small",
+            "subitem": "textDecoration"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body link x-small",
+            "textDecoration"
+          ]
         },
-        "name": "DesktopBodyTextXSmallTextDecoration",
-        "attributes": {
-          "category": "desktop",
-          "type": "body text x-small",
-          "item": "textDecoration"
-        },
-        "path": [
-          "desktop",
-          "body text x-small",
-          "textDecoration"
-        ]
-      },
-      "fontFamily": {
-        "value": "Poppins",
-        "type": "string",
-        "original": {
+        "fontFamily": {
           "value": "Poppins",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "Poppins",
+            "type": "string"
+          },
+          "name": "DesktopBodyBodyLinkXSmallFontFamily",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body link x-small",
+            "subitem": "fontFamily"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body link x-small",
+            "fontFamily"
+          ]
         },
-        "name": "DesktopBodyTextXSmallFontFamily",
-        "attributes": {
-          "category": "desktop",
-          "type": "body text x-small",
-          "item": "fontFamily"
+        "fontWeight": {
+          "value": 600,
+          "type": "number",
+          "original": {
+            "value": 600,
+            "type": "number"
+          },
+          "name": "DesktopBodyBodyLinkXSmallFontWeight",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body link x-small",
+            "subitem": "fontWeight"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body link x-small",
+            "fontWeight"
+          ]
         },
-        "path": [
-          "desktop",
-          "body text x-small",
-          "fontFamily"
-        ]
+        "fontStyle": {
+          "value": "normal",
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "DesktopBodyBodyLinkXSmallFontStyle",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body link x-small",
+            "subitem": "fontStyle"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body link x-small",
+            "fontStyle"
+          ]
+        },
+        "fontStretch": {
+          "value": "normal",
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "DesktopBodyBodyLinkXSmallFontStretch",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body link x-small",
+            "subitem": "fontStretch"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body link x-small",
+            "fontStretch"
+          ]
+        },
+        "_fontStyleOld": {
+          "value": "SemiBold",
+          "type": "string",
+          "original": {
+            "value": "SemiBold",
+            "type": "string"
+          },
+          "name": "DesktopBodyBodyLinkXSmallFontStyleOld",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body link x-small",
+            "subitem": "_fontStyleOld"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body link x-small",
+            "_fontStyleOld"
+          ]
+        },
+        "letterSpacing": {
+          "value": 0.25,
+          "type": "number",
+          "unit": "pixels",
+          "original": {
+            "value": 0.25,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "DesktopBodyBodyLinkXSmallLetterSpacing",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body link x-small",
+            "subitem": "letterSpacing"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body link x-small",
+            "letterSpacing"
+          ]
+        },
+        "lineHeight": {
+          "value": 22,
+          "type": "number",
+          "unit": "pixels",
+          "original": {
+            "value": 22,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "DesktopBodyBodyLinkXSmallLineHeight",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body link x-small",
+            "subitem": "lineHeight"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body link x-small",
+            "lineHeight"
+          ]
+        },
+        "paragraphIndent": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "DesktopBodyBodyLinkXSmallParagraphIndent",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body link x-small",
+            "subitem": "paragraphIndent"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body link x-small",
+            "paragraphIndent"
+          ]
+        },
+        "paragraphSpacing": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "DesktopBodyBodyLinkXSmallParagraphSpacing",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body link x-small",
+            "subitem": "paragraphSpacing"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body link x-small",
+            "paragraphSpacing"
+          ]
+        },
+        "textCase": {
+          "value": "none",
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "DesktopBodyBodyLinkXSmallTextCase",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body link x-small",
+            "subitem": "textCase"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body link x-small",
+            "textCase"
+          ]
+        }
       },
-      "fontWeight": {
-        "value": 500,
-        "type": "number",
-        "original": {
+      "body link small": {
+        "category": "font",
+        "fontSize": {
+          "value": 15,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 15,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "DesktopBodyBodyLinkSmallFontSize",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body link small",
+            "subitem": "fontSize"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body link small",
+            "fontSize"
+          ]
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "DesktopBodyBodyLinkSmallTextDecoration",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body link small",
+            "subitem": "textDecoration"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body link small",
+            "textDecoration"
+          ]
+        },
+        "fontFamily": {
+          "value": "Poppins",
+          "type": "string",
+          "original": {
+            "value": "Poppins",
+            "type": "string"
+          },
+          "name": "DesktopBodyBodyLinkSmallFontFamily",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body link small",
+            "subitem": "fontFamily"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body link small",
+            "fontFamily"
+          ]
+        },
+        "fontWeight": {
+          "value": 400,
+          "type": "number",
+          "original": {
+            "value": 400,
+            "type": "number"
+          },
+          "name": "DesktopBodyBodyLinkSmallFontWeight",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body link small",
+            "subitem": "fontWeight"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body link small",
+            "fontWeight"
+          ]
+        },
+        "fontStyle": {
+          "value": "normal",
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "DesktopBodyBodyLinkSmallFontStyle",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body link small",
+            "subitem": "fontStyle"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body link small",
+            "fontStyle"
+          ]
+        },
+        "fontStretch": {
+          "value": "normal",
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "DesktopBodyBodyLinkSmallFontStretch",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body link small",
+            "subitem": "fontStretch"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body link small",
+            "fontStretch"
+          ]
+        },
+        "_fontStyleOld": {
+          "value": "Regular",
+          "type": "string",
+          "original": {
+            "value": "Regular",
+            "type": "string"
+          },
+          "name": "DesktopBodyBodyLinkSmallFontStyleOld",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body link small",
+            "subitem": "_fontStyleOld"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body link small",
+            "_fontStyleOld"
+          ]
+        },
+        "letterSpacing": {
+          "value": 0.75,
+          "type": "number",
+          "unit": "pixels",
+          "original": {
+            "value": 0.75,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "DesktopBodyBodyLinkSmallLetterSpacing",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body link small",
+            "subitem": "letterSpacing"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body link small",
+            "letterSpacing"
+          ]
+        },
+        "lineHeight": {
+          "value": 24,
+          "type": "number",
+          "unit": "pixels",
+          "original": {
+            "value": 24,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "DesktopBodyBodyLinkSmallLineHeight",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body link small",
+            "subitem": "lineHeight"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body link small",
+            "lineHeight"
+          ]
+        },
+        "paragraphIndent": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "DesktopBodyBodyLinkSmallParagraphIndent",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body link small",
+            "subitem": "paragraphIndent"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body link small",
+            "paragraphIndent"
+          ]
+        },
+        "paragraphSpacing": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "DesktopBodyBodyLinkSmallParagraphSpacing",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body link small",
+            "subitem": "paragraphSpacing"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body link small",
+            "paragraphSpacing"
+          ]
+        },
+        "textCase": {
+          "value": "none",
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "DesktopBodyBodyLinkSmallTextCase",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body link small",
+            "subitem": "textCase"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body link small",
+            "textCase"
+          ]
+        }
+      },
+      "body text large": {
+        "category": "font",
+        "fontSize": {
+          "value": 20,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 20,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "DesktopBodyBodyTextLargeFontSize",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body text large",
+            "subitem": "fontSize"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body text large",
+            "fontSize"
+          ]
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "DesktopBodyBodyTextLargeTextDecoration",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body text large",
+            "subitem": "textDecoration"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body text large",
+            "textDecoration"
+          ]
+        },
+        "fontFamily": {
+          "value": "Poppins",
+          "type": "string",
+          "original": {
+            "value": "Poppins",
+            "type": "string"
+          },
+          "name": "DesktopBodyBodyTextLargeFontFamily",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body text large",
+            "subitem": "fontFamily"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body text large",
+            "fontFamily"
+          ]
+        },
+        "fontWeight": {
+          "value": 700,
+          "type": "number",
+          "original": {
+            "value": 700,
+            "type": "number"
+          },
+          "name": "DesktopBodyBodyTextLargeFontWeight",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body text large",
+            "subitem": "fontWeight"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body text large",
+            "fontWeight"
+          ]
+        },
+        "fontStyle": {
+          "value": "normal",
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "DesktopBodyBodyTextLargeFontStyle",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body text large",
+            "subitem": "fontStyle"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body text large",
+            "fontStyle"
+          ]
+        },
+        "fontStretch": {
+          "value": "normal",
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "DesktopBodyBodyTextLargeFontStretch",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body text large",
+            "subitem": "fontStretch"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body text large",
+            "fontStretch"
+          ]
+        },
+        "_fontStyleOld": {
+          "value": "Bold",
+          "type": "string",
+          "original": {
+            "value": "Bold",
+            "type": "string"
+          },
+          "name": "DesktopBodyBodyTextLargeFontStyleOld",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body text large",
+            "subitem": "_fontStyleOld"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body text large",
+            "_fontStyleOld"
+          ]
+        },
+        "letterSpacing": {
+          "value": 0.75,
+          "type": "number",
+          "unit": "pixels",
+          "original": {
+            "value": 0.75,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "DesktopBodyBodyTextLargeLetterSpacing",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body text large",
+            "subitem": "letterSpacing"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body text large",
+            "letterSpacing"
+          ]
+        },
+        "lineHeight": {
+          "value": 38,
+          "type": "number",
+          "unit": "pixels",
+          "original": {
+            "value": 38,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "DesktopBodyBodyTextLargeLineHeight",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body text large",
+            "subitem": "lineHeight"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body text large",
+            "lineHeight"
+          ]
+        },
+        "paragraphIndent": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "DesktopBodyBodyTextLargeParagraphIndent",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body text large",
+            "subitem": "paragraphIndent"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body text large",
+            "paragraphIndent"
+          ]
+        },
+        "paragraphSpacing": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "DesktopBodyBodyTextLargeParagraphSpacing",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body text large",
+            "subitem": "paragraphSpacing"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body text large",
+            "paragraphSpacing"
+          ]
+        },
+        "textCase": {
+          "value": "none",
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "DesktopBodyBodyTextLargeTextCase",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body text large",
+            "subitem": "textCase"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body text large",
+            "textCase"
+          ]
+        }
+      },
+      "body text medium": {
+        "category": "font",
+        "fontSize": {
+          "value": 17,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 17,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "DesktopBodyBodyTextMediumFontSize",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body text medium",
+            "subitem": "fontSize"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body text medium",
+            "fontSize"
+          ]
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "DesktopBodyBodyTextMediumTextDecoration",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body text medium",
+            "subitem": "textDecoration"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body text medium",
+            "textDecoration"
+          ]
+        },
+        "fontFamily": {
+          "value": "Poppins",
+          "type": "string",
+          "original": {
+            "value": "Poppins",
+            "type": "string"
+          },
+          "name": "DesktopBodyBodyTextMediumFontFamily",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body text medium",
+            "subitem": "fontFamily"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body text medium",
+            "fontFamily"
+          ]
+        },
+        "fontWeight": {
+          "value": 400,
+          "type": "number",
+          "original": {
+            "value": 400,
+            "type": "number"
+          },
+          "name": "DesktopBodyBodyTextMediumFontWeight",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body text medium",
+            "subitem": "fontWeight"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body text medium",
+            "fontWeight"
+          ]
+        },
+        "fontStyle": {
+          "value": "normal",
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "DesktopBodyBodyTextMediumFontStyle",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body text medium",
+            "subitem": "fontStyle"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body text medium",
+            "fontStyle"
+          ]
+        },
+        "fontStretch": {
+          "value": "normal",
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "DesktopBodyBodyTextMediumFontStretch",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body text medium",
+            "subitem": "fontStretch"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body text medium",
+            "fontStretch"
+          ]
+        },
+        "_fontStyleOld": {
+          "value": "Regular",
+          "type": "string",
+          "original": {
+            "value": "Regular",
+            "type": "string"
+          },
+          "name": "DesktopBodyBodyTextMediumFontStyleOld",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body text medium",
+            "subitem": "_fontStyleOld"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body text medium",
+            "_fontStyleOld"
+          ]
+        },
+        "letterSpacing": {
+          "value": 0.75,
+          "type": "number",
+          "unit": "pixels",
+          "original": {
+            "value": 0.75,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "DesktopBodyBodyTextMediumLetterSpacing",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body text medium",
+            "subitem": "letterSpacing"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body text medium",
+            "letterSpacing"
+          ]
+        },
+        "lineHeight": {
+          "value": 34,
+          "type": "number",
+          "unit": "pixels",
+          "original": {
+            "value": 34,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "DesktopBodyBodyTextMediumLineHeight",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body text medium",
+            "subitem": "lineHeight"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body text medium",
+            "lineHeight"
+          ]
+        },
+        "paragraphIndent": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "DesktopBodyBodyTextMediumParagraphIndent",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body text medium",
+            "subitem": "paragraphIndent"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body text medium",
+            "paragraphIndent"
+          ]
+        },
+        "paragraphSpacing": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "DesktopBodyBodyTextMediumParagraphSpacing",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body text medium",
+            "subitem": "paragraphSpacing"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body text medium",
+            "paragraphSpacing"
+          ]
+        },
+        "textCase": {
+          "value": "none",
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "DesktopBodyBodyTextMediumTextCase",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body text medium",
+            "subitem": "textCase"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body text medium",
+            "textCase"
+          ]
+        }
+      },
+      "body text small": {
+        "category": "font",
+        "fontSize": {
+          "value": 15,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 15,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "DesktopBodyBodyTextSmallFontSize",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body text small",
+            "subitem": "fontSize"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body text small",
+            "fontSize"
+          ]
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "DesktopBodyBodyTextSmallTextDecoration",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body text small",
+            "subitem": "textDecoration"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body text small",
+            "textDecoration"
+          ]
+        },
+        "fontFamily": {
+          "value": "Poppins",
+          "type": "string",
+          "original": {
+            "value": "Poppins",
+            "type": "string"
+          },
+          "name": "DesktopBodyBodyTextSmallFontFamily",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body text small",
+            "subitem": "fontFamily"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body text small",
+            "fontFamily"
+          ]
+        },
+        "fontWeight": {
+          "value": 400,
+          "type": "number",
+          "original": {
+            "value": 400,
+            "type": "number"
+          },
+          "name": "DesktopBodyBodyTextSmallFontWeight",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body text small",
+            "subitem": "fontWeight"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body text small",
+            "fontWeight"
+          ]
+        },
+        "fontStyle": {
+          "value": "normal",
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "DesktopBodyBodyTextSmallFontStyle",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body text small",
+            "subitem": "fontStyle"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body text small",
+            "fontStyle"
+          ]
+        },
+        "fontStretch": {
+          "value": "normal",
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "DesktopBodyBodyTextSmallFontStretch",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body text small",
+            "subitem": "fontStretch"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body text small",
+            "fontStretch"
+          ]
+        },
+        "_fontStyleOld": {
+          "value": "Regular",
+          "type": "string",
+          "original": {
+            "value": "Regular",
+            "type": "string"
+          },
+          "name": "DesktopBodyBodyTextSmallFontStyleOld",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body text small",
+            "subitem": "_fontStyleOld"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body text small",
+            "_fontStyleOld"
+          ]
+        },
+        "letterSpacing": {
+          "value": 0.75,
+          "type": "number",
+          "unit": "pixels",
+          "original": {
+            "value": 0.75,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "DesktopBodyBodyTextSmallLetterSpacing",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body text small",
+            "subitem": "letterSpacing"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body text small",
+            "letterSpacing"
+          ]
+        },
+        "lineHeight": {
+          "value": 24,
+          "type": "number",
+          "unit": "pixels",
+          "original": {
+            "value": 24,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "DesktopBodyBodyTextSmallLineHeight",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body text small",
+            "subitem": "lineHeight"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body text small",
+            "lineHeight"
+          ]
+        },
+        "paragraphIndent": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "DesktopBodyBodyTextSmallParagraphIndent",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body text small",
+            "subitem": "paragraphIndent"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body text small",
+            "paragraphIndent"
+          ]
+        },
+        "paragraphSpacing": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "DesktopBodyBodyTextSmallParagraphSpacing",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body text small",
+            "subitem": "paragraphSpacing"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body text small",
+            "paragraphSpacing"
+          ]
+        },
+        "textCase": {
+          "value": "none",
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "DesktopBodyBodyTextSmallTextCase",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body text small",
+            "subitem": "textCase"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body text small",
+            "textCase"
+          ]
+        }
+      },
+      "body text x-small": {
+        "category": "font",
+        "fontSize": {
+          "value": 13,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 13,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "DesktopBodyBodyTextXSmallFontSize",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body text x-small",
+            "subitem": "fontSize"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body text x-small",
+            "fontSize"
+          ]
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "DesktopBodyBodyTextXSmallTextDecoration",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body text x-small",
+            "subitem": "textDecoration"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body text x-small",
+            "textDecoration"
+          ]
+        },
+        "fontFamily": {
+          "value": "Poppins",
+          "type": "string",
+          "original": {
+            "value": "Poppins",
+            "type": "string"
+          },
+          "name": "DesktopBodyBodyTextXSmallFontFamily",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body text x-small",
+            "subitem": "fontFamily"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body text x-small",
+            "fontFamily"
+          ]
+        },
+        "fontWeight": {
           "value": 500,
-          "type": "number"
+          "type": "number",
+          "original": {
+            "value": 500,
+            "type": "number"
+          },
+          "name": "DesktopBodyBodyTextXSmallFontWeight",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body text x-small",
+            "subitem": "fontWeight"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body text x-small",
+            "fontWeight"
+          ]
         },
-        "name": "DesktopBodyTextXSmallFontWeight",
-        "attributes": {
-          "category": "desktop",
-          "type": "body text x-small",
-          "item": "fontWeight"
-        },
-        "path": [
-          "desktop",
-          "body text x-small",
-          "fontWeight"
-        ]
-      },
-      "fontStyle": {
-        "value": "normal",
-        "type": "string",
-        "original": {
+        "fontStyle": {
           "value": "normal",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "DesktopBodyBodyTextXSmallFontStyle",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body text x-small",
+            "subitem": "fontStyle"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body text x-small",
+            "fontStyle"
+          ]
         },
-        "name": "DesktopBodyTextXSmallFontStyle",
-        "attributes": {
-          "category": "desktop",
-          "type": "body text x-small",
-          "item": "fontStyle"
-        },
-        "path": [
-          "desktop",
-          "body text x-small",
-          "fontStyle"
-        ]
-      },
-      "fontStretch": {
-        "value": "normal",
-        "type": "string",
-        "original": {
+        "fontStretch": {
           "value": "normal",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "DesktopBodyBodyTextXSmallFontStretch",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body text x-small",
+            "subitem": "fontStretch"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body text x-small",
+            "fontStretch"
+          ]
         },
-        "name": "DesktopBodyTextXSmallFontStretch",
-        "attributes": {
-          "category": "desktop",
-          "type": "body text x-small",
-          "item": "fontStretch"
-        },
-        "path": [
-          "desktop",
-          "body text x-small",
-          "fontStretch"
-        ]
-      },
-      "_fontStyleOld": {
-        "value": "Medium",
-        "type": "string",
-        "original": {
+        "_fontStyleOld": {
           "value": "Medium",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "Medium",
+            "type": "string"
+          },
+          "name": "DesktopBodyBodyTextXSmallFontStyleOld",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body text x-small",
+            "subitem": "_fontStyleOld"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body text x-small",
+            "_fontStyleOld"
+          ]
         },
-        "name": "DesktopBodyTextXSmallFontStyleOld",
-        "attributes": {
-          "category": "desktop",
-          "type": "body text x-small",
-          "item": "_fontStyleOld"
-        },
-        "path": [
-          "desktop",
-          "body text x-small",
-          "_fontStyleOld"
-        ]
-      },
-      "letterSpacing": {
-        "value": 0.25,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
+        "letterSpacing": {
           "value": 0.25,
           "type": "number",
-          "unit": "pixels"
+          "unit": "pixels",
+          "original": {
+            "value": 0.25,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "DesktopBodyBodyTextXSmallLetterSpacing",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body text x-small",
+            "subitem": "letterSpacing"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body text x-small",
+            "letterSpacing"
+          ]
         },
-        "name": "DesktopBodyTextXSmallLetterSpacing",
-        "attributes": {
-          "category": "desktop",
-          "type": "body text x-small",
-          "item": "letterSpacing"
-        },
-        "path": [
-          "desktop",
-          "body text x-small",
-          "letterSpacing"
-        ]
-      },
-      "lineHeight": {
-        "value": 22,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
+        "lineHeight": {
           "value": 22,
           "type": "number",
-          "unit": "pixels"
+          "unit": "pixels",
+          "original": {
+            "value": 22,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "DesktopBodyBodyTextXSmallLineHeight",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body text x-small",
+            "subitem": "lineHeight"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body text x-small",
+            "lineHeight"
+          ]
         },
-        "name": "DesktopBodyTextXSmallLineHeight",
-        "attributes": {
-          "category": "desktop",
-          "type": "body text x-small",
-          "item": "lineHeight"
-        },
-        "path": [
-          "desktop",
-          "body text x-small",
-          "lineHeight"
-        ]
-      },
-      "paragraphIndent": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
+        "paragraphIndent": {
           "value": 0,
           "type": "number",
-          "unit": "pixel"
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "DesktopBodyBodyTextXSmallParagraphIndent",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body text x-small",
+            "subitem": "paragraphIndent"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body text x-small",
+            "paragraphIndent"
+          ]
         },
-        "name": "DesktopBodyTextXSmallParagraphIndent",
-        "attributes": {
-          "category": "desktop",
-          "type": "body text x-small",
-          "item": "paragraphIndent"
-        },
-        "path": [
-          "desktop",
-          "body text x-small",
-          "paragraphIndent"
-        ]
-      },
-      "paragraphSpacing": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
+        "paragraphSpacing": {
           "value": 0,
           "type": "number",
-          "unit": "pixel"
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "DesktopBodyBodyTextXSmallParagraphSpacing",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body text x-small",
+            "subitem": "paragraphSpacing"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body text x-small",
+            "paragraphSpacing"
+          ]
         },
-        "name": "DesktopBodyTextXSmallParagraphSpacing",
-        "attributes": {
-          "category": "desktop",
-          "type": "body text x-small",
-          "item": "paragraphSpacing"
-        },
-        "path": [
-          "desktop",
-          "body text x-small",
-          "paragraphSpacing"
-        ]
-      },
-      "textCase": {
-        "value": "none",
-        "type": "string",
-        "original": {
+        "textCase": {
           "value": "none",
-          "type": "string"
-        },
-        "name": "DesktopBodyTextXSmallTextCase",
-        "attributes": {
-          "category": "desktop",
-          "type": "body text x-small",
-          "item": "textCase"
-        },
-        "path": [
-          "desktop",
-          "body text x-small",
-          "textCase"
-        ]
-      }
-    },
-    "body link large": {
-      "category": "font",
-      "fontSize": {
-        "value": 20,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "DesktopBodyBodyTextXSmallTextCase",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body text x-small",
+            "subitem": "textCase"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body text x-small",
+            "textCase"
+          ]
+        }
+      },
+      "body link large": {
+        "category": "font",
+        "fontSize": {
           "value": 20,
           "type": "number",
-          "unit": "pixel"
+          "unit": "pixel",
+          "original": {
+            "value": 20,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "DesktopBodyBodyLinkLargeFontSize",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body link large",
+            "subitem": "fontSize"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body link large",
+            "fontSize"
+          ]
         },
-        "name": "DesktopBodyLinkLargeFontSize",
-        "attributes": {
-          "category": "desktop",
-          "type": "body link large",
-          "item": "fontSize"
-        },
-        "path": [
-          "desktop",
-          "body link large",
-          "fontSize"
-        ]
-      },
-      "textDecoration": {
-        "value": "none",
-        "type": "string",
-        "original": {
+        "textDecoration": {
           "value": "none",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "DesktopBodyBodyLinkLargeTextDecoration",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body link large",
+            "subitem": "textDecoration"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body link large",
+            "textDecoration"
+          ]
         },
-        "name": "DesktopBodyLinkLargeTextDecoration",
-        "attributes": {
-          "category": "desktop",
-          "type": "body link large",
-          "item": "textDecoration"
-        },
-        "path": [
-          "desktop",
-          "body link large",
-          "textDecoration"
-        ]
-      },
-      "fontFamily": {
-        "value": "Poppins",
-        "type": "string",
-        "original": {
+        "fontFamily": {
           "value": "Poppins",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "Poppins",
+            "type": "string"
+          },
+          "name": "DesktopBodyBodyLinkLargeFontFamily",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body link large",
+            "subitem": "fontFamily"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body link large",
+            "fontFamily"
+          ]
         },
-        "name": "DesktopBodyLinkLargeFontFamily",
-        "attributes": {
-          "category": "desktop",
-          "type": "body link large",
-          "item": "fontFamily"
-        },
-        "path": [
-          "desktop",
-          "body link large",
-          "fontFamily"
-        ]
-      },
-      "fontWeight": {
-        "value": 600,
-        "type": "number",
-        "original": {
+        "fontWeight": {
           "value": 600,
-          "type": "number"
+          "type": "number",
+          "original": {
+            "value": 600,
+            "type": "number"
+          },
+          "name": "DesktopBodyBodyLinkLargeFontWeight",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body link large",
+            "subitem": "fontWeight"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body link large",
+            "fontWeight"
+          ]
         },
-        "name": "DesktopBodyLinkLargeFontWeight",
-        "attributes": {
-          "category": "desktop",
-          "type": "body link large",
-          "item": "fontWeight"
-        },
-        "path": [
-          "desktop",
-          "body link large",
-          "fontWeight"
-        ]
-      },
-      "fontStyle": {
-        "value": "normal",
-        "type": "string",
-        "original": {
+        "fontStyle": {
           "value": "normal",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "DesktopBodyBodyLinkLargeFontStyle",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body link large",
+            "subitem": "fontStyle"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body link large",
+            "fontStyle"
+          ]
         },
-        "name": "DesktopBodyLinkLargeFontStyle",
-        "attributes": {
-          "category": "desktop",
-          "type": "body link large",
-          "item": "fontStyle"
-        },
-        "path": [
-          "desktop",
-          "body link large",
-          "fontStyle"
-        ]
-      },
-      "fontStretch": {
-        "value": "normal",
-        "type": "string",
-        "original": {
+        "fontStretch": {
           "value": "normal",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "DesktopBodyBodyLinkLargeFontStretch",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body link large",
+            "subitem": "fontStretch"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body link large",
+            "fontStretch"
+          ]
         },
-        "name": "DesktopBodyLinkLargeFontStretch",
-        "attributes": {
-          "category": "desktop",
-          "type": "body link large",
-          "item": "fontStretch"
-        },
-        "path": [
-          "desktop",
-          "body link large",
-          "fontStretch"
-        ]
-      },
-      "_fontStyleOld": {
-        "value": "SemiBold",
-        "type": "string",
-        "original": {
+        "_fontStyleOld": {
           "value": "SemiBold",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "SemiBold",
+            "type": "string"
+          },
+          "name": "DesktopBodyBodyLinkLargeFontStyleOld",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body link large",
+            "subitem": "_fontStyleOld"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body link large",
+            "_fontStyleOld"
+          ]
         },
-        "name": "DesktopBodyLinkLargeFontStyleOld",
-        "attributes": {
-          "category": "desktop",
-          "type": "body link large",
-          "item": "_fontStyleOld"
-        },
-        "path": [
-          "desktop",
-          "body link large",
-          "_fontStyleOld"
-        ]
-      },
-      "letterSpacing": {
-        "value": 0.75,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
+        "letterSpacing": {
           "value": 0.75,
           "type": "number",
-          "unit": "pixels"
+          "unit": "pixels",
+          "original": {
+            "value": 0.75,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "DesktopBodyBodyLinkLargeLetterSpacing",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body link large",
+            "subitem": "letterSpacing"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body link large",
+            "letterSpacing"
+          ]
         },
-        "name": "DesktopBodyLinkLargeLetterSpacing",
-        "attributes": {
-          "category": "desktop",
-          "type": "body link large",
-          "item": "letterSpacing"
-        },
-        "path": [
-          "desktop",
-          "body link large",
-          "letterSpacing"
-        ]
-      },
-      "lineHeight": {
-        "value": 38,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
+        "lineHeight": {
           "value": 38,
           "type": "number",
-          "unit": "pixels"
+          "unit": "pixels",
+          "original": {
+            "value": 38,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "DesktopBodyBodyLinkLargeLineHeight",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body link large",
+            "subitem": "lineHeight"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body link large",
+            "lineHeight"
+          ]
         },
-        "name": "DesktopBodyLinkLargeLineHeight",
-        "attributes": {
-          "category": "desktop",
-          "type": "body link large",
-          "item": "lineHeight"
-        },
-        "path": [
-          "desktop",
-          "body link large",
-          "lineHeight"
-        ]
-      },
-      "paragraphIndent": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
+        "paragraphIndent": {
           "value": 0,
           "type": "number",
-          "unit": "pixel"
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "DesktopBodyBodyLinkLargeParagraphIndent",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body link large",
+            "subitem": "paragraphIndent"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body link large",
+            "paragraphIndent"
+          ]
         },
-        "name": "DesktopBodyLinkLargeParagraphIndent",
-        "attributes": {
-          "category": "desktop",
-          "type": "body link large",
-          "item": "paragraphIndent"
-        },
-        "path": [
-          "desktop",
-          "body link large",
-          "paragraphIndent"
-        ]
-      },
-      "paragraphSpacing": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
+        "paragraphSpacing": {
           "value": 0,
           "type": "number",
-          "unit": "pixel"
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "DesktopBodyBodyLinkLargeParagraphSpacing",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body link large",
+            "subitem": "paragraphSpacing"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body link large",
+            "paragraphSpacing"
+          ]
         },
-        "name": "DesktopBodyLinkLargeParagraphSpacing",
-        "attributes": {
-          "category": "desktop",
-          "type": "body link large",
-          "item": "paragraphSpacing"
-        },
-        "path": [
-          "desktop",
-          "body link large",
-          "paragraphSpacing"
-        ]
-      },
-      "textCase": {
-        "value": "none",
-        "type": "string",
-        "original": {
+        "textCase": {
           "value": "none",
-          "type": "string"
-        },
-        "name": "DesktopBodyLinkLargeTextCase",
-        "attributes": {
-          "category": "desktop",
-          "type": "body link large",
-          "item": "textCase"
-        },
-        "path": [
-          "desktop",
-          "body link large",
-          "textCase"
-        ]
-      }
-    },
-    "body link medium": {
-      "category": "font",
-      "fontSize": {
-        "value": 17,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 17,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "DesktopBodyLinkMediumFontSize",
-        "attributes": {
-          "category": "desktop",
-          "type": "body link medium",
-          "item": "fontSize"
-        },
-        "path": [
-          "desktop",
-          "body link medium",
-          "fontSize"
-        ]
-      },
-      "textDecoration": {
-        "value": "none",
-        "type": "string",
-        "original": {
-          "value": "none",
-          "type": "string"
-        },
-        "name": "DesktopBodyLinkMediumTextDecoration",
-        "attributes": {
-          "category": "desktop",
-          "type": "body link medium",
-          "item": "textDecoration"
-        },
-        "path": [
-          "desktop",
-          "body link medium",
-          "textDecoration"
-        ]
-      },
-      "fontFamily": {
-        "value": "Poppins",
-        "type": "string",
-        "original": {
-          "value": "Poppins",
-          "type": "string"
-        },
-        "name": "DesktopBodyLinkMediumFontFamily",
-        "attributes": {
-          "category": "desktop",
-          "type": "body link medium",
-          "item": "fontFamily"
-        },
-        "path": [
-          "desktop",
-          "body link medium",
-          "fontFamily"
-        ]
-      },
-      "fontWeight": {
-        "value": 600,
-        "type": "number",
-        "original": {
-          "value": 600,
-          "type": "number"
-        },
-        "name": "DesktopBodyLinkMediumFontWeight",
-        "attributes": {
-          "category": "desktop",
-          "type": "body link medium",
-          "item": "fontWeight"
-        },
-        "path": [
-          "desktop",
-          "body link medium",
-          "fontWeight"
-        ]
-      },
-      "fontStyle": {
-        "value": "normal",
-        "type": "string",
-        "original": {
-          "value": "normal",
-          "type": "string"
-        },
-        "name": "DesktopBodyLinkMediumFontStyle",
-        "attributes": {
-          "category": "desktop",
-          "type": "body link medium",
-          "item": "fontStyle"
-        },
-        "path": [
-          "desktop",
-          "body link medium",
-          "fontStyle"
-        ]
-      },
-      "fontStretch": {
-        "value": "normal",
-        "type": "string",
-        "original": {
-          "value": "normal",
-          "type": "string"
-        },
-        "name": "DesktopBodyLinkMediumFontStretch",
-        "attributes": {
-          "category": "desktop",
-          "type": "body link medium",
-          "item": "fontStretch"
-        },
-        "path": [
-          "desktop",
-          "body link medium",
-          "fontStretch"
-        ]
-      },
-      "_fontStyleOld": {
-        "value": "SemiBold",
-        "type": "string",
-        "original": {
-          "value": "SemiBold",
-          "type": "string"
-        },
-        "name": "DesktopBodyLinkMediumFontStyleOld",
-        "attributes": {
-          "category": "desktop",
-          "type": "body link medium",
-          "item": "_fontStyleOld"
-        },
-        "path": [
-          "desktop",
-          "body link medium",
-          "_fontStyleOld"
-        ]
-      },
-      "letterSpacing": {
-        "value": 0.75,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
-          "value": 0.75,
-          "type": "number",
-          "unit": "pixels"
-        },
-        "name": "DesktopBodyLinkMediumLetterSpacing",
-        "attributes": {
-          "category": "desktop",
-          "type": "body link medium",
-          "item": "letterSpacing"
-        },
-        "path": [
-          "desktop",
-          "body link medium",
-          "letterSpacing"
-        ]
-      },
-      "lineHeight": {
-        "value": 34,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
-          "value": 34,
-          "type": "number",
-          "unit": "pixels"
-        },
-        "name": "DesktopBodyLinkMediumLineHeight",
-        "attributes": {
-          "category": "desktop",
-          "type": "body link medium",
-          "item": "lineHeight"
-        },
-        "path": [
-          "desktop",
-          "body link medium",
-          "lineHeight"
-        ]
-      },
-      "paragraphIndent": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "DesktopBodyLinkMediumParagraphIndent",
-        "attributes": {
-          "category": "desktop",
-          "type": "body link medium",
-          "item": "paragraphIndent"
-        },
-        "path": [
-          "desktop",
-          "body link medium",
-          "paragraphIndent"
-        ]
-      },
-      "paragraphSpacing": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "DesktopBodyLinkMediumParagraphSpacing",
-        "attributes": {
-          "category": "desktop",
-          "type": "body link medium",
-          "item": "paragraphSpacing"
-        },
-        "path": [
-          "desktop",
-          "body link medium",
-          "paragraphSpacing"
-        ]
-      },
-      "textCase": {
-        "value": "none",
-        "type": "string",
-        "original": {
-          "value": "none",
-          "type": "string"
-        },
-        "name": "DesktopBodyLinkMediumTextCase",
-        "attributes": {
-          "category": "desktop",
-          "type": "body link medium",
-          "item": "textCase"
-        },
-        "path": [
-          "desktop",
-          "body link medium",
-          "textCase"
-        ]
-      }
-    },
-    "body link small": {
-      "category": "font",
-      "fontSize": {
-        "value": 15,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 15,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "DesktopBodyLinkSmallFontSize",
-        "attributes": {
-          "category": "desktop",
-          "type": "body link small",
-          "item": "fontSize"
-        },
-        "path": [
-          "desktop",
-          "body link small",
-          "fontSize"
-        ]
-      },
-      "textDecoration": {
-        "value": "none",
-        "type": "string",
-        "original": {
-          "value": "none",
-          "type": "string"
-        },
-        "name": "DesktopBodyLinkSmallTextDecoration",
-        "attributes": {
-          "category": "desktop",
-          "type": "body link small",
-          "item": "textDecoration"
-        },
-        "path": [
-          "desktop",
-          "body link small",
-          "textDecoration"
-        ]
-      },
-      "fontFamily": {
-        "value": "Poppins",
-        "type": "string",
-        "original": {
-          "value": "Poppins",
-          "type": "string"
-        },
-        "name": "DesktopBodyLinkSmallFontFamily",
-        "attributes": {
-          "category": "desktop",
-          "type": "body link small",
-          "item": "fontFamily"
-        },
-        "path": [
-          "desktop",
-          "body link small",
-          "fontFamily"
-        ]
-      },
-      "fontWeight": {
-        "value": 400,
-        "type": "number",
-        "original": {
-          "value": 400,
-          "type": "number"
-        },
-        "name": "DesktopBodyLinkSmallFontWeight",
-        "attributes": {
-          "category": "desktop",
-          "type": "body link small",
-          "item": "fontWeight"
-        },
-        "path": [
-          "desktop",
-          "body link small",
-          "fontWeight"
-        ]
-      },
-      "fontStyle": {
-        "value": "normal",
-        "type": "string",
-        "original": {
-          "value": "normal",
-          "type": "string"
-        },
-        "name": "DesktopBodyLinkSmallFontStyle",
-        "attributes": {
-          "category": "desktop",
-          "type": "body link small",
-          "item": "fontStyle"
-        },
-        "path": [
-          "desktop",
-          "body link small",
-          "fontStyle"
-        ]
-      },
-      "fontStretch": {
-        "value": "normal",
-        "type": "string",
-        "original": {
-          "value": "normal",
-          "type": "string"
-        },
-        "name": "DesktopBodyLinkSmallFontStretch",
-        "attributes": {
-          "category": "desktop",
-          "type": "body link small",
-          "item": "fontStretch"
-        },
-        "path": [
-          "desktop",
-          "body link small",
-          "fontStretch"
-        ]
-      },
-      "_fontStyleOld": {
-        "value": "Regular",
-        "type": "string",
-        "original": {
-          "value": "Regular",
-          "type": "string"
-        },
-        "name": "DesktopBodyLinkSmallFontStyleOld",
-        "attributes": {
-          "category": "desktop",
-          "type": "body link small",
-          "item": "_fontStyleOld"
-        },
-        "path": [
-          "desktop",
-          "body link small",
-          "_fontStyleOld"
-        ]
-      },
-      "letterSpacing": {
-        "value": 0.75,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
-          "value": 0.75,
-          "type": "number",
-          "unit": "pixels"
-        },
-        "name": "DesktopBodyLinkSmallLetterSpacing",
-        "attributes": {
-          "category": "desktop",
-          "type": "body link small",
-          "item": "letterSpacing"
-        },
-        "path": [
-          "desktop",
-          "body link small",
-          "letterSpacing"
-        ]
-      },
-      "lineHeight": {
-        "value": 24,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
-          "value": 24,
-          "type": "number",
-          "unit": "pixels"
-        },
-        "name": "DesktopBodyLinkSmallLineHeight",
-        "attributes": {
-          "category": "desktop",
-          "type": "body link small",
-          "item": "lineHeight"
-        },
-        "path": [
-          "desktop",
-          "body link small",
-          "lineHeight"
-        ]
-      },
-      "paragraphIndent": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "DesktopBodyLinkSmallParagraphIndent",
-        "attributes": {
-          "category": "desktop",
-          "type": "body link small",
-          "item": "paragraphIndent"
-        },
-        "path": [
-          "desktop",
-          "body link small",
-          "paragraphIndent"
-        ]
-      },
-      "paragraphSpacing": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "DesktopBodyLinkSmallParagraphSpacing",
-        "attributes": {
-          "category": "desktop",
-          "type": "body link small",
-          "item": "paragraphSpacing"
-        },
-        "path": [
-          "desktop",
-          "body link small",
-          "paragraphSpacing"
-        ]
-      },
-      "textCase": {
-        "value": "none",
-        "type": "string",
-        "original": {
-          "value": "none",
-          "type": "string"
-        },
-        "name": "DesktopBodyLinkSmallTextCase",
-        "attributes": {
-          "category": "desktop",
-          "type": "body link small",
-          "item": "textCase"
-        },
-        "path": [
-          "desktop",
-          "body link small",
-          "textCase"
-        ]
-      }
-    },
-    "body link x-small": {
-      "category": "font",
-      "fontSize": {
-        "value": 13,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 13,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "DesktopBodyLinkXSmallFontSize",
-        "attributes": {
-          "category": "desktop",
-          "type": "body link x-small",
-          "item": "fontSize"
-        },
-        "path": [
-          "desktop",
-          "body link x-small",
-          "fontSize"
-        ]
-      },
-      "textDecoration": {
-        "value": "none",
-        "type": "string",
-        "original": {
-          "value": "none",
-          "type": "string"
-        },
-        "name": "DesktopBodyLinkXSmallTextDecoration",
-        "attributes": {
-          "category": "desktop",
-          "type": "body link x-small",
-          "item": "textDecoration"
-        },
-        "path": [
-          "desktop",
-          "body link x-small",
-          "textDecoration"
-        ]
-      },
-      "fontFamily": {
-        "value": "Poppins",
-        "type": "string",
-        "original": {
-          "value": "Poppins",
-          "type": "string"
-        },
-        "name": "DesktopBodyLinkXSmallFontFamily",
-        "attributes": {
-          "category": "desktop",
-          "type": "body link x-small",
-          "item": "fontFamily"
-        },
-        "path": [
-          "desktop",
-          "body link x-small",
-          "fontFamily"
-        ]
-      },
-      "fontWeight": {
-        "value": 600,
-        "type": "number",
-        "original": {
-          "value": 600,
-          "type": "number"
-        },
-        "name": "DesktopBodyLinkXSmallFontWeight",
-        "attributes": {
-          "category": "desktop",
-          "type": "body link x-small",
-          "item": "fontWeight"
-        },
-        "path": [
-          "desktop",
-          "body link x-small",
-          "fontWeight"
-        ]
-      },
-      "fontStyle": {
-        "value": "normal",
-        "type": "string",
-        "original": {
-          "value": "normal",
-          "type": "string"
-        },
-        "name": "DesktopBodyLinkXSmallFontStyle",
-        "attributes": {
-          "category": "desktop",
-          "type": "body link x-small",
-          "item": "fontStyle"
-        },
-        "path": [
-          "desktop",
-          "body link x-small",
-          "fontStyle"
-        ]
-      },
-      "fontStretch": {
-        "value": "normal",
-        "type": "string",
-        "original": {
-          "value": "normal",
-          "type": "string"
-        },
-        "name": "DesktopBodyLinkXSmallFontStretch",
-        "attributes": {
-          "category": "desktop",
-          "type": "body link x-small",
-          "item": "fontStretch"
-        },
-        "path": [
-          "desktop",
-          "body link x-small",
-          "fontStretch"
-        ]
-      },
-      "_fontStyleOld": {
-        "value": "SemiBold",
-        "type": "string",
-        "original": {
-          "value": "SemiBold",
-          "type": "string"
-        },
-        "name": "DesktopBodyLinkXSmallFontStyleOld",
-        "attributes": {
-          "category": "desktop",
-          "type": "body link x-small",
-          "item": "_fontStyleOld"
-        },
-        "path": [
-          "desktop",
-          "body link x-small",
-          "_fontStyleOld"
-        ]
-      },
-      "letterSpacing": {
-        "value": 0.25,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
-          "value": 0.25,
-          "type": "number",
-          "unit": "pixels"
-        },
-        "name": "DesktopBodyLinkXSmallLetterSpacing",
-        "attributes": {
-          "category": "desktop",
-          "type": "body link x-small",
-          "item": "letterSpacing"
-        },
-        "path": [
-          "desktop",
-          "body link x-small",
-          "letterSpacing"
-        ]
-      },
-      "lineHeight": {
-        "value": 22,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
-          "value": 22,
-          "type": "number",
-          "unit": "pixels"
-        },
-        "name": "DesktopBodyLinkXSmallLineHeight",
-        "attributes": {
-          "category": "desktop",
-          "type": "body link x-small",
-          "item": "lineHeight"
-        },
-        "path": [
-          "desktop",
-          "body link x-small",
-          "lineHeight"
-        ]
-      },
-      "paragraphIndent": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "DesktopBodyLinkXSmallParagraphIndent",
-        "attributes": {
-          "category": "desktop",
-          "type": "body link x-small",
-          "item": "paragraphIndent"
-        },
-        "path": [
-          "desktop",
-          "body link x-small",
-          "paragraphIndent"
-        ]
-      },
-      "paragraphSpacing": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "DesktopBodyLinkXSmallParagraphSpacing",
-        "attributes": {
-          "category": "desktop",
-          "type": "body link x-small",
-          "item": "paragraphSpacing"
-        },
-        "path": [
-          "desktop",
-          "body link x-small",
-          "paragraphSpacing"
-        ]
-      },
-      "textCase": {
-        "value": "none",
-        "type": "string",
-        "original": {
-          "value": "none",
-          "type": "string"
-        },
-        "name": "DesktopBodyLinkXSmallTextCase",
-        "attributes": {
-          "category": "desktop",
-          "type": "body link x-small",
-          "item": "textCase"
-        },
-        "path": [
-          "desktop",
-          "body link x-small",
-          "textCase"
-        ]
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "DesktopBodyBodyLinkLargeTextCase",
+          "attributes": {
+            "category": "desktop",
+            "type": "body",
+            "item": "body link large",
+            "subitem": "textCase"
+          },
+          "path": [
+            "desktop",
+            "body",
+            "body link large",
+            "textCase"
+          ]
+        }
       }
     }
   },
   "mobile": {
-    "display huge": {
-      "category": "font",
-      "fontSize": {
-        "value": 32,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 32,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "MobileDisplayHugeFontSize",
-        "attributes": {
-          "category": "mobile",
-          "type": "display huge",
-          "item": "fontSize"
-        },
-        "path": [
-          "mobile",
-          "display huge",
-          "fontSize"
-        ]
-      },
-      "textDecoration": {
-        "value": "none",
-        "type": "string",
-        "original": {
-          "value": "none",
-          "type": "string"
-        },
-        "name": "MobileDisplayHugeTextDecoration",
-        "attributes": {
-          "category": "mobile",
-          "type": "display huge",
-          "item": "textDecoration"
-        },
-        "path": [
-          "mobile",
-          "display huge",
-          "textDecoration"
-        ]
-      },
-      "fontFamily": {
-        "value": "Poppins",
-        "type": "string",
-        "original": {
-          "value": "Poppins",
-          "type": "string"
-        },
-        "name": "MobileDisplayHugeFontFamily",
-        "attributes": {
-          "category": "mobile",
-          "type": "display huge",
-          "item": "fontFamily"
-        },
-        "path": [
-          "mobile",
-          "display huge",
-          "fontFamily"
-        ]
-      },
-      "fontWeight": {
-        "value": 400,
-        "type": "number",
-        "original": {
-          "value": 400,
-          "type": "number"
-        },
-        "name": "MobileDisplayHugeFontWeight",
-        "attributes": {
-          "category": "mobile",
-          "type": "display huge",
-          "item": "fontWeight"
-        },
-        "path": [
-          "mobile",
-          "display huge",
-          "fontWeight"
-        ]
-      },
-      "fontStyle": {
-        "value": "normal",
-        "type": "string",
-        "original": {
-          "value": "normal",
-          "type": "string"
-        },
-        "name": "MobileDisplayHugeFontStyle",
-        "attributes": {
-          "category": "mobile",
-          "type": "display huge",
-          "item": "fontStyle"
-        },
-        "path": [
-          "mobile",
-          "display huge",
-          "fontStyle"
-        ]
-      },
-      "fontStretch": {
-        "value": "normal",
-        "type": "string",
-        "original": {
-          "value": "normal",
-          "type": "string"
-        },
-        "name": "MobileDisplayHugeFontStretch",
-        "attributes": {
-          "category": "mobile",
-          "type": "display huge",
-          "item": "fontStretch"
-        },
-        "path": [
-          "mobile",
-          "display huge",
-          "fontStretch"
-        ]
-      },
-      "_fontStyleOld": {
-        "value": "Regular",
-        "type": "string",
-        "original": {
-          "value": "Regular",
-          "type": "string"
-        },
-        "name": "MobileDisplayHugeFontStyleOld",
-        "attributes": {
-          "category": "mobile",
-          "type": "display huge",
-          "item": "_fontStyleOld"
-        },
-        "path": [
-          "mobile",
-          "display huge",
-          "_fontStyleOld"
-        ]
-      },
-      "letterSpacing": {
-        "value": 1,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
-          "value": 1,
-          "type": "number",
-          "unit": "pixels"
-        },
-        "name": "MobileDisplayHugeLetterSpacing",
-        "attributes": {
-          "category": "mobile",
-          "type": "display huge",
-          "item": "letterSpacing"
-        },
-        "path": [
-          "mobile",
-          "display huge",
-          "letterSpacing"
-        ]
-      },
-      "lineHeight": {
-        "value": 44,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
-          "value": 44,
-          "type": "number",
-          "unit": "pixels"
-        },
-        "name": "MobileDisplayHugeLineHeight",
-        "attributes": {
-          "category": "mobile",
-          "type": "display huge",
-          "item": "lineHeight"
-        },
-        "path": [
-          "mobile",
-          "display huge",
-          "lineHeight"
-        ]
-      },
-      "paragraphIndent": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "MobileDisplayHugeParagraphIndent",
-        "attributes": {
-          "category": "mobile",
-          "type": "display huge",
-          "item": "paragraphIndent"
-        },
-        "path": [
-          "mobile",
-          "display huge",
-          "paragraphIndent"
-        ]
-      },
-      "paragraphSpacing": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "MobileDisplayHugeParagraphSpacing",
-        "attributes": {
-          "category": "mobile",
-          "type": "display huge",
-          "item": "paragraphSpacing"
-        },
-        "path": [
-          "mobile",
-          "display huge",
-          "paragraphSpacing"
-        ]
-      },
-      "textCase": {
-        "value": "none",
-        "type": "string",
-        "original": {
-          "value": "none",
-          "type": "string"
-        },
-        "name": "MobileDisplayHugeTextCase",
-        "attributes": {
-          "category": "mobile",
-          "type": "display huge",
-          "item": "textCase"
-        },
-        "path": [
-          "mobile",
-          "display huge",
-          "textCase"
-        ]
-      }
-    },
-    "display large": {
-      "category": "font",
-      "fontSize": {
-        "value": 28,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 28,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "MobileDisplayLargeFontSize",
-        "attributes": {
-          "category": "mobile",
-          "type": "display large",
-          "item": "fontSize"
-        },
-        "path": [
-          "mobile",
-          "display large",
-          "fontSize"
-        ]
-      },
-      "textDecoration": {
-        "value": "none",
-        "type": "string",
-        "original": {
-          "value": "none",
-          "type": "string"
-        },
-        "name": "MobileDisplayLargeTextDecoration",
-        "attributes": {
-          "category": "mobile",
-          "type": "display large",
-          "item": "textDecoration"
-        },
-        "path": [
-          "mobile",
-          "display large",
-          "textDecoration"
-        ]
-      },
-      "fontFamily": {
-        "value": "Poppins",
-        "type": "string",
-        "original": {
-          "value": "Poppins",
-          "type": "string"
-        },
-        "name": "MobileDisplayLargeFontFamily",
-        "attributes": {
-          "category": "mobile",
-          "type": "display large",
-          "item": "fontFamily"
-        },
-        "path": [
-          "mobile",
-          "display large",
-          "fontFamily"
-        ]
-      },
-      "fontWeight": {
-        "value": 400,
-        "type": "number",
-        "original": {
-          "value": 400,
-          "type": "number"
-        },
-        "name": "MobileDisplayLargeFontWeight",
-        "attributes": {
-          "category": "mobile",
-          "type": "display large",
-          "item": "fontWeight"
-        },
-        "path": [
-          "mobile",
-          "display large",
-          "fontWeight"
-        ]
-      },
-      "fontStyle": {
-        "value": "normal",
-        "type": "string",
-        "original": {
-          "value": "normal",
-          "type": "string"
-        },
-        "name": "MobileDisplayLargeFontStyle",
-        "attributes": {
-          "category": "mobile",
-          "type": "display large",
-          "item": "fontStyle"
-        },
-        "path": [
-          "mobile",
-          "display large",
-          "fontStyle"
-        ]
-      },
-      "fontStretch": {
-        "value": "normal",
-        "type": "string",
-        "original": {
-          "value": "normal",
-          "type": "string"
-        },
-        "name": "MobileDisplayLargeFontStretch",
-        "attributes": {
-          "category": "mobile",
-          "type": "display large",
-          "item": "fontStretch"
-        },
-        "path": [
-          "mobile",
-          "display large",
-          "fontStretch"
-        ]
-      },
-      "_fontStyleOld": {
-        "value": "Regular",
-        "type": "string",
-        "original": {
-          "value": "Regular",
-          "type": "string"
-        },
-        "name": "MobileDisplayLargeFontStyleOld",
-        "attributes": {
-          "category": "mobile",
-          "type": "display large",
-          "item": "_fontStyleOld"
-        },
-        "path": [
-          "mobile",
-          "display large",
-          "_fontStyleOld"
-        ]
-      },
-      "letterSpacing": {
-        "value": 1,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
-          "value": 1,
-          "type": "number",
-          "unit": "pixels"
-        },
-        "name": "MobileDisplayLargeLetterSpacing",
-        "attributes": {
-          "category": "mobile",
-          "type": "display large",
-          "item": "letterSpacing"
-        },
-        "path": [
-          "mobile",
-          "display large",
-          "letterSpacing"
-        ]
-      },
-      "lineHeight": {
-        "value": 40,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
-          "value": 40,
-          "type": "number",
-          "unit": "pixels"
-        },
-        "name": "MobileDisplayLargeLineHeight",
-        "attributes": {
-          "category": "mobile",
-          "type": "display large",
-          "item": "lineHeight"
-        },
-        "path": [
-          "mobile",
-          "display large",
-          "lineHeight"
-        ]
-      },
-      "paragraphIndent": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "MobileDisplayLargeParagraphIndent",
-        "attributes": {
-          "category": "mobile",
-          "type": "display large",
-          "item": "paragraphIndent"
-        },
-        "path": [
-          "mobile",
-          "display large",
-          "paragraphIndent"
-        ]
-      },
-      "paragraphSpacing": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "MobileDisplayLargeParagraphSpacing",
-        "attributes": {
-          "category": "mobile",
-          "type": "display large",
-          "item": "paragraphSpacing"
-        },
-        "path": [
-          "mobile",
-          "display large",
-          "paragraphSpacing"
-        ]
-      },
-      "textCase": {
-        "value": "none",
-        "type": "string",
-        "original": {
-          "value": "none",
-          "type": "string"
-        },
-        "name": "MobileDisplayLargeTextCase",
-        "attributes": {
-          "category": "mobile",
-          "type": "display large",
-          "item": "textCase"
-        },
-        "path": [
-          "mobile",
-          "display large",
-          "textCase"
-        ]
-      }
-    },
-    "display medium": {
-      "category": "font",
-      "fontSize": {
-        "value": 24,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 24,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "MobileDisplayMediumFontSize",
-        "attributes": {
-          "category": "mobile",
-          "type": "display medium",
-          "item": "fontSize"
-        },
-        "path": [
-          "mobile",
-          "display medium",
-          "fontSize"
-        ]
-      },
-      "textDecoration": {
-        "value": "none",
-        "type": "string",
-        "original": {
-          "value": "none",
-          "type": "string"
-        },
-        "name": "MobileDisplayMediumTextDecoration",
-        "attributes": {
-          "category": "mobile",
-          "type": "display medium",
-          "item": "textDecoration"
-        },
-        "path": [
-          "mobile",
-          "display medium",
-          "textDecoration"
-        ]
-      },
-      "fontFamily": {
-        "value": "Poppins",
-        "type": "string",
-        "original": {
-          "value": "Poppins",
-          "type": "string"
-        },
-        "name": "MobileDisplayMediumFontFamily",
-        "attributes": {
-          "category": "mobile",
-          "type": "display medium",
-          "item": "fontFamily"
-        },
-        "path": [
-          "mobile",
-          "display medium",
-          "fontFamily"
-        ]
-      },
-      "fontWeight": {
-        "value": 400,
-        "type": "number",
-        "original": {
-          "value": 400,
-          "type": "number"
-        },
-        "name": "MobileDisplayMediumFontWeight",
-        "attributes": {
-          "category": "mobile",
-          "type": "display medium",
-          "item": "fontWeight"
-        },
-        "path": [
-          "mobile",
-          "display medium",
-          "fontWeight"
-        ]
-      },
-      "fontStyle": {
-        "value": "normal",
-        "type": "string",
-        "original": {
-          "value": "normal",
-          "type": "string"
-        },
-        "name": "MobileDisplayMediumFontStyle",
-        "attributes": {
-          "category": "mobile",
-          "type": "display medium",
-          "item": "fontStyle"
-        },
-        "path": [
-          "mobile",
-          "display medium",
-          "fontStyle"
-        ]
-      },
-      "fontStretch": {
-        "value": "normal",
-        "type": "string",
-        "original": {
-          "value": "normal",
-          "type": "string"
-        },
-        "name": "MobileDisplayMediumFontStretch",
-        "attributes": {
-          "category": "mobile",
-          "type": "display medium",
-          "item": "fontStretch"
-        },
-        "path": [
-          "mobile",
-          "display medium",
-          "fontStretch"
-        ]
-      },
-      "_fontStyleOld": {
-        "value": "Regular",
-        "type": "string",
-        "original": {
-          "value": "Regular",
-          "type": "string"
-        },
-        "name": "MobileDisplayMediumFontStyleOld",
-        "attributes": {
-          "category": "mobile",
-          "type": "display medium",
-          "item": "_fontStyleOld"
-        },
-        "path": [
-          "mobile",
-          "display medium",
-          "_fontStyleOld"
-        ]
-      },
-      "letterSpacing": {
-        "value": 1,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
-          "value": 1,
-          "type": "number",
-          "unit": "pixels"
-        },
-        "name": "MobileDisplayMediumLetterSpacing",
-        "attributes": {
-          "category": "mobile",
-          "type": "display medium",
-          "item": "letterSpacing"
-        },
-        "path": [
-          "mobile",
-          "display medium",
-          "letterSpacing"
-        ]
-      },
-      "lineHeight": {
-        "value": 34,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
-          "value": 34,
-          "type": "number",
-          "unit": "pixels"
-        },
-        "name": "MobileDisplayMediumLineHeight",
-        "attributes": {
-          "category": "mobile",
-          "type": "display medium",
-          "item": "lineHeight"
-        },
-        "path": [
-          "mobile",
-          "display medium",
-          "lineHeight"
-        ]
-      },
-      "paragraphIndent": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "MobileDisplayMediumParagraphIndent",
-        "attributes": {
-          "category": "mobile",
-          "type": "display medium",
-          "item": "paragraphIndent"
-        },
-        "path": [
-          "mobile",
-          "display medium",
-          "paragraphIndent"
-        ]
-      },
-      "paragraphSpacing": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "MobileDisplayMediumParagraphSpacing",
-        "attributes": {
-          "category": "mobile",
-          "type": "display medium",
-          "item": "paragraphSpacing"
-        },
-        "path": [
-          "mobile",
-          "display medium",
-          "paragraphSpacing"
-        ]
-      },
-      "textCase": {
-        "value": "none",
-        "type": "string",
-        "original": {
-          "value": "none",
-          "type": "string"
-        },
-        "name": "MobileDisplayMediumTextCase",
-        "attributes": {
-          "category": "mobile",
-          "type": "display medium",
-          "item": "textCase"
-        },
-        "path": [
-          "mobile",
-          "display medium",
-          "textCase"
-        ]
-      }
-    },
-    "display small": {
-      "category": "font",
-      "fontSize": {
-        "value": 20,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 20,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "MobileDisplaySmallFontSize",
-        "attributes": {
-          "category": "mobile",
-          "type": "display small",
-          "item": "fontSize"
-        },
-        "path": [
-          "mobile",
-          "display small",
-          "fontSize"
-        ]
-      },
-      "textDecoration": {
-        "value": "none",
-        "type": "string",
-        "original": {
-          "value": "none",
-          "type": "string"
-        },
-        "name": "MobileDisplaySmallTextDecoration",
-        "attributes": {
-          "category": "mobile",
-          "type": "display small",
-          "item": "textDecoration"
-        },
-        "path": [
-          "mobile",
-          "display small",
-          "textDecoration"
-        ]
-      },
-      "fontFamily": {
-        "value": "Poppins",
-        "type": "string",
-        "original": {
-          "value": "Poppins",
-          "type": "string"
-        },
-        "name": "MobileDisplaySmallFontFamily",
-        "attributes": {
-          "category": "mobile",
-          "type": "display small",
-          "item": "fontFamily"
-        },
-        "path": [
-          "mobile",
-          "display small",
-          "fontFamily"
-        ]
-      },
-      "fontWeight": {
-        "value": 400,
-        "type": "number",
-        "original": {
-          "value": 400,
-          "type": "number"
-        },
-        "name": "MobileDisplaySmallFontWeight",
-        "attributes": {
-          "category": "mobile",
-          "type": "display small",
-          "item": "fontWeight"
-        },
-        "path": [
-          "mobile",
-          "display small",
-          "fontWeight"
-        ]
-      },
-      "fontStyle": {
-        "value": "normal",
-        "type": "string",
-        "original": {
-          "value": "normal",
-          "type": "string"
-        },
-        "name": "MobileDisplaySmallFontStyle",
-        "attributes": {
-          "category": "mobile",
-          "type": "display small",
-          "item": "fontStyle"
-        },
-        "path": [
-          "mobile",
-          "display small",
-          "fontStyle"
-        ]
-      },
-      "fontStretch": {
-        "value": "normal",
-        "type": "string",
-        "original": {
-          "value": "normal",
-          "type": "string"
-        },
-        "name": "MobileDisplaySmallFontStretch",
-        "attributes": {
-          "category": "mobile",
-          "type": "display small",
-          "item": "fontStretch"
-        },
-        "path": [
-          "mobile",
-          "display small",
-          "fontStretch"
-        ]
-      },
-      "_fontStyleOld": {
-        "value": "Regular",
-        "type": "string",
-        "original": {
-          "value": "Regular",
-          "type": "string"
-        },
-        "name": "MobileDisplaySmallFontStyleOld",
-        "attributes": {
-          "category": "mobile",
-          "type": "display small",
-          "item": "_fontStyleOld"
-        },
-        "path": [
-          "mobile",
-          "display small",
-          "_fontStyleOld"
-        ]
-      },
-      "letterSpacing": {
-        "value": 1,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
-          "value": 1,
-          "type": "number",
-          "unit": "pixels"
-        },
-        "name": "MobileDisplaySmallLetterSpacing",
-        "attributes": {
-          "category": "mobile",
-          "type": "display small",
-          "item": "letterSpacing"
-        },
-        "path": [
-          "mobile",
-          "display small",
-          "letterSpacing"
-        ]
-      },
-      "lineHeight": {
-        "value": 32,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
-          "value": 32,
-          "type": "number",
-          "unit": "pixels"
-        },
-        "name": "MobileDisplaySmallLineHeight",
-        "attributes": {
-          "category": "mobile",
-          "type": "display small",
-          "item": "lineHeight"
-        },
-        "path": [
-          "mobile",
-          "display small",
-          "lineHeight"
-        ]
-      },
-      "paragraphIndent": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "MobileDisplaySmallParagraphIndent",
-        "attributes": {
-          "category": "mobile",
-          "type": "display small",
-          "item": "paragraphIndent"
-        },
-        "path": [
-          "mobile",
-          "display small",
-          "paragraphIndent"
-        ]
-      },
-      "paragraphSpacing": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "MobileDisplaySmallParagraphSpacing",
-        "attributes": {
-          "category": "mobile",
-          "type": "display small",
-          "item": "paragraphSpacing"
-        },
-        "path": [
-          "mobile",
-          "display small",
-          "paragraphSpacing"
-        ]
-      },
-      "textCase": {
-        "value": "none",
-        "type": "string",
-        "original": {
-          "value": "none",
-          "type": "string"
-        },
-        "name": "MobileDisplaySmallTextCase",
-        "attributes": {
-          "category": "mobile",
-          "type": "display small",
-          "item": "textCase"
-        },
-        "path": [
-          "mobile",
-          "display small",
-          "textCase"
-        ]
-      }
-    },
-    "display huge bold": {
-      "category": "font",
-      "fontSize": {
-        "value": 32,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 32,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "MobileDisplayHugeBoldFontSize",
-        "attributes": {
-          "category": "mobile",
-          "type": "display huge bold",
-          "item": "fontSize"
-        },
-        "path": [
-          "mobile",
-          "display huge bold",
-          "fontSize"
-        ]
-      },
-      "textDecoration": {
-        "value": "none",
-        "type": "string",
-        "original": {
-          "value": "none",
-          "type": "string"
-        },
-        "name": "MobileDisplayHugeBoldTextDecoration",
-        "attributes": {
-          "category": "mobile",
-          "type": "display huge bold",
-          "item": "textDecoration"
-        },
-        "path": [
-          "mobile",
-          "display huge bold",
-          "textDecoration"
-        ]
-      },
-      "fontFamily": {
-        "value": "Poppins",
-        "type": "string",
-        "original": {
-          "value": "Poppins",
-          "type": "string"
-        },
-        "name": "MobileDisplayHugeBoldFontFamily",
-        "attributes": {
-          "category": "mobile",
-          "type": "display huge bold",
-          "item": "fontFamily"
-        },
-        "path": [
-          "mobile",
-          "display huge bold",
-          "fontFamily"
-        ]
-      },
-      "fontWeight": {
-        "value": 700,
-        "type": "number",
-        "original": {
-          "value": 700,
-          "type": "number"
-        },
-        "name": "MobileDisplayHugeBoldFontWeight",
-        "attributes": {
-          "category": "mobile",
-          "type": "display huge bold",
-          "item": "fontWeight"
-        },
-        "path": [
-          "mobile",
-          "display huge bold",
-          "fontWeight"
-        ]
-      },
-      "fontStyle": {
-        "value": "normal",
-        "type": "string",
-        "original": {
-          "value": "normal",
-          "type": "string"
-        },
-        "name": "MobileDisplayHugeBoldFontStyle",
-        "attributes": {
-          "category": "mobile",
-          "type": "display huge bold",
-          "item": "fontStyle"
-        },
-        "path": [
-          "mobile",
-          "display huge bold",
-          "fontStyle"
-        ]
-      },
-      "fontStretch": {
-        "value": "normal",
-        "type": "string",
-        "original": {
-          "value": "normal",
-          "type": "string"
-        },
-        "name": "MobileDisplayHugeBoldFontStretch",
-        "attributes": {
-          "category": "mobile",
-          "type": "display huge bold",
-          "item": "fontStretch"
-        },
-        "path": [
-          "mobile",
-          "display huge bold",
-          "fontStretch"
-        ]
-      },
-      "_fontStyleOld": {
-        "value": "Bold",
-        "type": "string",
-        "original": {
-          "value": "Bold",
-          "type": "string"
-        },
-        "name": "MobileDisplayHugeBoldFontStyleOld",
-        "attributes": {
-          "category": "mobile",
-          "type": "display huge bold",
-          "item": "_fontStyleOld"
-        },
-        "path": [
-          "mobile",
-          "display huge bold",
-          "_fontStyleOld"
-        ]
-      },
-      "letterSpacing": {
-        "value": 1,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
-          "value": 1,
-          "type": "number",
-          "unit": "pixels"
-        },
-        "name": "MobileDisplayHugeBoldLetterSpacing",
-        "attributes": {
-          "category": "mobile",
-          "type": "display huge bold",
-          "item": "letterSpacing"
-        },
-        "path": [
-          "mobile",
-          "display huge bold",
-          "letterSpacing"
-        ]
-      },
-      "lineHeight": {
-        "value": 44,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
-          "value": 44,
-          "type": "number",
-          "unit": "pixels"
-        },
-        "name": "MobileDisplayHugeBoldLineHeight",
-        "attributes": {
-          "category": "mobile",
-          "type": "display huge bold",
-          "item": "lineHeight"
-        },
-        "path": [
-          "mobile",
-          "display huge bold",
-          "lineHeight"
-        ]
-      },
-      "paragraphIndent": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "MobileDisplayHugeBoldParagraphIndent",
-        "attributes": {
-          "category": "mobile",
-          "type": "display huge bold",
-          "item": "paragraphIndent"
-        },
-        "path": [
-          "mobile",
-          "display huge bold",
-          "paragraphIndent"
-        ]
-      },
-      "paragraphSpacing": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "MobileDisplayHugeBoldParagraphSpacing",
-        "attributes": {
-          "category": "mobile",
-          "type": "display huge bold",
-          "item": "paragraphSpacing"
-        },
-        "path": [
-          "mobile",
-          "display huge bold",
-          "paragraphSpacing"
-        ]
-      },
-      "textCase": {
-        "value": "none",
-        "type": "string",
-        "original": {
-          "value": "none",
-          "type": "string"
-        },
-        "name": "MobileDisplayHugeBoldTextCase",
-        "attributes": {
-          "category": "mobile",
-          "type": "display huge bold",
-          "item": "textCase"
-        },
-        "path": [
-          "mobile",
-          "display huge bold",
-          "textCase"
-        ]
-      }
-    },
-    "display large bold": {
-      "category": "font",
-      "fontSize": {
-        "value": 28,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 28,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "MobileDisplayLargeBoldFontSize",
-        "attributes": {
-          "category": "mobile",
-          "type": "display large bold",
-          "item": "fontSize"
-        },
-        "path": [
-          "mobile",
-          "display large bold",
-          "fontSize"
-        ]
-      },
-      "textDecoration": {
-        "value": "none",
-        "type": "string",
-        "original": {
-          "value": "none",
-          "type": "string"
-        },
-        "name": "MobileDisplayLargeBoldTextDecoration",
-        "attributes": {
-          "category": "mobile",
-          "type": "display large bold",
-          "item": "textDecoration"
-        },
-        "path": [
-          "mobile",
-          "display large bold",
-          "textDecoration"
-        ]
-      },
-      "fontFamily": {
-        "value": "Poppins",
-        "type": "string",
-        "original": {
-          "value": "Poppins",
-          "type": "string"
-        },
-        "name": "MobileDisplayLargeBoldFontFamily",
-        "attributes": {
-          "category": "mobile",
-          "type": "display large bold",
-          "item": "fontFamily"
-        },
-        "path": [
-          "mobile",
-          "display large bold",
-          "fontFamily"
-        ]
-      },
-      "fontWeight": {
-        "value": 700,
-        "type": "number",
-        "original": {
-          "value": 700,
-          "type": "number"
-        },
-        "name": "MobileDisplayLargeBoldFontWeight",
-        "attributes": {
-          "category": "mobile",
-          "type": "display large bold",
-          "item": "fontWeight"
-        },
-        "path": [
-          "mobile",
-          "display large bold",
-          "fontWeight"
-        ]
-      },
-      "fontStyle": {
-        "value": "normal",
-        "type": "string",
-        "original": {
-          "value": "normal",
-          "type": "string"
-        },
-        "name": "MobileDisplayLargeBoldFontStyle",
-        "attributes": {
-          "category": "mobile",
-          "type": "display large bold",
-          "item": "fontStyle"
-        },
-        "path": [
-          "mobile",
-          "display large bold",
-          "fontStyle"
-        ]
-      },
-      "fontStretch": {
-        "value": "normal",
-        "type": "string",
-        "original": {
-          "value": "normal",
-          "type": "string"
-        },
-        "name": "MobileDisplayLargeBoldFontStretch",
-        "attributes": {
-          "category": "mobile",
-          "type": "display large bold",
-          "item": "fontStretch"
-        },
-        "path": [
-          "mobile",
-          "display large bold",
-          "fontStretch"
-        ]
-      },
-      "_fontStyleOld": {
-        "value": "Bold",
-        "type": "string",
-        "original": {
-          "value": "Bold",
-          "type": "string"
-        },
-        "name": "MobileDisplayLargeBoldFontStyleOld",
-        "attributes": {
-          "category": "mobile",
-          "type": "display large bold",
-          "item": "_fontStyleOld"
-        },
-        "path": [
-          "mobile",
-          "display large bold",
-          "_fontStyleOld"
-        ]
-      },
-      "letterSpacing": {
-        "value": 1,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
-          "value": 1,
-          "type": "number",
-          "unit": "pixels"
-        },
-        "name": "MobileDisplayLargeBoldLetterSpacing",
-        "attributes": {
-          "category": "mobile",
-          "type": "display large bold",
-          "item": "letterSpacing"
-        },
-        "path": [
-          "mobile",
-          "display large bold",
-          "letterSpacing"
-        ]
-      },
-      "lineHeight": {
-        "value": 40,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
-          "value": 40,
-          "type": "number",
-          "unit": "pixels"
-        },
-        "name": "MobileDisplayLargeBoldLineHeight",
-        "attributes": {
-          "category": "mobile",
-          "type": "display large bold",
-          "item": "lineHeight"
-        },
-        "path": [
-          "mobile",
-          "display large bold",
-          "lineHeight"
-        ]
-      },
-      "paragraphIndent": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "MobileDisplayLargeBoldParagraphIndent",
-        "attributes": {
-          "category": "mobile",
-          "type": "display large bold",
-          "item": "paragraphIndent"
-        },
-        "path": [
-          "mobile",
-          "display large bold",
-          "paragraphIndent"
-        ]
-      },
-      "paragraphSpacing": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "MobileDisplayLargeBoldParagraphSpacing",
-        "attributes": {
-          "category": "mobile",
-          "type": "display large bold",
-          "item": "paragraphSpacing"
-        },
-        "path": [
-          "mobile",
-          "display large bold",
-          "paragraphSpacing"
-        ]
-      },
-      "textCase": {
-        "value": "none",
-        "type": "string",
-        "original": {
-          "value": "none",
-          "type": "string"
-        },
-        "name": "MobileDisplayLargeBoldTextCase",
-        "attributes": {
-          "category": "mobile",
-          "type": "display large bold",
-          "item": "textCase"
-        },
-        "path": [
-          "mobile",
-          "display large bold",
-          "textCase"
-        ]
-      }
-    },
-    "display medium bold": {
-      "category": "font",
-      "fontSize": {
-        "value": 24,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 24,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "MobileDisplayMediumBoldFontSize",
-        "attributes": {
-          "category": "mobile",
-          "type": "display medium bold",
-          "item": "fontSize"
-        },
-        "path": [
-          "mobile",
-          "display medium bold",
-          "fontSize"
-        ]
-      },
-      "textDecoration": {
-        "value": "none",
-        "type": "string",
-        "original": {
-          "value": "none",
-          "type": "string"
-        },
-        "name": "MobileDisplayMediumBoldTextDecoration",
-        "attributes": {
-          "category": "mobile",
-          "type": "display medium bold",
-          "item": "textDecoration"
-        },
-        "path": [
-          "mobile",
-          "display medium bold",
-          "textDecoration"
-        ]
-      },
-      "fontFamily": {
-        "value": "Poppins",
-        "type": "string",
-        "original": {
-          "value": "Poppins",
-          "type": "string"
-        },
-        "name": "MobileDisplayMediumBoldFontFamily",
-        "attributes": {
-          "category": "mobile",
-          "type": "display medium bold",
-          "item": "fontFamily"
-        },
-        "path": [
-          "mobile",
-          "display medium bold",
-          "fontFamily"
-        ]
-      },
-      "fontWeight": {
-        "value": 700,
-        "type": "number",
-        "original": {
-          "value": 700,
-          "type": "number"
-        },
-        "name": "MobileDisplayMediumBoldFontWeight",
-        "attributes": {
-          "category": "mobile",
-          "type": "display medium bold",
-          "item": "fontWeight"
-        },
-        "path": [
-          "mobile",
-          "display medium bold",
-          "fontWeight"
-        ]
-      },
-      "fontStyle": {
-        "value": "normal",
-        "type": "string",
-        "original": {
-          "value": "normal",
-          "type": "string"
-        },
-        "name": "MobileDisplayMediumBoldFontStyle",
-        "attributes": {
-          "category": "mobile",
-          "type": "display medium bold",
-          "item": "fontStyle"
-        },
-        "path": [
-          "mobile",
-          "display medium bold",
-          "fontStyle"
-        ]
-      },
-      "fontStretch": {
-        "value": "normal",
-        "type": "string",
-        "original": {
-          "value": "normal",
-          "type": "string"
-        },
-        "name": "MobileDisplayMediumBoldFontStretch",
-        "attributes": {
-          "category": "mobile",
-          "type": "display medium bold",
-          "item": "fontStretch"
-        },
-        "path": [
-          "mobile",
-          "display medium bold",
-          "fontStretch"
-        ]
-      },
-      "_fontStyleOld": {
-        "value": "Bold",
-        "type": "string",
-        "original": {
-          "value": "Bold",
-          "type": "string"
-        },
-        "name": "MobileDisplayMediumBoldFontStyleOld",
-        "attributes": {
-          "category": "mobile",
-          "type": "display medium bold",
-          "item": "_fontStyleOld"
-        },
-        "path": [
-          "mobile",
-          "display medium bold",
-          "_fontStyleOld"
-        ]
-      },
-      "letterSpacing": {
-        "value": 1,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
-          "value": 1,
-          "type": "number",
-          "unit": "pixels"
-        },
-        "name": "MobileDisplayMediumBoldLetterSpacing",
-        "attributes": {
-          "category": "mobile",
-          "type": "display medium bold",
-          "item": "letterSpacing"
-        },
-        "path": [
-          "mobile",
-          "display medium bold",
-          "letterSpacing"
-        ]
-      },
-      "lineHeight": {
-        "value": 34,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
-          "value": 34,
-          "type": "number",
-          "unit": "pixels"
-        },
-        "name": "MobileDisplayMediumBoldLineHeight",
-        "attributes": {
-          "category": "mobile",
-          "type": "display medium bold",
-          "item": "lineHeight"
-        },
-        "path": [
-          "mobile",
-          "display medium bold",
-          "lineHeight"
-        ]
-      },
-      "paragraphIndent": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "MobileDisplayMediumBoldParagraphIndent",
-        "attributes": {
-          "category": "mobile",
-          "type": "display medium bold",
-          "item": "paragraphIndent"
-        },
-        "path": [
-          "mobile",
-          "display medium bold",
-          "paragraphIndent"
-        ]
-      },
-      "paragraphSpacing": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "MobileDisplayMediumBoldParagraphSpacing",
-        "attributes": {
-          "category": "mobile",
-          "type": "display medium bold",
-          "item": "paragraphSpacing"
-        },
-        "path": [
-          "mobile",
-          "display medium bold",
-          "paragraphSpacing"
-        ]
-      },
-      "textCase": {
-        "value": "none",
-        "type": "string",
-        "original": {
-          "value": "none",
-          "type": "string"
-        },
-        "name": "MobileDisplayMediumBoldTextCase",
-        "attributes": {
-          "category": "mobile",
-          "type": "display medium bold",
-          "item": "textCase"
-        },
-        "path": [
-          "mobile",
-          "display medium bold",
-          "textCase"
-        ]
-      }
-    },
-    "display small bold": {
-      "category": "font",
-      "fontSize": {
-        "value": 20,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 20,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "MobileDisplaySmallBoldFontSize",
-        "attributes": {
-          "category": "mobile",
-          "type": "display small bold",
-          "item": "fontSize"
-        },
-        "path": [
-          "mobile",
-          "display small bold",
-          "fontSize"
-        ]
-      },
-      "textDecoration": {
-        "value": "none",
-        "type": "string",
-        "original": {
-          "value": "none",
-          "type": "string"
-        },
-        "name": "MobileDisplaySmallBoldTextDecoration",
-        "attributes": {
-          "category": "mobile",
-          "type": "display small bold",
-          "item": "textDecoration"
-        },
-        "path": [
-          "mobile",
-          "display small bold",
-          "textDecoration"
-        ]
-      },
-      "fontFamily": {
-        "value": "Poppins",
-        "type": "string",
-        "original": {
-          "value": "Poppins",
-          "type": "string"
-        },
-        "name": "MobileDisplaySmallBoldFontFamily",
-        "attributes": {
-          "category": "mobile",
-          "type": "display small bold",
-          "item": "fontFamily"
-        },
-        "path": [
-          "mobile",
-          "display small bold",
-          "fontFamily"
-        ]
-      },
-      "fontWeight": {
-        "value": 700,
-        "type": "number",
-        "original": {
-          "value": 700,
-          "type": "number"
-        },
-        "name": "MobileDisplaySmallBoldFontWeight",
-        "attributes": {
-          "category": "mobile",
-          "type": "display small bold",
-          "item": "fontWeight"
-        },
-        "path": [
-          "mobile",
-          "display small bold",
-          "fontWeight"
-        ]
-      },
-      "fontStyle": {
-        "value": "normal",
-        "type": "string",
-        "original": {
-          "value": "normal",
-          "type": "string"
-        },
-        "name": "MobileDisplaySmallBoldFontStyle",
-        "attributes": {
-          "category": "mobile",
-          "type": "display small bold",
-          "item": "fontStyle"
-        },
-        "path": [
-          "mobile",
-          "display small bold",
-          "fontStyle"
-        ]
-      },
-      "fontStretch": {
-        "value": "normal",
-        "type": "string",
-        "original": {
-          "value": "normal",
-          "type": "string"
-        },
-        "name": "MobileDisplaySmallBoldFontStretch",
-        "attributes": {
-          "category": "mobile",
-          "type": "display small bold",
-          "item": "fontStretch"
-        },
-        "path": [
-          "mobile",
-          "display small bold",
-          "fontStretch"
-        ]
-      },
-      "_fontStyleOld": {
-        "value": "Bold",
-        "type": "string",
-        "original": {
-          "value": "Bold",
-          "type": "string"
-        },
-        "name": "MobileDisplaySmallBoldFontStyleOld",
-        "attributes": {
-          "category": "mobile",
-          "type": "display small bold",
-          "item": "_fontStyleOld"
-        },
-        "path": [
-          "mobile",
-          "display small bold",
-          "_fontStyleOld"
-        ]
-      },
-      "letterSpacing": {
-        "value": 1,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
-          "value": 1,
-          "type": "number",
-          "unit": "pixels"
-        },
-        "name": "MobileDisplaySmallBoldLetterSpacing",
-        "attributes": {
-          "category": "mobile",
-          "type": "display small bold",
-          "item": "letterSpacing"
-        },
-        "path": [
-          "mobile",
-          "display small bold",
-          "letterSpacing"
-        ]
-      },
-      "lineHeight": {
-        "value": 32,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
-          "value": 32,
-          "type": "number",
-          "unit": "pixels"
-        },
-        "name": "MobileDisplaySmallBoldLineHeight",
-        "attributes": {
-          "category": "mobile",
-          "type": "display small bold",
-          "item": "lineHeight"
-        },
-        "path": [
-          "mobile",
-          "display small bold",
-          "lineHeight"
-        ]
-      },
-      "paragraphIndent": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "MobileDisplaySmallBoldParagraphIndent",
-        "attributes": {
-          "category": "mobile",
-          "type": "display small bold",
-          "item": "paragraphIndent"
-        },
-        "path": [
-          "mobile",
-          "display small bold",
-          "paragraphIndent"
-        ]
-      },
-      "paragraphSpacing": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "MobileDisplaySmallBoldParagraphSpacing",
-        "attributes": {
-          "category": "mobile",
-          "type": "display small bold",
-          "item": "paragraphSpacing"
-        },
-        "path": [
-          "mobile",
-          "display small bold",
-          "paragraphSpacing"
-        ]
-      },
-      "textCase": {
-        "value": "none",
-        "type": "string",
-        "original": {
-          "value": "none",
-          "type": "string"
-        },
-        "name": "MobileDisplaySmallBoldTextCase",
-        "attributes": {
-          "category": "mobile",
-          "type": "display small bold",
-          "item": "textCase"
-        },
-        "path": [
-          "mobile",
-          "display small bold",
-          "textCase"
-        ]
-      }
-    },
-    "body text large": {
-      "category": "font",
-      "fontSize": {
-        "value": 20,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 20,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "MobileBodyTextLargeFontSize",
-        "attributes": {
-          "category": "mobile",
-          "type": "body text large",
-          "item": "fontSize"
-        },
-        "path": [
-          "mobile",
-          "body text large",
-          "fontSize"
-        ]
-      },
-      "textDecoration": {
-        "value": "none",
-        "type": "string",
-        "original": {
-          "value": "none",
-          "type": "string"
-        },
-        "name": "MobileBodyTextLargeTextDecoration",
-        "attributes": {
-          "category": "mobile",
-          "type": "body text large",
-          "item": "textDecoration"
-        },
-        "path": [
-          "mobile",
-          "body text large",
-          "textDecoration"
-        ]
-      },
-      "fontFamily": {
-        "value": "Poppins",
-        "type": "string",
-        "original": {
-          "value": "Poppins",
-          "type": "string"
-        },
-        "name": "MobileBodyTextLargeFontFamily",
-        "attributes": {
-          "category": "mobile",
-          "type": "body text large",
-          "item": "fontFamily"
-        },
-        "path": [
-          "mobile",
-          "body text large",
-          "fontFamily"
-        ]
-      },
-      "fontWeight": {
-        "value": 400,
-        "type": "number",
-        "original": {
-          "value": 400,
-          "type": "number"
-        },
-        "name": "MobileBodyTextLargeFontWeight",
-        "attributes": {
-          "category": "mobile",
-          "type": "body text large",
-          "item": "fontWeight"
-        },
-        "path": [
-          "mobile",
-          "body text large",
-          "fontWeight"
-        ]
-      },
-      "fontStyle": {
-        "value": "normal",
-        "type": "string",
-        "original": {
-          "value": "normal",
-          "type": "string"
-        },
-        "name": "MobileBodyTextLargeFontStyle",
-        "attributes": {
-          "category": "mobile",
-          "type": "body text large",
-          "item": "fontStyle"
-        },
-        "path": [
-          "mobile",
-          "body text large",
-          "fontStyle"
-        ]
-      },
-      "fontStretch": {
-        "value": "normal",
-        "type": "string",
-        "original": {
-          "value": "normal",
-          "type": "string"
-        },
-        "name": "MobileBodyTextLargeFontStretch",
-        "attributes": {
-          "category": "mobile",
-          "type": "body text large",
-          "item": "fontStretch"
-        },
-        "path": [
-          "mobile",
-          "body text large",
-          "fontStretch"
-        ]
-      },
-      "_fontStyleOld": {
-        "value": "Regular",
-        "type": "string",
-        "original": {
-          "value": "Regular",
-          "type": "string"
-        },
-        "name": "MobileBodyTextLargeFontStyleOld",
-        "attributes": {
-          "category": "mobile",
-          "type": "body text large",
-          "item": "_fontStyleOld"
-        },
-        "path": [
-          "mobile",
-          "body text large",
-          "_fontStyleOld"
-        ]
-      },
-      "letterSpacing": {
-        "value": 0.75,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
-          "value": 0.75,
-          "type": "number",
-          "unit": "pixels"
-        },
-        "name": "MobileBodyTextLargeLetterSpacing",
-        "attributes": {
-          "category": "mobile",
-          "type": "body text large",
-          "item": "letterSpacing"
-        },
-        "path": [
-          "mobile",
-          "body text large",
-          "letterSpacing"
-        ]
-      },
-      "lineHeight": {
-        "value": 32,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
-          "value": 32,
-          "type": "number",
-          "unit": "pixels"
-        },
-        "name": "MobileBodyTextLargeLineHeight",
-        "attributes": {
-          "category": "mobile",
-          "type": "body text large",
-          "item": "lineHeight"
-        },
-        "path": [
-          "mobile",
-          "body text large",
-          "lineHeight"
-        ]
-      },
-      "paragraphIndent": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "MobileBodyTextLargeParagraphIndent",
-        "attributes": {
-          "category": "mobile",
-          "type": "body text large",
-          "item": "paragraphIndent"
-        },
-        "path": [
-          "mobile",
-          "body text large",
-          "paragraphIndent"
-        ]
-      },
-      "paragraphSpacing": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "MobileBodyTextLargeParagraphSpacing",
-        "attributes": {
-          "category": "mobile",
-          "type": "body text large",
-          "item": "paragraphSpacing"
-        },
-        "path": [
-          "mobile",
-          "body text large",
-          "paragraphSpacing"
-        ]
-      },
-      "textCase": {
-        "value": "none",
-        "type": "string",
-        "original": {
-          "value": "none",
-          "type": "string"
-        },
-        "name": "MobileBodyTextLargeTextCase",
-        "attributes": {
-          "category": "mobile",
-          "type": "body text large",
-          "item": "textCase"
-        },
-        "path": [
-          "mobile",
-          "body text large",
-          "textCase"
-        ]
-      }
-    },
-    "body text medium": {
-      "category": "font",
-      "fontSize": {
-        "value": 17,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 17,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "MobileBodyTextMediumFontSize",
-        "attributes": {
-          "category": "mobile",
-          "type": "body text medium",
-          "item": "fontSize"
-        },
-        "path": [
-          "mobile",
-          "body text medium",
-          "fontSize"
-        ]
-      },
-      "textDecoration": {
-        "value": "none",
-        "type": "string",
-        "original": {
-          "value": "none",
-          "type": "string"
-        },
-        "name": "MobileBodyTextMediumTextDecoration",
-        "attributes": {
-          "category": "mobile",
-          "type": "body text medium",
-          "item": "textDecoration"
-        },
-        "path": [
-          "mobile",
-          "body text medium",
-          "textDecoration"
-        ]
-      },
-      "fontFamily": {
-        "value": "Poppins",
-        "type": "string",
-        "original": {
-          "value": "Poppins",
-          "type": "string"
-        },
-        "name": "MobileBodyTextMediumFontFamily",
-        "attributes": {
-          "category": "mobile",
-          "type": "body text medium",
-          "item": "fontFamily"
-        },
-        "path": [
-          "mobile",
-          "body text medium",
-          "fontFamily"
-        ]
-      },
-      "fontWeight": {
-        "value": 400,
-        "type": "number",
-        "original": {
-          "value": 400,
-          "type": "number"
-        },
-        "name": "MobileBodyTextMediumFontWeight",
-        "attributes": {
-          "category": "mobile",
-          "type": "body text medium",
-          "item": "fontWeight"
-        },
-        "path": [
-          "mobile",
-          "body text medium",
-          "fontWeight"
-        ]
-      },
-      "fontStyle": {
-        "value": "normal",
-        "type": "string",
-        "original": {
-          "value": "normal",
-          "type": "string"
-        },
-        "name": "MobileBodyTextMediumFontStyle",
-        "attributes": {
-          "category": "mobile",
-          "type": "body text medium",
-          "item": "fontStyle"
-        },
-        "path": [
-          "mobile",
-          "body text medium",
-          "fontStyle"
-        ]
-      },
-      "fontStretch": {
-        "value": "normal",
-        "type": "string",
-        "original": {
-          "value": "normal",
-          "type": "string"
-        },
-        "name": "MobileBodyTextMediumFontStretch",
-        "attributes": {
-          "category": "mobile",
-          "type": "body text medium",
-          "item": "fontStretch"
-        },
-        "path": [
-          "mobile",
-          "body text medium",
-          "fontStretch"
-        ]
-      },
-      "_fontStyleOld": {
-        "value": "Regular",
-        "type": "string",
-        "original": {
-          "value": "Regular",
-          "type": "string"
-        },
-        "name": "MobileBodyTextMediumFontStyleOld",
-        "attributes": {
-          "category": "mobile",
-          "type": "body text medium",
-          "item": "_fontStyleOld"
-        },
-        "path": [
-          "mobile",
-          "body text medium",
-          "_fontStyleOld"
-        ]
-      },
-      "letterSpacing": {
-        "value": 0.75,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
-          "value": 0.75,
-          "type": "number",
-          "unit": "pixels"
-        },
-        "name": "MobileBodyTextMediumLetterSpacing",
-        "attributes": {
-          "category": "mobile",
-          "type": "body text medium",
-          "item": "letterSpacing"
-        },
-        "path": [
-          "mobile",
-          "body text medium",
-          "letterSpacing"
-        ]
-      },
-      "lineHeight": {
-        "value": 28,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
-          "value": 28,
-          "type": "number",
-          "unit": "pixels"
-        },
-        "name": "MobileBodyTextMediumLineHeight",
-        "attributes": {
-          "category": "mobile",
-          "type": "body text medium",
-          "item": "lineHeight"
-        },
-        "path": [
-          "mobile",
-          "body text medium",
-          "lineHeight"
-        ]
-      },
-      "paragraphIndent": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "MobileBodyTextMediumParagraphIndent",
-        "attributes": {
-          "category": "mobile",
-          "type": "body text medium",
-          "item": "paragraphIndent"
-        },
-        "path": [
-          "mobile",
-          "body text medium",
-          "paragraphIndent"
-        ]
-      },
-      "paragraphSpacing": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "MobileBodyTextMediumParagraphSpacing",
-        "attributes": {
-          "category": "mobile",
-          "type": "body text medium",
-          "item": "paragraphSpacing"
-        },
-        "path": [
-          "mobile",
-          "body text medium",
-          "paragraphSpacing"
-        ]
-      },
-      "textCase": {
-        "value": "none",
-        "type": "string",
-        "original": {
-          "value": "none",
-          "type": "string"
-        },
-        "name": "MobileBodyTextMediumTextCase",
-        "attributes": {
-          "category": "mobile",
-          "type": "body text medium",
-          "item": "textCase"
-        },
-        "path": [
-          "mobile",
-          "body text medium",
-          "textCase"
-        ]
-      }
-    },
-    "body text small": {
-      "category": "font",
-      "fontSize": {
-        "value": 15,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 15,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "MobileBodyTextSmallFontSize",
-        "attributes": {
-          "category": "mobile",
-          "type": "body text small",
-          "item": "fontSize"
-        },
-        "path": [
-          "mobile",
-          "body text small",
-          "fontSize"
-        ]
-      },
-      "textDecoration": {
-        "value": "none",
-        "type": "string",
-        "original": {
-          "value": "none",
-          "type": "string"
-        },
-        "name": "MobileBodyTextSmallTextDecoration",
-        "attributes": {
-          "category": "mobile",
-          "type": "body text small",
-          "item": "textDecoration"
-        },
-        "path": [
-          "mobile",
-          "body text small",
-          "textDecoration"
-        ]
-      },
-      "fontFamily": {
-        "value": "Poppins",
-        "type": "string",
-        "original": {
-          "value": "Poppins",
-          "type": "string"
-        },
-        "name": "MobileBodyTextSmallFontFamily",
-        "attributes": {
-          "category": "mobile",
-          "type": "body text small",
-          "item": "fontFamily"
-        },
-        "path": [
-          "mobile",
-          "body text small",
-          "fontFamily"
-        ]
-      },
-      "fontWeight": {
-        "value": 400,
-        "type": "number",
-        "original": {
-          "value": 400,
-          "type": "number"
-        },
-        "name": "MobileBodyTextSmallFontWeight",
-        "attributes": {
-          "category": "mobile",
-          "type": "body text small",
-          "item": "fontWeight"
-        },
-        "path": [
-          "mobile",
-          "body text small",
-          "fontWeight"
-        ]
-      },
-      "fontStyle": {
-        "value": "normal",
-        "type": "string",
-        "original": {
-          "value": "normal",
-          "type": "string"
-        },
-        "name": "MobileBodyTextSmallFontStyle",
-        "attributes": {
-          "category": "mobile",
-          "type": "body text small",
-          "item": "fontStyle"
-        },
-        "path": [
-          "mobile",
-          "body text small",
-          "fontStyle"
-        ]
-      },
-      "fontStretch": {
-        "value": "normal",
-        "type": "string",
-        "original": {
-          "value": "normal",
-          "type": "string"
-        },
-        "name": "MobileBodyTextSmallFontStretch",
-        "attributes": {
-          "category": "mobile",
-          "type": "body text small",
-          "item": "fontStretch"
-        },
-        "path": [
-          "mobile",
-          "body text small",
-          "fontStretch"
-        ]
-      },
-      "_fontStyleOld": {
-        "value": "Regular",
-        "type": "string",
-        "original": {
-          "value": "Regular",
-          "type": "string"
-        },
-        "name": "MobileBodyTextSmallFontStyleOld",
-        "attributes": {
-          "category": "mobile",
-          "type": "body text small",
-          "item": "_fontStyleOld"
-        },
-        "path": [
-          "mobile",
-          "body text small",
-          "_fontStyleOld"
-        ]
-      },
-      "letterSpacing": {
-        "value": 0.75,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
-          "value": 0.75,
-          "type": "number",
-          "unit": "pixels"
-        },
-        "name": "MobileBodyTextSmallLetterSpacing",
-        "attributes": {
-          "category": "mobile",
-          "type": "body text small",
-          "item": "letterSpacing"
-        },
-        "path": [
-          "mobile",
-          "body text small",
-          "letterSpacing"
-        ]
-      },
-      "lineHeight": {
-        "value": 24,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
-          "value": 24,
-          "type": "number",
-          "unit": "pixels"
-        },
-        "name": "MobileBodyTextSmallLineHeight",
-        "attributes": {
-          "category": "mobile",
-          "type": "body text small",
-          "item": "lineHeight"
-        },
-        "path": [
-          "mobile",
-          "body text small",
-          "lineHeight"
-        ]
-      },
-      "paragraphIndent": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "MobileBodyTextSmallParagraphIndent",
-        "attributes": {
-          "category": "mobile",
-          "type": "body text small",
-          "item": "paragraphIndent"
-        },
-        "path": [
-          "mobile",
-          "body text small",
-          "paragraphIndent"
-        ]
-      },
-      "paragraphSpacing": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "MobileBodyTextSmallParagraphSpacing",
-        "attributes": {
-          "category": "mobile",
-          "type": "body text small",
-          "item": "paragraphSpacing"
-        },
-        "path": [
-          "mobile",
-          "body text small",
-          "paragraphSpacing"
-        ]
-      },
-      "textCase": {
-        "value": "none",
-        "type": "string",
-        "original": {
-          "value": "none",
-          "type": "string"
-        },
-        "name": "MobileBodyTextSmallTextCase",
-        "attributes": {
-          "category": "mobile",
-          "type": "body text small",
-          "item": "textCase"
-        },
-        "path": [
-          "mobile",
-          "body text small",
-          "textCase"
-        ]
-      }
-    },
-    "body text x-small": {
-      "category": "font",
-      "fontSize": {
-        "value": 13,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
+    "body": {
+      "body link x-small": {
+        "category": "font",
+        "fontSize": {
           "value": 13,
           "type": "number",
-          "unit": "pixel"
+          "unit": "pixel",
+          "original": {
+            "value": 13,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "MobileBodyBodyLinkXSmallFontSize",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body link x-small",
+            "subitem": "fontSize"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body link x-small",
+            "fontSize"
+          ]
         },
-        "name": "MobileBodyTextXSmallFontSize",
-        "attributes": {
-          "category": "mobile",
-          "type": "body text x-small",
-          "item": "fontSize"
-        },
-        "path": [
-          "mobile",
-          "body text x-small",
-          "fontSize"
-        ]
-      },
-      "textDecoration": {
-        "value": "none",
-        "type": "string",
-        "original": {
+        "textDecoration": {
           "value": "none",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "MobileBodyBodyLinkXSmallTextDecoration",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body link x-small",
+            "subitem": "textDecoration"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body link x-small",
+            "textDecoration"
+          ]
         },
-        "name": "MobileBodyTextXSmallTextDecoration",
-        "attributes": {
-          "category": "mobile",
-          "type": "body text x-small",
-          "item": "textDecoration"
-        },
-        "path": [
-          "mobile",
-          "body text x-small",
-          "textDecoration"
-        ]
-      },
-      "fontFamily": {
-        "value": "Poppins",
-        "type": "string",
-        "original": {
+        "fontFamily": {
           "value": "Poppins",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "Poppins",
+            "type": "string"
+          },
+          "name": "MobileBodyBodyLinkXSmallFontFamily",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body link x-small",
+            "subitem": "fontFamily"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body link x-small",
+            "fontFamily"
+          ]
         },
-        "name": "MobileBodyTextXSmallFontFamily",
-        "attributes": {
-          "category": "mobile",
-          "type": "body text x-small",
-          "item": "fontFamily"
+        "fontWeight": {
+          "value": 700,
+          "type": "number",
+          "original": {
+            "value": 700,
+            "type": "number"
+          },
+          "name": "MobileBodyBodyLinkXSmallFontWeight",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body link x-small",
+            "subitem": "fontWeight"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body link x-small",
+            "fontWeight"
+          ]
         },
-        "path": [
-          "mobile",
-          "body text x-small",
-          "fontFamily"
-        ]
+        "fontStyle": {
+          "value": "normal",
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "MobileBodyBodyLinkXSmallFontStyle",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body link x-small",
+            "subitem": "fontStyle"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body link x-small",
+            "fontStyle"
+          ]
+        },
+        "fontStretch": {
+          "value": "normal",
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "MobileBodyBodyLinkXSmallFontStretch",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body link x-small",
+            "subitem": "fontStretch"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body link x-small",
+            "fontStretch"
+          ]
+        },
+        "_fontStyleOld": {
+          "value": "Bold",
+          "type": "string",
+          "original": {
+            "value": "Bold",
+            "type": "string"
+          },
+          "name": "MobileBodyBodyLinkXSmallFontStyleOld",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body link x-small",
+            "subitem": "_fontStyleOld"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body link x-small",
+            "_fontStyleOld"
+          ]
+        },
+        "letterSpacing": {
+          "value": 0.25,
+          "type": "number",
+          "unit": "pixels",
+          "original": {
+            "value": 0.25,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "MobileBodyBodyLinkXSmallLetterSpacing",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body link x-small",
+            "subitem": "letterSpacing"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body link x-small",
+            "letterSpacing"
+          ]
+        },
+        "lineHeight": {
+          "value": 22,
+          "type": "number",
+          "unit": "pixels",
+          "original": {
+            "value": 22,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "MobileBodyBodyLinkXSmallLineHeight",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body link x-small",
+            "subitem": "lineHeight"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body link x-small",
+            "lineHeight"
+          ]
+        },
+        "paragraphIndent": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "MobileBodyBodyLinkXSmallParagraphIndent",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body link x-small",
+            "subitem": "paragraphIndent"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body link x-small",
+            "paragraphIndent"
+          ]
+        },
+        "paragraphSpacing": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "MobileBodyBodyLinkXSmallParagraphSpacing",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body link x-small",
+            "subitem": "paragraphSpacing"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body link x-small",
+            "paragraphSpacing"
+          ]
+        },
+        "textCase": {
+          "value": "none",
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "MobileBodyBodyLinkXSmallTextCase",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body link x-small",
+            "subitem": "textCase"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body link x-small",
+            "textCase"
+          ]
+        }
       },
-      "fontWeight": {
-        "value": 500,
-        "type": "number",
-        "original": {
+      "body text large": {
+        "category": "font",
+        "fontSize": {
+          "value": 20,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 20,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "MobileBodyBodyTextLargeFontSize",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body text large",
+            "subitem": "fontSize"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body text large",
+            "fontSize"
+          ]
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "MobileBodyBodyTextLargeTextDecoration",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body text large",
+            "subitem": "textDecoration"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body text large",
+            "textDecoration"
+          ]
+        },
+        "fontFamily": {
+          "value": "Poppins",
+          "type": "string",
+          "original": {
+            "value": "Poppins",
+            "type": "string"
+          },
+          "name": "MobileBodyBodyTextLargeFontFamily",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body text large",
+            "subitem": "fontFamily"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body text large",
+            "fontFamily"
+          ]
+        },
+        "fontWeight": {
+          "value": 400,
+          "type": "number",
+          "original": {
+            "value": 400,
+            "type": "number"
+          },
+          "name": "MobileBodyBodyTextLargeFontWeight",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body text large",
+            "subitem": "fontWeight"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body text large",
+            "fontWeight"
+          ]
+        },
+        "fontStyle": {
+          "value": "normal",
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "MobileBodyBodyTextLargeFontStyle",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body text large",
+            "subitem": "fontStyle"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body text large",
+            "fontStyle"
+          ]
+        },
+        "fontStretch": {
+          "value": "normal",
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "MobileBodyBodyTextLargeFontStretch",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body text large",
+            "subitem": "fontStretch"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body text large",
+            "fontStretch"
+          ]
+        },
+        "_fontStyleOld": {
+          "value": "Regular",
+          "type": "string",
+          "original": {
+            "value": "Regular",
+            "type": "string"
+          },
+          "name": "MobileBodyBodyTextLargeFontStyleOld",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body text large",
+            "subitem": "_fontStyleOld"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body text large",
+            "_fontStyleOld"
+          ]
+        },
+        "letterSpacing": {
+          "value": 0.75,
+          "type": "number",
+          "unit": "pixels",
+          "original": {
+            "value": 0.75,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "MobileBodyBodyTextLargeLetterSpacing",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body text large",
+            "subitem": "letterSpacing"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body text large",
+            "letterSpacing"
+          ]
+        },
+        "lineHeight": {
+          "value": 32,
+          "type": "number",
+          "unit": "pixels",
+          "original": {
+            "value": 32,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "MobileBodyBodyTextLargeLineHeight",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body text large",
+            "subitem": "lineHeight"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body text large",
+            "lineHeight"
+          ]
+        },
+        "paragraphIndent": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "MobileBodyBodyTextLargeParagraphIndent",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body text large",
+            "subitem": "paragraphIndent"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body text large",
+            "paragraphIndent"
+          ]
+        },
+        "paragraphSpacing": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "MobileBodyBodyTextLargeParagraphSpacing",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body text large",
+            "subitem": "paragraphSpacing"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body text large",
+            "paragraphSpacing"
+          ]
+        },
+        "textCase": {
+          "value": "none",
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "MobileBodyBodyTextLargeTextCase",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body text large",
+            "subitem": "textCase"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body text large",
+            "textCase"
+          ]
+        }
+      },
+      "body text medium": {
+        "category": "font",
+        "fontSize": {
+          "value": 17,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 17,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "MobileBodyBodyTextMediumFontSize",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body text medium",
+            "subitem": "fontSize"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body text medium",
+            "fontSize"
+          ]
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "MobileBodyBodyTextMediumTextDecoration",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body text medium",
+            "subitem": "textDecoration"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body text medium",
+            "textDecoration"
+          ]
+        },
+        "fontFamily": {
+          "value": "Poppins",
+          "type": "string",
+          "original": {
+            "value": "Poppins",
+            "type": "string"
+          },
+          "name": "MobileBodyBodyTextMediumFontFamily",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body text medium",
+            "subitem": "fontFamily"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body text medium",
+            "fontFamily"
+          ]
+        },
+        "fontWeight": {
+          "value": 400,
+          "type": "number",
+          "original": {
+            "value": 400,
+            "type": "number"
+          },
+          "name": "MobileBodyBodyTextMediumFontWeight",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body text medium",
+            "subitem": "fontWeight"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body text medium",
+            "fontWeight"
+          ]
+        },
+        "fontStyle": {
+          "value": "normal",
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "MobileBodyBodyTextMediumFontStyle",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body text medium",
+            "subitem": "fontStyle"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body text medium",
+            "fontStyle"
+          ]
+        },
+        "fontStretch": {
+          "value": "normal",
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "MobileBodyBodyTextMediumFontStretch",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body text medium",
+            "subitem": "fontStretch"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body text medium",
+            "fontStretch"
+          ]
+        },
+        "_fontStyleOld": {
+          "value": "Regular",
+          "type": "string",
+          "original": {
+            "value": "Regular",
+            "type": "string"
+          },
+          "name": "MobileBodyBodyTextMediumFontStyleOld",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body text medium",
+            "subitem": "_fontStyleOld"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body text medium",
+            "_fontStyleOld"
+          ]
+        },
+        "letterSpacing": {
+          "value": 0.75,
+          "type": "number",
+          "unit": "pixels",
+          "original": {
+            "value": 0.75,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "MobileBodyBodyTextMediumLetterSpacing",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body text medium",
+            "subitem": "letterSpacing"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body text medium",
+            "letterSpacing"
+          ]
+        },
+        "lineHeight": {
+          "value": 28,
+          "type": "number",
+          "unit": "pixels",
+          "original": {
+            "value": 28,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "MobileBodyBodyTextMediumLineHeight",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body text medium",
+            "subitem": "lineHeight"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body text medium",
+            "lineHeight"
+          ]
+        },
+        "paragraphIndent": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "MobileBodyBodyTextMediumParagraphIndent",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body text medium",
+            "subitem": "paragraphIndent"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body text medium",
+            "paragraphIndent"
+          ]
+        },
+        "paragraphSpacing": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "MobileBodyBodyTextMediumParagraphSpacing",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body text medium",
+            "subitem": "paragraphSpacing"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body text medium",
+            "paragraphSpacing"
+          ]
+        },
+        "textCase": {
+          "value": "none",
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "MobileBodyBodyTextMediumTextCase",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body text medium",
+            "subitem": "textCase"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body text medium",
+            "textCase"
+          ]
+        }
+      },
+      "body text small": {
+        "category": "font",
+        "fontSize": {
+          "value": 15,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 15,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "MobileBodyBodyTextSmallFontSize",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body text small",
+            "subitem": "fontSize"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body text small",
+            "fontSize"
+          ]
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "MobileBodyBodyTextSmallTextDecoration",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body text small",
+            "subitem": "textDecoration"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body text small",
+            "textDecoration"
+          ]
+        },
+        "fontFamily": {
+          "value": "Poppins",
+          "type": "string",
+          "original": {
+            "value": "Poppins",
+            "type": "string"
+          },
+          "name": "MobileBodyBodyTextSmallFontFamily",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body text small",
+            "subitem": "fontFamily"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body text small",
+            "fontFamily"
+          ]
+        },
+        "fontWeight": {
+          "value": 400,
+          "type": "number",
+          "original": {
+            "value": 400,
+            "type": "number"
+          },
+          "name": "MobileBodyBodyTextSmallFontWeight",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body text small",
+            "subitem": "fontWeight"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body text small",
+            "fontWeight"
+          ]
+        },
+        "fontStyle": {
+          "value": "normal",
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "MobileBodyBodyTextSmallFontStyle",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body text small",
+            "subitem": "fontStyle"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body text small",
+            "fontStyle"
+          ]
+        },
+        "fontStretch": {
+          "value": "normal",
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "MobileBodyBodyTextSmallFontStretch",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body text small",
+            "subitem": "fontStretch"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body text small",
+            "fontStretch"
+          ]
+        },
+        "_fontStyleOld": {
+          "value": "Regular",
+          "type": "string",
+          "original": {
+            "value": "Regular",
+            "type": "string"
+          },
+          "name": "MobileBodyBodyTextSmallFontStyleOld",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body text small",
+            "subitem": "_fontStyleOld"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body text small",
+            "_fontStyleOld"
+          ]
+        },
+        "letterSpacing": {
+          "value": 0.75,
+          "type": "number",
+          "unit": "pixels",
+          "original": {
+            "value": 0.75,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "MobileBodyBodyTextSmallLetterSpacing",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body text small",
+            "subitem": "letterSpacing"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body text small",
+            "letterSpacing"
+          ]
+        },
+        "lineHeight": {
+          "value": 24,
+          "type": "number",
+          "unit": "pixels",
+          "original": {
+            "value": 24,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "MobileBodyBodyTextSmallLineHeight",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body text small",
+            "subitem": "lineHeight"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body text small",
+            "lineHeight"
+          ]
+        },
+        "paragraphIndent": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "MobileBodyBodyTextSmallParagraphIndent",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body text small",
+            "subitem": "paragraphIndent"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body text small",
+            "paragraphIndent"
+          ]
+        },
+        "paragraphSpacing": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "MobileBodyBodyTextSmallParagraphSpacing",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body text small",
+            "subitem": "paragraphSpacing"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body text small",
+            "paragraphSpacing"
+          ]
+        },
+        "textCase": {
+          "value": "none",
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "MobileBodyBodyTextSmallTextCase",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body text small",
+            "subitem": "textCase"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body text small",
+            "textCase"
+          ]
+        }
+      },
+      "body text x-small": {
+        "category": "font",
+        "fontSize": {
+          "value": 13,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 13,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "MobileBodyBodyTextXSmallFontSize",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body text x-small",
+            "subitem": "fontSize"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body text x-small",
+            "fontSize"
+          ]
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "MobileBodyBodyTextXSmallTextDecoration",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body text x-small",
+            "subitem": "textDecoration"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body text x-small",
+            "textDecoration"
+          ]
+        },
+        "fontFamily": {
+          "value": "Poppins",
+          "type": "string",
+          "original": {
+            "value": "Poppins",
+            "type": "string"
+          },
+          "name": "MobileBodyBodyTextXSmallFontFamily",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body text x-small",
+            "subitem": "fontFamily"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body text x-small",
+            "fontFamily"
+          ]
+        },
+        "fontWeight": {
           "value": 500,
-          "type": "number"
+          "type": "number",
+          "original": {
+            "value": 500,
+            "type": "number"
+          },
+          "name": "MobileBodyBodyTextXSmallFontWeight",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body text x-small",
+            "subitem": "fontWeight"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body text x-small",
+            "fontWeight"
+          ]
         },
-        "name": "MobileBodyTextXSmallFontWeight",
-        "attributes": {
-          "category": "mobile",
-          "type": "body text x-small",
-          "item": "fontWeight"
-        },
-        "path": [
-          "mobile",
-          "body text x-small",
-          "fontWeight"
-        ]
-      },
-      "fontStyle": {
-        "value": "normal",
-        "type": "string",
-        "original": {
+        "fontStyle": {
           "value": "normal",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "MobileBodyBodyTextXSmallFontStyle",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body text x-small",
+            "subitem": "fontStyle"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body text x-small",
+            "fontStyle"
+          ]
         },
-        "name": "MobileBodyTextXSmallFontStyle",
-        "attributes": {
-          "category": "mobile",
-          "type": "body text x-small",
-          "item": "fontStyle"
-        },
-        "path": [
-          "mobile",
-          "body text x-small",
-          "fontStyle"
-        ]
-      },
-      "fontStretch": {
-        "value": "normal",
-        "type": "string",
-        "original": {
+        "fontStretch": {
           "value": "normal",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "MobileBodyBodyTextXSmallFontStretch",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body text x-small",
+            "subitem": "fontStretch"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body text x-small",
+            "fontStretch"
+          ]
         },
-        "name": "MobileBodyTextXSmallFontStretch",
-        "attributes": {
-          "category": "mobile",
-          "type": "body text x-small",
-          "item": "fontStretch"
-        },
-        "path": [
-          "mobile",
-          "body text x-small",
-          "fontStretch"
-        ]
-      },
-      "_fontStyleOld": {
-        "value": "Medium",
-        "type": "string",
-        "original": {
+        "_fontStyleOld": {
           "value": "Medium",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "Medium",
+            "type": "string"
+          },
+          "name": "MobileBodyBodyTextXSmallFontStyleOld",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body text x-small",
+            "subitem": "_fontStyleOld"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body text x-small",
+            "_fontStyleOld"
+          ]
         },
-        "name": "MobileBodyTextXSmallFontStyleOld",
-        "attributes": {
-          "category": "mobile",
-          "type": "body text x-small",
-          "item": "_fontStyleOld"
-        },
-        "path": [
-          "mobile",
-          "body text x-small",
-          "_fontStyleOld"
-        ]
-      },
-      "letterSpacing": {
-        "value": 0.25,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
+        "letterSpacing": {
           "value": 0.25,
           "type": "number",
-          "unit": "pixels"
+          "unit": "pixels",
+          "original": {
+            "value": 0.25,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "MobileBodyBodyTextXSmallLetterSpacing",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body text x-small",
+            "subitem": "letterSpacing"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body text x-small",
+            "letterSpacing"
+          ]
         },
-        "name": "MobileBodyTextXSmallLetterSpacing",
-        "attributes": {
-          "category": "mobile",
-          "type": "body text x-small",
-          "item": "letterSpacing"
-        },
-        "path": [
-          "mobile",
-          "body text x-small",
-          "letterSpacing"
-        ]
-      },
-      "lineHeight": {
-        "value": 22,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
+        "lineHeight": {
           "value": 22,
           "type": "number",
-          "unit": "pixels"
+          "unit": "pixels",
+          "original": {
+            "value": 22,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "MobileBodyBodyTextXSmallLineHeight",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body text x-small",
+            "subitem": "lineHeight"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body text x-small",
+            "lineHeight"
+          ]
         },
-        "name": "MobileBodyTextXSmallLineHeight",
-        "attributes": {
-          "category": "mobile",
-          "type": "body text x-small",
-          "item": "lineHeight"
-        },
-        "path": [
-          "mobile",
-          "body text x-small",
-          "lineHeight"
-        ]
-      },
-      "paragraphIndent": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
+        "paragraphIndent": {
           "value": 0,
           "type": "number",
-          "unit": "pixel"
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "MobileBodyBodyTextXSmallParagraphIndent",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body text x-small",
+            "subitem": "paragraphIndent"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body text x-small",
+            "paragraphIndent"
+          ]
         },
-        "name": "MobileBodyTextXSmallParagraphIndent",
-        "attributes": {
-          "category": "mobile",
-          "type": "body text x-small",
-          "item": "paragraphIndent"
-        },
-        "path": [
-          "mobile",
-          "body text x-small",
-          "paragraphIndent"
-        ]
-      },
-      "paragraphSpacing": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
+        "paragraphSpacing": {
           "value": 0,
           "type": "number",
-          "unit": "pixel"
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "MobileBodyBodyTextXSmallParagraphSpacing",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body text x-small",
+            "subitem": "paragraphSpacing"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body text x-small",
+            "paragraphSpacing"
+          ]
         },
-        "name": "MobileBodyTextXSmallParagraphSpacing",
-        "attributes": {
-          "category": "mobile",
-          "type": "body text x-small",
-          "item": "paragraphSpacing"
-        },
-        "path": [
-          "mobile",
-          "body text x-small",
-          "paragraphSpacing"
-        ]
-      },
-      "textCase": {
-        "value": "none",
-        "type": "string",
-        "original": {
+        "textCase": {
           "value": "none",
-          "type": "string"
-        },
-        "name": "MobileBodyTextXSmallTextCase",
-        "attributes": {
-          "category": "mobile",
-          "type": "body text x-small",
-          "item": "textCase"
-        },
-        "path": [
-          "mobile",
-          "body text x-small",
-          "textCase"
-        ]
-      }
-    },
-    "body link large": {
-      "category": "font",
-      "fontSize": {
-        "value": 20,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "MobileBodyBodyTextXSmallTextCase",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body text x-small",
+            "subitem": "textCase"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body text x-small",
+            "textCase"
+          ]
+        }
+      },
+      "body link large": {
+        "category": "font",
+        "fontSize": {
           "value": 20,
           "type": "number",
-          "unit": "pixel"
+          "unit": "pixel",
+          "original": {
+            "value": 20,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "MobileBodyBodyLinkLargeFontSize",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body link large",
+            "subitem": "fontSize"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body link large",
+            "fontSize"
+          ]
         },
-        "name": "MobileBodyLinkLargeFontSize",
-        "attributes": {
-          "category": "mobile",
-          "type": "body link large",
-          "item": "fontSize"
-        },
-        "path": [
-          "mobile",
-          "body link large",
-          "fontSize"
-        ]
-      },
-      "textDecoration": {
-        "value": "none",
-        "type": "string",
-        "original": {
+        "textDecoration": {
           "value": "none",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "MobileBodyBodyLinkLargeTextDecoration",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body link large",
+            "subitem": "textDecoration"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body link large",
+            "textDecoration"
+          ]
         },
-        "name": "MobileBodyLinkLargeTextDecoration",
-        "attributes": {
-          "category": "mobile",
-          "type": "body link large",
-          "item": "textDecoration"
-        },
-        "path": [
-          "mobile",
-          "body link large",
-          "textDecoration"
-        ]
-      },
-      "fontFamily": {
-        "value": "Poppins",
-        "type": "string",
-        "original": {
+        "fontFamily": {
           "value": "Poppins",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "Poppins",
+            "type": "string"
+          },
+          "name": "MobileBodyBodyLinkLargeFontFamily",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body link large",
+            "subitem": "fontFamily"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body link large",
+            "fontFamily"
+          ]
         },
-        "name": "MobileBodyLinkLargeFontFamily",
-        "attributes": {
-          "category": "mobile",
-          "type": "body link large",
-          "item": "fontFamily"
-        },
-        "path": [
-          "mobile",
-          "body link large",
-          "fontFamily"
-        ]
-      },
-      "fontWeight": {
-        "value": 700,
-        "type": "number",
-        "original": {
+        "fontWeight": {
           "value": 700,
-          "type": "number"
+          "type": "number",
+          "original": {
+            "value": 700,
+            "type": "number"
+          },
+          "name": "MobileBodyBodyLinkLargeFontWeight",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body link large",
+            "subitem": "fontWeight"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body link large",
+            "fontWeight"
+          ]
         },
-        "name": "MobileBodyLinkLargeFontWeight",
-        "attributes": {
-          "category": "mobile",
-          "type": "body link large",
-          "item": "fontWeight"
-        },
-        "path": [
-          "mobile",
-          "body link large",
-          "fontWeight"
-        ]
-      },
-      "fontStyle": {
-        "value": "normal",
-        "type": "string",
-        "original": {
+        "fontStyle": {
           "value": "normal",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "MobileBodyBodyLinkLargeFontStyle",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body link large",
+            "subitem": "fontStyle"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body link large",
+            "fontStyle"
+          ]
         },
-        "name": "MobileBodyLinkLargeFontStyle",
-        "attributes": {
-          "category": "mobile",
-          "type": "body link large",
-          "item": "fontStyle"
-        },
-        "path": [
-          "mobile",
-          "body link large",
-          "fontStyle"
-        ]
-      },
-      "fontStretch": {
-        "value": "normal",
-        "type": "string",
-        "original": {
+        "fontStretch": {
           "value": "normal",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "MobileBodyBodyLinkLargeFontStretch",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body link large",
+            "subitem": "fontStretch"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body link large",
+            "fontStretch"
+          ]
         },
-        "name": "MobileBodyLinkLargeFontStretch",
-        "attributes": {
-          "category": "mobile",
-          "type": "body link large",
-          "item": "fontStretch"
-        },
-        "path": [
-          "mobile",
-          "body link large",
-          "fontStretch"
-        ]
-      },
-      "_fontStyleOld": {
-        "value": "Bold",
-        "type": "string",
-        "original": {
+        "_fontStyleOld": {
           "value": "Bold",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "Bold",
+            "type": "string"
+          },
+          "name": "MobileBodyBodyLinkLargeFontStyleOld",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body link large",
+            "subitem": "_fontStyleOld"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body link large",
+            "_fontStyleOld"
+          ]
         },
-        "name": "MobileBodyLinkLargeFontStyleOld",
-        "attributes": {
-          "category": "mobile",
-          "type": "body link large",
-          "item": "_fontStyleOld"
-        },
-        "path": [
-          "mobile",
-          "body link large",
-          "_fontStyleOld"
-        ]
-      },
-      "letterSpacing": {
-        "value": 0.75,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
+        "letterSpacing": {
           "value": 0.75,
           "type": "number",
-          "unit": "pixels"
+          "unit": "pixels",
+          "original": {
+            "value": 0.75,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "MobileBodyBodyLinkLargeLetterSpacing",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body link large",
+            "subitem": "letterSpacing"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body link large",
+            "letterSpacing"
+          ]
         },
-        "name": "MobileBodyLinkLargeLetterSpacing",
-        "attributes": {
-          "category": "mobile",
-          "type": "body link large",
-          "item": "letterSpacing"
-        },
-        "path": [
-          "mobile",
-          "body link large",
-          "letterSpacing"
-        ]
-      },
-      "lineHeight": {
-        "value": 32,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
+        "lineHeight": {
           "value": 32,
           "type": "number",
-          "unit": "pixels"
+          "unit": "pixels",
+          "original": {
+            "value": 32,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "MobileBodyBodyLinkLargeLineHeight",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body link large",
+            "subitem": "lineHeight"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body link large",
+            "lineHeight"
+          ]
         },
-        "name": "MobileBodyLinkLargeLineHeight",
-        "attributes": {
-          "category": "mobile",
-          "type": "body link large",
-          "item": "lineHeight"
-        },
-        "path": [
-          "mobile",
-          "body link large",
-          "lineHeight"
-        ]
-      },
-      "paragraphIndent": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
+        "paragraphIndent": {
           "value": 0,
           "type": "number",
-          "unit": "pixel"
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "MobileBodyBodyLinkLargeParagraphIndent",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body link large",
+            "subitem": "paragraphIndent"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body link large",
+            "paragraphIndent"
+          ]
         },
-        "name": "MobileBodyLinkLargeParagraphIndent",
-        "attributes": {
-          "category": "mobile",
-          "type": "body link large",
-          "item": "paragraphIndent"
-        },
-        "path": [
-          "mobile",
-          "body link large",
-          "paragraphIndent"
-        ]
-      },
-      "paragraphSpacing": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
+        "paragraphSpacing": {
           "value": 0,
           "type": "number",
-          "unit": "pixel"
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "MobileBodyBodyLinkLargeParagraphSpacing",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body link large",
+            "subitem": "paragraphSpacing"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body link large",
+            "paragraphSpacing"
+          ]
         },
-        "name": "MobileBodyLinkLargeParagraphSpacing",
-        "attributes": {
-          "category": "mobile",
-          "type": "body link large",
-          "item": "paragraphSpacing"
-        },
-        "path": [
-          "mobile",
-          "body link large",
-          "paragraphSpacing"
-        ]
-      },
-      "textCase": {
-        "value": "none",
-        "type": "string",
-        "original": {
+        "textCase": {
           "value": "none",
-          "type": "string"
-        },
-        "name": "MobileBodyLinkLargeTextCase",
-        "attributes": {
-          "category": "mobile",
-          "type": "body link large",
-          "item": "textCase"
-        },
-        "path": [
-          "mobile",
-          "body link large",
-          "textCase"
-        ]
-      }
-    },
-    "body link medium": {
-      "category": "font",
-      "fontSize": {
-        "value": 17,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "MobileBodyBodyLinkLargeTextCase",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body link large",
+            "subitem": "textCase"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body link large",
+            "textCase"
+          ]
+        }
+      },
+      "body link medium": {
+        "category": "font",
+        "fontSize": {
           "value": 17,
           "type": "number",
-          "unit": "pixel"
+          "unit": "pixel",
+          "original": {
+            "value": 17,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "MobileBodyBodyLinkMediumFontSize",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body link medium",
+            "subitem": "fontSize"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body link medium",
+            "fontSize"
+          ]
         },
-        "name": "MobileBodyLinkMediumFontSize",
-        "attributes": {
-          "category": "mobile",
-          "type": "body link medium",
-          "item": "fontSize"
-        },
-        "path": [
-          "mobile",
-          "body link medium",
-          "fontSize"
-        ]
-      },
-      "textDecoration": {
-        "value": "none",
-        "type": "string",
-        "original": {
+        "textDecoration": {
           "value": "none",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "MobileBodyBodyLinkMediumTextDecoration",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body link medium",
+            "subitem": "textDecoration"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body link medium",
+            "textDecoration"
+          ]
         },
-        "name": "MobileBodyLinkMediumTextDecoration",
-        "attributes": {
-          "category": "mobile",
-          "type": "body link medium",
-          "item": "textDecoration"
-        },
-        "path": [
-          "mobile",
-          "body link medium",
-          "textDecoration"
-        ]
-      },
-      "fontFamily": {
-        "value": "Poppins",
-        "type": "string",
-        "original": {
+        "fontFamily": {
           "value": "Poppins",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "Poppins",
+            "type": "string"
+          },
+          "name": "MobileBodyBodyLinkMediumFontFamily",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body link medium",
+            "subitem": "fontFamily"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body link medium",
+            "fontFamily"
+          ]
         },
-        "name": "MobileBodyLinkMediumFontFamily",
-        "attributes": {
-          "category": "mobile",
-          "type": "body link medium",
-          "item": "fontFamily"
-        },
-        "path": [
-          "mobile",
-          "body link medium",
-          "fontFamily"
-        ]
-      },
-      "fontWeight": {
-        "value": 700,
-        "type": "number",
-        "original": {
+        "fontWeight": {
           "value": 700,
-          "type": "number"
+          "type": "number",
+          "original": {
+            "value": 700,
+            "type": "number"
+          },
+          "name": "MobileBodyBodyLinkMediumFontWeight",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body link medium",
+            "subitem": "fontWeight"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body link medium",
+            "fontWeight"
+          ]
         },
-        "name": "MobileBodyLinkMediumFontWeight",
-        "attributes": {
-          "category": "mobile",
-          "type": "body link medium",
-          "item": "fontWeight"
-        },
-        "path": [
-          "mobile",
-          "body link medium",
-          "fontWeight"
-        ]
-      },
-      "fontStyle": {
-        "value": "normal",
-        "type": "string",
-        "original": {
+        "fontStyle": {
           "value": "normal",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "MobileBodyBodyLinkMediumFontStyle",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body link medium",
+            "subitem": "fontStyle"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body link medium",
+            "fontStyle"
+          ]
         },
-        "name": "MobileBodyLinkMediumFontStyle",
-        "attributes": {
-          "category": "mobile",
-          "type": "body link medium",
-          "item": "fontStyle"
-        },
-        "path": [
-          "mobile",
-          "body link medium",
-          "fontStyle"
-        ]
-      },
-      "fontStretch": {
-        "value": "normal",
-        "type": "string",
-        "original": {
+        "fontStretch": {
           "value": "normal",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "MobileBodyBodyLinkMediumFontStretch",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body link medium",
+            "subitem": "fontStretch"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body link medium",
+            "fontStretch"
+          ]
         },
-        "name": "MobileBodyLinkMediumFontStretch",
-        "attributes": {
-          "category": "mobile",
-          "type": "body link medium",
-          "item": "fontStretch"
-        },
-        "path": [
-          "mobile",
-          "body link medium",
-          "fontStretch"
-        ]
-      },
-      "_fontStyleOld": {
-        "value": "Bold",
-        "type": "string",
-        "original": {
+        "_fontStyleOld": {
           "value": "Bold",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "Bold",
+            "type": "string"
+          },
+          "name": "MobileBodyBodyLinkMediumFontStyleOld",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body link medium",
+            "subitem": "_fontStyleOld"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body link medium",
+            "_fontStyleOld"
+          ]
         },
-        "name": "MobileBodyLinkMediumFontStyleOld",
-        "attributes": {
-          "category": "mobile",
-          "type": "body link medium",
-          "item": "_fontStyleOld"
-        },
-        "path": [
-          "mobile",
-          "body link medium",
-          "_fontStyleOld"
-        ]
-      },
-      "letterSpacing": {
-        "value": 0.75,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
+        "letterSpacing": {
           "value": 0.75,
           "type": "number",
-          "unit": "pixels"
+          "unit": "pixels",
+          "original": {
+            "value": 0.75,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "MobileBodyBodyLinkMediumLetterSpacing",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body link medium",
+            "subitem": "letterSpacing"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body link medium",
+            "letterSpacing"
+          ]
         },
-        "name": "MobileBodyLinkMediumLetterSpacing",
-        "attributes": {
-          "category": "mobile",
-          "type": "body link medium",
-          "item": "letterSpacing"
-        },
-        "path": [
-          "mobile",
-          "body link medium",
-          "letterSpacing"
-        ]
-      },
-      "lineHeight": {
-        "value": 28,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
+        "lineHeight": {
           "value": 28,
           "type": "number",
-          "unit": "pixels"
+          "unit": "pixels",
+          "original": {
+            "value": 28,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "MobileBodyBodyLinkMediumLineHeight",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body link medium",
+            "subitem": "lineHeight"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body link medium",
+            "lineHeight"
+          ]
         },
-        "name": "MobileBodyLinkMediumLineHeight",
-        "attributes": {
-          "category": "mobile",
-          "type": "body link medium",
-          "item": "lineHeight"
-        },
-        "path": [
-          "mobile",
-          "body link medium",
-          "lineHeight"
-        ]
-      },
-      "paragraphIndent": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
+        "paragraphIndent": {
           "value": 0,
           "type": "number",
-          "unit": "pixel"
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "MobileBodyBodyLinkMediumParagraphIndent",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body link medium",
+            "subitem": "paragraphIndent"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body link medium",
+            "paragraphIndent"
+          ]
         },
-        "name": "MobileBodyLinkMediumParagraphIndent",
-        "attributes": {
-          "category": "mobile",
-          "type": "body link medium",
-          "item": "paragraphIndent"
-        },
-        "path": [
-          "mobile",
-          "body link medium",
-          "paragraphIndent"
-        ]
-      },
-      "paragraphSpacing": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
+        "paragraphSpacing": {
           "value": 0,
           "type": "number",
-          "unit": "pixel"
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "MobileBodyBodyLinkMediumParagraphSpacing",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body link medium",
+            "subitem": "paragraphSpacing"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body link medium",
+            "paragraphSpacing"
+          ]
         },
-        "name": "MobileBodyLinkMediumParagraphSpacing",
-        "attributes": {
-          "category": "mobile",
-          "type": "body link medium",
-          "item": "paragraphSpacing"
-        },
-        "path": [
-          "mobile",
-          "body link medium",
-          "paragraphSpacing"
-        ]
-      },
-      "textCase": {
-        "value": "none",
-        "type": "string",
-        "original": {
+        "textCase": {
           "value": "none",
-          "type": "string"
-        },
-        "name": "MobileBodyLinkMediumTextCase",
-        "attributes": {
-          "category": "mobile",
-          "type": "body link medium",
-          "item": "textCase"
-        },
-        "path": [
-          "mobile",
-          "body link medium",
-          "textCase"
-        ]
-      }
-    },
-    "body link small": {
-      "category": "font",
-      "fontSize": {
-        "value": 15,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "MobileBodyBodyLinkMediumTextCase",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body link medium",
+            "subitem": "textCase"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body link medium",
+            "textCase"
+          ]
+        }
+      },
+      "body link small": {
+        "category": "font",
+        "fontSize": {
           "value": 15,
           "type": "number",
-          "unit": "pixel"
+          "unit": "pixel",
+          "original": {
+            "value": 15,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "MobileBodyBodyLinkSmallFontSize",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body link small",
+            "subitem": "fontSize"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body link small",
+            "fontSize"
+          ]
         },
-        "name": "MobileBodyLinkSmallFontSize",
-        "attributes": {
-          "category": "mobile",
-          "type": "body link small",
-          "item": "fontSize"
-        },
-        "path": [
-          "mobile",
-          "body link small",
-          "fontSize"
-        ]
-      },
-      "textDecoration": {
-        "value": "none",
-        "type": "string",
-        "original": {
+        "textDecoration": {
           "value": "none",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "MobileBodyBodyLinkSmallTextDecoration",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body link small",
+            "subitem": "textDecoration"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body link small",
+            "textDecoration"
+          ]
         },
-        "name": "MobileBodyLinkSmallTextDecoration",
-        "attributes": {
-          "category": "mobile",
-          "type": "body link small",
-          "item": "textDecoration"
-        },
-        "path": [
-          "mobile",
-          "body link small",
-          "textDecoration"
-        ]
-      },
-      "fontFamily": {
-        "value": "Poppins",
-        "type": "string",
-        "original": {
+        "fontFamily": {
           "value": "Poppins",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "Poppins",
+            "type": "string"
+          },
+          "name": "MobileBodyBodyLinkSmallFontFamily",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body link small",
+            "subitem": "fontFamily"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body link small",
+            "fontFamily"
+          ]
         },
-        "name": "MobileBodyLinkSmallFontFamily",
-        "attributes": {
-          "category": "mobile",
-          "type": "body link small",
-          "item": "fontFamily"
-        },
-        "path": [
-          "mobile",
-          "body link small",
-          "fontFamily"
-        ]
-      },
-      "fontWeight": {
-        "value": 700,
-        "type": "number",
-        "original": {
+        "fontWeight": {
           "value": 700,
-          "type": "number"
+          "type": "number",
+          "original": {
+            "value": 700,
+            "type": "number"
+          },
+          "name": "MobileBodyBodyLinkSmallFontWeight",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body link small",
+            "subitem": "fontWeight"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body link small",
+            "fontWeight"
+          ]
         },
-        "name": "MobileBodyLinkSmallFontWeight",
-        "attributes": {
-          "category": "mobile",
-          "type": "body link small",
-          "item": "fontWeight"
-        },
-        "path": [
-          "mobile",
-          "body link small",
-          "fontWeight"
-        ]
-      },
-      "fontStyle": {
-        "value": "normal",
-        "type": "string",
-        "original": {
+        "fontStyle": {
           "value": "normal",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "MobileBodyBodyLinkSmallFontStyle",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body link small",
+            "subitem": "fontStyle"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body link small",
+            "fontStyle"
+          ]
         },
-        "name": "MobileBodyLinkSmallFontStyle",
-        "attributes": {
-          "category": "mobile",
-          "type": "body link small",
-          "item": "fontStyle"
-        },
-        "path": [
-          "mobile",
-          "body link small",
-          "fontStyle"
-        ]
-      },
-      "fontStretch": {
-        "value": "normal",
-        "type": "string",
-        "original": {
+        "fontStretch": {
           "value": "normal",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "MobileBodyBodyLinkSmallFontStretch",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body link small",
+            "subitem": "fontStretch"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body link small",
+            "fontStretch"
+          ]
         },
-        "name": "MobileBodyLinkSmallFontStretch",
-        "attributes": {
-          "category": "mobile",
-          "type": "body link small",
-          "item": "fontStretch"
-        },
-        "path": [
-          "mobile",
-          "body link small",
-          "fontStretch"
-        ]
-      },
-      "_fontStyleOld": {
-        "value": "Bold",
-        "type": "string",
-        "original": {
+        "_fontStyleOld": {
           "value": "Bold",
-          "type": "string"
+          "type": "string",
+          "original": {
+            "value": "Bold",
+            "type": "string"
+          },
+          "name": "MobileBodyBodyLinkSmallFontStyleOld",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body link small",
+            "subitem": "_fontStyleOld"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body link small",
+            "_fontStyleOld"
+          ]
         },
-        "name": "MobileBodyLinkSmallFontStyleOld",
-        "attributes": {
-          "category": "mobile",
-          "type": "body link small",
-          "item": "_fontStyleOld"
-        },
-        "path": [
-          "mobile",
-          "body link small",
-          "_fontStyleOld"
-        ]
-      },
-      "letterSpacing": {
-        "value": 0.75,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
+        "letterSpacing": {
           "value": 0.75,
           "type": "number",
-          "unit": "pixels"
+          "unit": "pixels",
+          "original": {
+            "value": 0.75,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "MobileBodyBodyLinkSmallLetterSpacing",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body link small",
+            "subitem": "letterSpacing"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body link small",
+            "letterSpacing"
+          ]
         },
-        "name": "MobileBodyLinkSmallLetterSpacing",
-        "attributes": {
-          "category": "mobile",
-          "type": "body link small",
-          "item": "letterSpacing"
-        },
-        "path": [
-          "mobile",
-          "body link small",
-          "letterSpacing"
-        ]
-      },
-      "lineHeight": {
-        "value": 24,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
+        "lineHeight": {
           "value": 24,
           "type": "number",
-          "unit": "pixels"
+          "unit": "pixels",
+          "original": {
+            "value": 24,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "MobileBodyBodyLinkSmallLineHeight",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body link small",
+            "subitem": "lineHeight"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body link small",
+            "lineHeight"
+          ]
         },
-        "name": "MobileBodyLinkSmallLineHeight",
-        "attributes": {
-          "category": "mobile",
-          "type": "body link small",
-          "item": "lineHeight"
-        },
-        "path": [
-          "mobile",
-          "body link small",
-          "lineHeight"
-        ]
-      },
-      "paragraphIndent": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
+        "paragraphIndent": {
           "value": 0,
           "type": "number",
-          "unit": "pixel"
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "MobileBodyBodyLinkSmallParagraphIndent",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body link small",
+            "subitem": "paragraphIndent"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body link small",
+            "paragraphIndent"
+          ]
         },
-        "name": "MobileBodyLinkSmallParagraphIndent",
-        "attributes": {
-          "category": "mobile",
-          "type": "body link small",
-          "item": "paragraphIndent"
-        },
-        "path": [
-          "mobile",
-          "body link small",
-          "paragraphIndent"
-        ]
-      },
-      "paragraphSpacing": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
+        "paragraphSpacing": {
           "value": 0,
           "type": "number",
-          "unit": "pixel"
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "MobileBodyBodyLinkSmallParagraphSpacing",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body link small",
+            "subitem": "paragraphSpacing"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body link small",
+            "paragraphSpacing"
+          ]
         },
-        "name": "MobileBodyLinkSmallParagraphSpacing",
-        "attributes": {
-          "category": "mobile",
-          "type": "body link small",
-          "item": "paragraphSpacing"
-        },
-        "path": [
-          "mobile",
-          "body link small",
-          "paragraphSpacing"
-        ]
-      },
-      "textCase": {
-        "value": "none",
-        "type": "string",
-        "original": {
+        "textCase": {
           "value": "none",
-          "type": "string"
-        },
-        "name": "MobileBodyLinkSmallTextCase",
-        "attributes": {
-          "category": "mobile",
-          "type": "body link small",
-          "item": "textCase"
-        },
-        "path": [
-          "mobile",
-          "body link small",
-          "textCase"
-        ]
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "MobileBodyBodyLinkSmallTextCase",
+          "attributes": {
+            "category": "mobile",
+            "type": "body",
+            "item": "body link small",
+            "subitem": "textCase"
+          },
+          "path": [
+            "mobile",
+            "body",
+            "body link small",
+            "textCase"
+          ]
+        }
       }
     },
-    "body link x-small": {
-      "category": "font",
-      "fontSize": {
-        "value": 13,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 13,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "MobileBodyLinkXSmallFontSize",
-        "attributes": {
-          "category": "mobile",
-          "type": "body link x-small",
-          "item": "fontSize"
-        },
-        "path": [
-          "mobile",
-          "body link x-small",
-          "fontSize"
-        ]
-      },
-      "textDecoration": {
-        "value": "none",
-        "type": "string",
-        "original": {
-          "value": "none",
-          "type": "string"
-        },
-        "name": "MobileBodyLinkXSmallTextDecoration",
-        "attributes": {
-          "category": "mobile",
-          "type": "body link x-small",
-          "item": "textDecoration"
-        },
-        "path": [
-          "mobile",
-          "body link x-small",
-          "textDecoration"
-        ]
-      },
-      "fontFamily": {
-        "value": "Poppins",
-        "type": "string",
-        "original": {
-          "value": "Poppins",
-          "type": "string"
-        },
-        "name": "MobileBodyLinkXSmallFontFamily",
-        "attributes": {
-          "category": "mobile",
-          "type": "body link x-small",
-          "item": "fontFamily"
-        },
-        "path": [
-          "mobile",
-          "body link x-small",
-          "fontFamily"
-        ]
-      },
-      "fontWeight": {
-        "value": 700,
-        "type": "number",
-        "original": {
-          "value": 700,
-          "type": "number"
-        },
-        "name": "MobileBodyLinkXSmallFontWeight",
-        "attributes": {
-          "category": "mobile",
-          "type": "body link x-small",
-          "item": "fontWeight"
-        },
-        "path": [
-          "mobile",
-          "body link x-small",
-          "fontWeight"
-        ]
-      },
-      "fontStyle": {
-        "value": "normal",
-        "type": "string",
-        "original": {
-          "value": "normal",
-          "type": "string"
-        },
-        "name": "MobileBodyLinkXSmallFontStyle",
-        "attributes": {
-          "category": "mobile",
-          "type": "body link x-small",
-          "item": "fontStyle"
-        },
-        "path": [
-          "mobile",
-          "body link x-small",
-          "fontStyle"
-        ]
-      },
-      "fontStretch": {
-        "value": "normal",
-        "type": "string",
-        "original": {
-          "value": "normal",
-          "type": "string"
-        },
-        "name": "MobileBodyLinkXSmallFontStretch",
-        "attributes": {
-          "category": "mobile",
-          "type": "body link x-small",
-          "item": "fontStretch"
-        },
-        "path": [
-          "mobile",
-          "body link x-small",
-          "fontStretch"
-        ]
-      },
-      "_fontStyleOld": {
-        "value": "Bold",
-        "type": "string",
-        "original": {
-          "value": "Bold",
-          "type": "string"
-        },
-        "name": "MobileBodyLinkXSmallFontStyleOld",
-        "attributes": {
-          "category": "mobile",
-          "type": "body link x-small",
-          "item": "_fontStyleOld"
-        },
-        "path": [
-          "mobile",
-          "body link x-small",
-          "_fontStyleOld"
-        ]
-      },
-      "letterSpacing": {
-        "value": 0.25,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
-          "value": 0.25,
-          "type": "number",
-          "unit": "pixels"
-        },
-        "name": "MobileBodyLinkXSmallLetterSpacing",
-        "attributes": {
-          "category": "mobile",
-          "type": "body link x-small",
-          "item": "letterSpacing"
-        },
-        "path": [
-          "mobile",
-          "body link x-small",
-          "letterSpacing"
-        ]
-      },
-      "lineHeight": {
-        "value": 22,
-        "type": "number",
-        "unit": "pixels",
-        "original": {
-          "value": 22,
-          "type": "number",
-          "unit": "pixels"
-        },
-        "name": "MobileBodyLinkXSmallLineHeight",
-        "attributes": {
-          "category": "mobile",
-          "type": "body link x-small",
-          "item": "lineHeight"
-        },
-        "path": [
-          "mobile",
-          "body link x-small",
-          "lineHeight"
-        ]
-      },
-      "paragraphIndent": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "MobileBodyLinkXSmallParagraphIndent",
-        "attributes": {
-          "category": "mobile",
-          "type": "body link x-small",
-          "item": "paragraphIndent"
-        },
-        "path": [
-          "mobile",
-          "body link x-small",
-          "paragraphIndent"
-        ]
-      },
-      "paragraphSpacing": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "MobileBodyLinkXSmallParagraphSpacing",
-        "attributes": {
-          "category": "mobile",
-          "type": "body link x-small",
-          "item": "paragraphSpacing"
-        },
-        "path": [
-          "mobile",
-          "body link x-small",
-          "paragraphSpacing"
-        ]
-      },
-      "textCase": {
-        "value": "none",
-        "type": "string",
-        "original": {
-          "value": "none",
-          "type": "string"
-        },
-        "name": "MobileBodyLinkXSmallTextCase",
-        "attributes": {
-          "category": "mobile",
-          "type": "body link x-small",
-          "item": "textCase"
-        },
-        "path": [
-          "mobile",
-          "body link x-small",
-          "textCase"
-        ]
-      }
-    }
-  },
-  "background blur": {
-    "category": "effect",
-    "type": {
-      "value": "backgroundBlur",
-      "type": "string",
-      "original": {
-        "value": "backgroundBlur",
-        "type": "string"
-      },
-      "name": "BackgroundBlurType",
-      "attributes": {
-        "category": "background blur",
-        "type": "type"
-      },
-      "path": [
-        "background blur",
-        "type"
-      ]
-    },
-    "radius": {
-      "value": 67,
-      "type": "number",
-      "unit": "pixel",
-      "original": {
-        "value": 67,
-        "type": "number",
-        "unit": "pixel"
-      },
-      "name": "BackgroundBlurRadius",
-      "attributes": {
-        "category": "background blur",
-        "type": "radius"
-      },
-      "path": [
-        "background blur",
-        "radius"
-      ]
-    }
-  },
-  "drop shadow large": {
-    "category": "effect",
-    "type": {
-      "value": "dropShadow",
-      "type": "string",
-      "original": {
-        "value": "dropShadow",
-        "type": "string"
-      },
-      "name": "DropShadowLargeType",
-      "attributes": {
-        "category": "drop shadow large",
-        "type": "type"
-      },
-      "path": [
-        "drop shadow large",
-        "type"
-      ]
-    },
-    "radius": {
-      "value": 64,
-      "type": "number",
-      "unit": "pixel",
-      "original": {
-        "value": 64,
-        "type": "number",
-        "unit": "pixel"
-      },
-      "name": "DropShadowLargeRadius",
-      "attributes": {
-        "category": "drop shadow large",
-        "type": "radius"
-      },
-      "path": [
-        "drop shadow large",
-        "radius"
-      ]
-    },
-    "color": {
-      "value": "rgba(0, 0, 0, 0.05)",
-      "type": "color",
-      "original": {
-        "value": "rgba(0, 0, 0, 0.05)",
-        "type": "color"
-      },
-      "name": "DropShadowLargeColor",
-      "attributes": {
-        "category": "drop shadow large",
-        "type": "color"
-      },
-      "path": [
-        "drop shadow large",
-        "color"
-      ]
-    },
-    "offset": {
-      "x": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "DropShadowLargeOffsetX",
-        "attributes": {
-          "category": "drop shadow large",
-          "type": "offset",
-          "item": "x"
-        },
-        "path": [
-          "drop shadow large",
-          "offset",
-          "x"
-        ]
-      },
-      "y": {
-        "value": 32,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
+    "display": {
+      "display huge": {
+        "category": "font",
+        "fontSize": {
           "value": 32,
           "type": "number",
-          "unit": "pixel"
+          "unit": "pixel",
+          "original": {
+            "value": 32,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "MobileDisplayDisplayHugeFontSize",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display huge",
+            "subitem": "fontSize"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display huge",
+            "fontSize"
+          ]
         },
-        "name": "DropShadowLargeOffsetY",
-        "attributes": {
-          "category": "drop shadow large",
-          "type": "offset",
-          "item": "y"
+        "textDecoration": {
+          "value": "none",
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "MobileDisplayDisplayHugeTextDecoration",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display huge",
+            "subitem": "textDecoration"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display huge",
+            "textDecoration"
+          ]
         },
-        "path": [
-          "drop shadow large",
-          "offset",
-          "y"
-        ]
-      }
-    },
-    "spread": {
-      "value": 0,
-      "type": "number",
-      "unit": "pixel",
-      "original": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel"
-      },
-      "name": "DropShadowLargeSpread",
-      "attributes": {
-        "category": "drop shadow large",
-        "type": "spread"
-      },
-      "path": [
-        "drop shadow large",
-        "spread"
-      ]
-    }
-  },
-  "drop shadow medium": {
-    "category": "effect",
-    "type": {
-      "value": "dropShadow",
-      "type": "string",
-      "original": {
-        "value": "dropShadow",
-        "type": "string"
-      },
-      "name": "DropShadowMediumType",
-      "attributes": {
-        "category": "drop shadow medium",
-        "type": "type"
-      },
-      "path": [
-        "drop shadow medium",
-        "type"
-      ]
-    },
-    "radius": {
-      "value": 16,
-      "type": "number",
-      "unit": "pixel",
-      "original": {
-        "value": 16,
-        "type": "number",
-        "unit": "pixel"
-      },
-      "name": "DropShadowMediumRadius",
-      "attributes": {
-        "category": "drop shadow medium",
-        "type": "radius"
-      },
-      "path": [
-        "drop shadow medium",
-        "radius"
-      ]
-    },
-    "color": {
-      "value": "rgba(0, 0, 0, 0.04)",
-      "type": "color",
-      "original": {
-        "value": "rgba(0, 0, 0, 0.04)",
-        "type": "color"
-      },
-      "name": "DropShadowMediumColor",
-      "attributes": {
-        "category": "drop shadow medium",
-        "type": "color"
-      },
-      "path": [
-        "drop shadow medium",
-        "color"
-      ]
-    },
-    "offset": {
-      "x": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
+        "fontFamily": {
+          "value": "Poppins",
+          "type": "string",
+          "original": {
+            "value": "Poppins",
+            "type": "string"
+          },
+          "name": "MobileDisplayDisplayHugeFontFamily",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display huge",
+            "subitem": "fontFamily"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display huge",
+            "fontFamily"
+          ]
+        },
+        "fontWeight": {
+          "value": 400,
+          "type": "number",
+          "original": {
+            "value": 400,
+            "type": "number"
+          },
+          "name": "MobileDisplayDisplayHugeFontWeight",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display huge",
+            "subitem": "fontWeight"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display huge",
+            "fontWeight"
+          ]
+        },
+        "fontStyle": {
+          "value": "normal",
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "MobileDisplayDisplayHugeFontStyle",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display huge",
+            "subitem": "fontStyle"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display huge",
+            "fontStyle"
+          ]
+        },
+        "fontStretch": {
+          "value": "normal",
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "MobileDisplayDisplayHugeFontStretch",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display huge",
+            "subitem": "fontStretch"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display huge",
+            "fontStretch"
+          ]
+        },
+        "_fontStyleOld": {
+          "value": "Regular",
+          "type": "string",
+          "original": {
+            "value": "Regular",
+            "type": "string"
+          },
+          "name": "MobileDisplayDisplayHugeFontStyleOld",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display huge",
+            "subitem": "_fontStyleOld"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display huge",
+            "_fontStyleOld"
+          ]
+        },
+        "letterSpacing": {
+          "value": 1,
+          "type": "number",
+          "unit": "pixels",
+          "original": {
+            "value": 1,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "MobileDisplayDisplayHugeLetterSpacing",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display huge",
+            "subitem": "letterSpacing"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display huge",
+            "letterSpacing"
+          ]
+        },
+        "lineHeight": {
+          "value": 44,
+          "type": "number",
+          "unit": "pixels",
+          "original": {
+            "value": 44,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "MobileDisplayDisplayHugeLineHeight",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display huge",
+            "subitem": "lineHeight"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display huge",
+            "lineHeight"
+          ]
+        },
+        "paragraphIndent": {
           "value": 0,
           "type": "number",
-          "unit": "pixel"
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "MobileDisplayDisplayHugeParagraphIndent",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display huge",
+            "subitem": "paragraphIndent"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display huge",
+            "paragraphIndent"
+          ]
         },
-        "name": "DropShadowMediumOffsetX",
-        "attributes": {
-          "category": "drop shadow medium",
-          "type": "offset",
-          "item": "x"
-        },
-        "path": [
-          "drop shadow medium",
-          "offset",
-          "x"
-        ]
-      },
-      "y": {
-        "value": 12,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 12,
+        "paragraphSpacing": {
+          "value": 0,
           "type": "number",
-          "unit": "pixel"
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "MobileDisplayDisplayHugeParagraphSpacing",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display huge",
+            "subitem": "paragraphSpacing"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display huge",
+            "paragraphSpacing"
+          ]
         },
-        "name": "DropShadowMediumOffsetY",
-        "attributes": {
-          "category": "drop shadow medium",
-          "type": "offset",
-          "item": "y"
+        "textCase": {
+          "value": "none",
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "MobileDisplayDisplayHugeTextCase",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display huge",
+            "subitem": "textCase"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display huge",
+            "textCase"
+          ]
+        }
+      },
+      "display large": {
+        "category": "font",
+        "fontSize": {
+          "value": 28,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 28,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "MobileDisplayDisplayLargeFontSize",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display large",
+            "subitem": "fontSize"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display large",
+            "fontSize"
+          ]
         },
-        "path": [
-          "drop shadow medium",
-          "offset",
-          "y"
-        ]
+        "textDecoration": {
+          "value": "none",
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "MobileDisplayDisplayLargeTextDecoration",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display large",
+            "subitem": "textDecoration"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display large",
+            "textDecoration"
+          ]
+        },
+        "fontFamily": {
+          "value": "Poppins",
+          "type": "string",
+          "original": {
+            "value": "Poppins",
+            "type": "string"
+          },
+          "name": "MobileDisplayDisplayLargeFontFamily",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display large",
+            "subitem": "fontFamily"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display large",
+            "fontFamily"
+          ]
+        },
+        "fontWeight": {
+          "value": 400,
+          "type": "number",
+          "original": {
+            "value": 400,
+            "type": "number"
+          },
+          "name": "MobileDisplayDisplayLargeFontWeight",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display large",
+            "subitem": "fontWeight"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display large",
+            "fontWeight"
+          ]
+        },
+        "fontStyle": {
+          "value": "normal",
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "MobileDisplayDisplayLargeFontStyle",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display large",
+            "subitem": "fontStyle"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display large",
+            "fontStyle"
+          ]
+        },
+        "fontStretch": {
+          "value": "normal",
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "MobileDisplayDisplayLargeFontStretch",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display large",
+            "subitem": "fontStretch"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display large",
+            "fontStretch"
+          ]
+        },
+        "_fontStyleOld": {
+          "value": "Regular",
+          "type": "string",
+          "original": {
+            "value": "Regular",
+            "type": "string"
+          },
+          "name": "MobileDisplayDisplayLargeFontStyleOld",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display large",
+            "subitem": "_fontStyleOld"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display large",
+            "_fontStyleOld"
+          ]
+        },
+        "letterSpacing": {
+          "value": 1,
+          "type": "number",
+          "unit": "pixels",
+          "original": {
+            "value": 1,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "MobileDisplayDisplayLargeLetterSpacing",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display large",
+            "subitem": "letterSpacing"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display large",
+            "letterSpacing"
+          ]
+        },
+        "lineHeight": {
+          "value": 40,
+          "type": "number",
+          "unit": "pixels",
+          "original": {
+            "value": 40,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "MobileDisplayDisplayLargeLineHeight",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display large",
+            "subitem": "lineHeight"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display large",
+            "lineHeight"
+          ]
+        },
+        "paragraphIndent": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "MobileDisplayDisplayLargeParagraphIndent",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display large",
+            "subitem": "paragraphIndent"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display large",
+            "paragraphIndent"
+          ]
+        },
+        "paragraphSpacing": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "MobileDisplayDisplayLargeParagraphSpacing",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display large",
+            "subitem": "paragraphSpacing"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display large",
+            "paragraphSpacing"
+          ]
+        },
+        "textCase": {
+          "value": "none",
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "MobileDisplayDisplayLargeTextCase",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display large",
+            "subitem": "textCase"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display large",
+            "textCase"
+          ]
+        }
+      },
+      "display medium": {
+        "category": "font",
+        "fontSize": {
+          "value": 24,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 24,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "MobileDisplayDisplayMediumFontSize",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display medium",
+            "subitem": "fontSize"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display medium",
+            "fontSize"
+          ]
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "MobileDisplayDisplayMediumTextDecoration",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display medium",
+            "subitem": "textDecoration"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display medium",
+            "textDecoration"
+          ]
+        },
+        "fontFamily": {
+          "value": "Poppins",
+          "type": "string",
+          "original": {
+            "value": "Poppins",
+            "type": "string"
+          },
+          "name": "MobileDisplayDisplayMediumFontFamily",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display medium",
+            "subitem": "fontFamily"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display medium",
+            "fontFamily"
+          ]
+        },
+        "fontWeight": {
+          "value": 400,
+          "type": "number",
+          "original": {
+            "value": 400,
+            "type": "number"
+          },
+          "name": "MobileDisplayDisplayMediumFontWeight",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display medium",
+            "subitem": "fontWeight"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display medium",
+            "fontWeight"
+          ]
+        },
+        "fontStyle": {
+          "value": "normal",
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "MobileDisplayDisplayMediumFontStyle",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display medium",
+            "subitem": "fontStyle"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display medium",
+            "fontStyle"
+          ]
+        },
+        "fontStretch": {
+          "value": "normal",
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "MobileDisplayDisplayMediumFontStretch",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display medium",
+            "subitem": "fontStretch"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display medium",
+            "fontStretch"
+          ]
+        },
+        "_fontStyleOld": {
+          "value": "Regular",
+          "type": "string",
+          "original": {
+            "value": "Regular",
+            "type": "string"
+          },
+          "name": "MobileDisplayDisplayMediumFontStyleOld",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display medium",
+            "subitem": "_fontStyleOld"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display medium",
+            "_fontStyleOld"
+          ]
+        },
+        "letterSpacing": {
+          "value": 1,
+          "type": "number",
+          "unit": "pixels",
+          "original": {
+            "value": 1,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "MobileDisplayDisplayMediumLetterSpacing",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display medium",
+            "subitem": "letterSpacing"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display medium",
+            "letterSpacing"
+          ]
+        },
+        "lineHeight": {
+          "value": 34,
+          "type": "number",
+          "unit": "pixels",
+          "original": {
+            "value": 34,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "MobileDisplayDisplayMediumLineHeight",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display medium",
+            "subitem": "lineHeight"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display medium",
+            "lineHeight"
+          ]
+        },
+        "paragraphIndent": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "MobileDisplayDisplayMediumParagraphIndent",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display medium",
+            "subitem": "paragraphIndent"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display medium",
+            "paragraphIndent"
+          ]
+        },
+        "paragraphSpacing": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "MobileDisplayDisplayMediumParagraphSpacing",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display medium",
+            "subitem": "paragraphSpacing"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display medium",
+            "paragraphSpacing"
+          ]
+        },
+        "textCase": {
+          "value": "none",
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "MobileDisplayDisplayMediumTextCase",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display medium",
+            "subitem": "textCase"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display medium",
+            "textCase"
+          ]
+        }
+      },
+      "display small": {
+        "category": "font",
+        "fontSize": {
+          "value": 20,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 20,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "MobileDisplayDisplaySmallFontSize",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display small",
+            "subitem": "fontSize"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display small",
+            "fontSize"
+          ]
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "MobileDisplayDisplaySmallTextDecoration",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display small",
+            "subitem": "textDecoration"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display small",
+            "textDecoration"
+          ]
+        },
+        "fontFamily": {
+          "value": "Poppins",
+          "type": "string",
+          "original": {
+            "value": "Poppins",
+            "type": "string"
+          },
+          "name": "MobileDisplayDisplaySmallFontFamily",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display small",
+            "subitem": "fontFamily"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display small",
+            "fontFamily"
+          ]
+        },
+        "fontWeight": {
+          "value": 400,
+          "type": "number",
+          "original": {
+            "value": 400,
+            "type": "number"
+          },
+          "name": "MobileDisplayDisplaySmallFontWeight",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display small",
+            "subitem": "fontWeight"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display small",
+            "fontWeight"
+          ]
+        },
+        "fontStyle": {
+          "value": "normal",
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "MobileDisplayDisplaySmallFontStyle",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display small",
+            "subitem": "fontStyle"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display small",
+            "fontStyle"
+          ]
+        },
+        "fontStretch": {
+          "value": "normal",
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "MobileDisplayDisplaySmallFontStretch",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display small",
+            "subitem": "fontStretch"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display small",
+            "fontStretch"
+          ]
+        },
+        "_fontStyleOld": {
+          "value": "Regular",
+          "type": "string",
+          "original": {
+            "value": "Regular",
+            "type": "string"
+          },
+          "name": "MobileDisplayDisplaySmallFontStyleOld",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display small",
+            "subitem": "_fontStyleOld"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display small",
+            "_fontStyleOld"
+          ]
+        },
+        "letterSpacing": {
+          "value": 1,
+          "type": "number",
+          "unit": "pixels",
+          "original": {
+            "value": 1,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "MobileDisplayDisplaySmallLetterSpacing",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display small",
+            "subitem": "letterSpacing"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display small",
+            "letterSpacing"
+          ]
+        },
+        "lineHeight": {
+          "value": 32,
+          "type": "number",
+          "unit": "pixels",
+          "original": {
+            "value": 32,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "MobileDisplayDisplaySmallLineHeight",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display small",
+            "subitem": "lineHeight"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display small",
+            "lineHeight"
+          ]
+        },
+        "paragraphIndent": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "MobileDisplayDisplaySmallParagraphIndent",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display small",
+            "subitem": "paragraphIndent"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display small",
+            "paragraphIndent"
+          ]
+        },
+        "paragraphSpacing": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "MobileDisplayDisplaySmallParagraphSpacing",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display small",
+            "subitem": "paragraphSpacing"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display small",
+            "paragraphSpacing"
+          ]
+        },
+        "textCase": {
+          "value": "none",
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "MobileDisplayDisplaySmallTextCase",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display small",
+            "subitem": "textCase"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display small",
+            "textCase"
+          ]
+        }
+      },
+      "display huge bold": {
+        "category": "font",
+        "fontSize": {
+          "value": 32,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 32,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "MobileDisplayDisplayHugeBoldFontSize",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display huge bold",
+            "subitem": "fontSize"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display huge bold",
+            "fontSize"
+          ]
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "MobileDisplayDisplayHugeBoldTextDecoration",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display huge bold",
+            "subitem": "textDecoration"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display huge bold",
+            "textDecoration"
+          ]
+        },
+        "fontFamily": {
+          "value": "Poppins",
+          "type": "string",
+          "original": {
+            "value": "Poppins",
+            "type": "string"
+          },
+          "name": "MobileDisplayDisplayHugeBoldFontFamily",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display huge bold",
+            "subitem": "fontFamily"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display huge bold",
+            "fontFamily"
+          ]
+        },
+        "fontWeight": {
+          "value": 700,
+          "type": "number",
+          "original": {
+            "value": 700,
+            "type": "number"
+          },
+          "name": "MobileDisplayDisplayHugeBoldFontWeight",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display huge bold",
+            "subitem": "fontWeight"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display huge bold",
+            "fontWeight"
+          ]
+        },
+        "fontStyle": {
+          "value": "normal",
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "MobileDisplayDisplayHugeBoldFontStyle",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display huge bold",
+            "subitem": "fontStyle"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display huge bold",
+            "fontStyle"
+          ]
+        },
+        "fontStretch": {
+          "value": "normal",
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "MobileDisplayDisplayHugeBoldFontStretch",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display huge bold",
+            "subitem": "fontStretch"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display huge bold",
+            "fontStretch"
+          ]
+        },
+        "_fontStyleOld": {
+          "value": "Bold",
+          "type": "string",
+          "original": {
+            "value": "Bold",
+            "type": "string"
+          },
+          "name": "MobileDisplayDisplayHugeBoldFontStyleOld",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display huge bold",
+            "subitem": "_fontStyleOld"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display huge bold",
+            "_fontStyleOld"
+          ]
+        },
+        "letterSpacing": {
+          "value": 1,
+          "type": "number",
+          "unit": "pixels",
+          "original": {
+            "value": 1,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "MobileDisplayDisplayHugeBoldLetterSpacing",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display huge bold",
+            "subitem": "letterSpacing"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display huge bold",
+            "letterSpacing"
+          ]
+        },
+        "lineHeight": {
+          "value": 44,
+          "type": "number",
+          "unit": "pixels",
+          "original": {
+            "value": 44,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "MobileDisplayDisplayHugeBoldLineHeight",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display huge bold",
+            "subitem": "lineHeight"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display huge bold",
+            "lineHeight"
+          ]
+        },
+        "paragraphIndent": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "MobileDisplayDisplayHugeBoldParagraphIndent",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display huge bold",
+            "subitem": "paragraphIndent"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display huge bold",
+            "paragraphIndent"
+          ]
+        },
+        "paragraphSpacing": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "MobileDisplayDisplayHugeBoldParagraphSpacing",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display huge bold",
+            "subitem": "paragraphSpacing"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display huge bold",
+            "paragraphSpacing"
+          ]
+        },
+        "textCase": {
+          "value": "none",
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "MobileDisplayDisplayHugeBoldTextCase",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display huge bold",
+            "subitem": "textCase"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display huge bold",
+            "textCase"
+          ]
+        }
+      },
+      "display large bold": {
+        "category": "font",
+        "fontSize": {
+          "value": 28,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 28,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "MobileDisplayDisplayLargeBoldFontSize",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display large bold",
+            "subitem": "fontSize"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display large bold",
+            "fontSize"
+          ]
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "MobileDisplayDisplayLargeBoldTextDecoration",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display large bold",
+            "subitem": "textDecoration"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display large bold",
+            "textDecoration"
+          ]
+        },
+        "fontFamily": {
+          "value": "Poppins",
+          "type": "string",
+          "original": {
+            "value": "Poppins",
+            "type": "string"
+          },
+          "name": "MobileDisplayDisplayLargeBoldFontFamily",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display large bold",
+            "subitem": "fontFamily"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display large bold",
+            "fontFamily"
+          ]
+        },
+        "fontWeight": {
+          "value": 700,
+          "type": "number",
+          "original": {
+            "value": 700,
+            "type": "number"
+          },
+          "name": "MobileDisplayDisplayLargeBoldFontWeight",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display large bold",
+            "subitem": "fontWeight"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display large bold",
+            "fontWeight"
+          ]
+        },
+        "fontStyle": {
+          "value": "normal",
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "MobileDisplayDisplayLargeBoldFontStyle",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display large bold",
+            "subitem": "fontStyle"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display large bold",
+            "fontStyle"
+          ]
+        },
+        "fontStretch": {
+          "value": "normal",
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "MobileDisplayDisplayLargeBoldFontStretch",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display large bold",
+            "subitem": "fontStretch"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display large bold",
+            "fontStretch"
+          ]
+        },
+        "_fontStyleOld": {
+          "value": "Bold",
+          "type": "string",
+          "original": {
+            "value": "Bold",
+            "type": "string"
+          },
+          "name": "MobileDisplayDisplayLargeBoldFontStyleOld",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display large bold",
+            "subitem": "_fontStyleOld"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display large bold",
+            "_fontStyleOld"
+          ]
+        },
+        "letterSpacing": {
+          "value": 1,
+          "type": "number",
+          "unit": "pixels",
+          "original": {
+            "value": 1,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "MobileDisplayDisplayLargeBoldLetterSpacing",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display large bold",
+            "subitem": "letterSpacing"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display large bold",
+            "letterSpacing"
+          ]
+        },
+        "lineHeight": {
+          "value": 40,
+          "type": "number",
+          "unit": "pixels",
+          "original": {
+            "value": 40,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "MobileDisplayDisplayLargeBoldLineHeight",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display large bold",
+            "subitem": "lineHeight"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display large bold",
+            "lineHeight"
+          ]
+        },
+        "paragraphIndent": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "MobileDisplayDisplayLargeBoldParagraphIndent",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display large bold",
+            "subitem": "paragraphIndent"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display large bold",
+            "paragraphIndent"
+          ]
+        },
+        "paragraphSpacing": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "MobileDisplayDisplayLargeBoldParagraphSpacing",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display large bold",
+            "subitem": "paragraphSpacing"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display large bold",
+            "paragraphSpacing"
+          ]
+        },
+        "textCase": {
+          "value": "none",
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "MobileDisplayDisplayLargeBoldTextCase",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display large bold",
+            "subitem": "textCase"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display large bold",
+            "textCase"
+          ]
+        }
+      },
+      "display medium bold": {
+        "category": "font",
+        "fontSize": {
+          "value": 24,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 24,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "MobileDisplayDisplayMediumBoldFontSize",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display medium bold",
+            "subitem": "fontSize"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display medium bold",
+            "fontSize"
+          ]
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "MobileDisplayDisplayMediumBoldTextDecoration",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display medium bold",
+            "subitem": "textDecoration"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display medium bold",
+            "textDecoration"
+          ]
+        },
+        "fontFamily": {
+          "value": "Poppins",
+          "type": "string",
+          "original": {
+            "value": "Poppins",
+            "type": "string"
+          },
+          "name": "MobileDisplayDisplayMediumBoldFontFamily",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display medium bold",
+            "subitem": "fontFamily"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display medium bold",
+            "fontFamily"
+          ]
+        },
+        "fontWeight": {
+          "value": 700,
+          "type": "number",
+          "original": {
+            "value": 700,
+            "type": "number"
+          },
+          "name": "MobileDisplayDisplayMediumBoldFontWeight",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display medium bold",
+            "subitem": "fontWeight"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display medium bold",
+            "fontWeight"
+          ]
+        },
+        "fontStyle": {
+          "value": "normal",
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "MobileDisplayDisplayMediumBoldFontStyle",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display medium bold",
+            "subitem": "fontStyle"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display medium bold",
+            "fontStyle"
+          ]
+        },
+        "fontStretch": {
+          "value": "normal",
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "MobileDisplayDisplayMediumBoldFontStretch",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display medium bold",
+            "subitem": "fontStretch"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display medium bold",
+            "fontStretch"
+          ]
+        },
+        "_fontStyleOld": {
+          "value": "Bold",
+          "type": "string",
+          "original": {
+            "value": "Bold",
+            "type": "string"
+          },
+          "name": "MobileDisplayDisplayMediumBoldFontStyleOld",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display medium bold",
+            "subitem": "_fontStyleOld"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display medium bold",
+            "_fontStyleOld"
+          ]
+        },
+        "letterSpacing": {
+          "value": 1,
+          "type": "number",
+          "unit": "pixels",
+          "original": {
+            "value": 1,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "MobileDisplayDisplayMediumBoldLetterSpacing",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display medium bold",
+            "subitem": "letterSpacing"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display medium bold",
+            "letterSpacing"
+          ]
+        },
+        "lineHeight": {
+          "value": 34,
+          "type": "number",
+          "unit": "pixels",
+          "original": {
+            "value": 34,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "MobileDisplayDisplayMediumBoldLineHeight",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display medium bold",
+            "subitem": "lineHeight"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display medium bold",
+            "lineHeight"
+          ]
+        },
+        "paragraphIndent": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "MobileDisplayDisplayMediumBoldParagraphIndent",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display medium bold",
+            "subitem": "paragraphIndent"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display medium bold",
+            "paragraphIndent"
+          ]
+        },
+        "paragraphSpacing": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "MobileDisplayDisplayMediumBoldParagraphSpacing",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display medium bold",
+            "subitem": "paragraphSpacing"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display medium bold",
+            "paragraphSpacing"
+          ]
+        },
+        "textCase": {
+          "value": "none",
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "MobileDisplayDisplayMediumBoldTextCase",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display medium bold",
+            "subitem": "textCase"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display medium bold",
+            "textCase"
+          ]
+        }
+      },
+      "display small bold": {
+        "category": "font",
+        "fontSize": {
+          "value": 20,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 20,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "MobileDisplayDisplaySmallBoldFontSize",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display small bold",
+            "subitem": "fontSize"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display small bold",
+            "fontSize"
+          ]
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "MobileDisplayDisplaySmallBoldTextDecoration",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display small bold",
+            "subitem": "textDecoration"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display small bold",
+            "textDecoration"
+          ]
+        },
+        "fontFamily": {
+          "value": "Poppins",
+          "type": "string",
+          "original": {
+            "value": "Poppins",
+            "type": "string"
+          },
+          "name": "MobileDisplayDisplaySmallBoldFontFamily",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display small bold",
+            "subitem": "fontFamily"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display small bold",
+            "fontFamily"
+          ]
+        },
+        "fontWeight": {
+          "value": 700,
+          "type": "number",
+          "original": {
+            "value": 700,
+            "type": "number"
+          },
+          "name": "MobileDisplayDisplaySmallBoldFontWeight",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display small bold",
+            "subitem": "fontWeight"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display small bold",
+            "fontWeight"
+          ]
+        },
+        "fontStyle": {
+          "value": "normal",
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "MobileDisplayDisplaySmallBoldFontStyle",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display small bold",
+            "subitem": "fontStyle"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display small bold",
+            "fontStyle"
+          ]
+        },
+        "fontStretch": {
+          "value": "normal",
+          "type": "string",
+          "original": {
+            "value": "normal",
+            "type": "string"
+          },
+          "name": "MobileDisplayDisplaySmallBoldFontStretch",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display small bold",
+            "subitem": "fontStretch"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display small bold",
+            "fontStretch"
+          ]
+        },
+        "_fontStyleOld": {
+          "value": "Bold",
+          "type": "string",
+          "original": {
+            "value": "Bold",
+            "type": "string"
+          },
+          "name": "MobileDisplayDisplaySmallBoldFontStyleOld",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display small bold",
+            "subitem": "_fontStyleOld"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display small bold",
+            "_fontStyleOld"
+          ]
+        },
+        "letterSpacing": {
+          "value": 1,
+          "type": "number",
+          "unit": "pixels",
+          "original": {
+            "value": 1,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "MobileDisplayDisplaySmallBoldLetterSpacing",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display small bold",
+            "subitem": "letterSpacing"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display small bold",
+            "letterSpacing"
+          ]
+        },
+        "lineHeight": {
+          "value": 32,
+          "type": "number",
+          "unit": "pixels",
+          "original": {
+            "value": 32,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "name": "MobileDisplayDisplaySmallBoldLineHeight",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display small bold",
+            "subitem": "lineHeight"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display small bold",
+            "lineHeight"
+          ]
+        },
+        "paragraphIndent": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "MobileDisplayDisplaySmallBoldParagraphIndent",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display small bold",
+            "subitem": "paragraphIndent"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display small bold",
+            "paragraphIndent"
+          ]
+        },
+        "paragraphSpacing": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "MobileDisplayDisplaySmallBoldParagraphSpacing",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display small bold",
+            "subitem": "paragraphSpacing"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display small bold",
+            "paragraphSpacing"
+          ]
+        },
+        "textCase": {
+          "value": "none",
+          "type": "string",
+          "original": {
+            "value": "none",
+            "type": "string"
+          },
+          "name": "MobileDisplayDisplaySmallBoldTextCase",
+          "attributes": {
+            "category": "mobile",
+            "type": "display",
+            "item": "display small bold",
+            "subitem": "textCase"
+          },
+          "path": [
+            "mobile",
+            "display",
+            "display small bold",
+            "textCase"
+          ]
+        }
       }
-    },
-    "spread": {
-      "value": 0,
-      "type": "number",
-      "unit": "pixel",
-      "original": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel"
-      },
-      "name": "DropShadowMediumSpread",
-      "attributes": {
-        "category": "drop shadow medium",
-        "type": "spread"
-      },
-      "path": [
-        "drop shadow medium",
-        "spread"
-      ]
     }
   },
-  "drop shadow small": {
-    "category": "effect",
-    "type": {
-      "value": "dropShadow",
-      "type": "string",
-      "original": {
+  "effects": {
+    "drop shadow small": {
+      "category": "effect",
+      "type": {
         "value": "dropShadow",
-        "type": "string"
+        "type": "string",
+        "original": {
+          "value": "dropShadow",
+          "type": "string"
+        },
+        "name": "EffectsDropShadowSmallType",
+        "attributes": {
+          "category": "effects",
+          "type": "drop shadow small",
+          "item": "type"
+        },
+        "path": [
+          "effects",
+          "drop shadow small",
+          "type"
+        ]
       },
-      "name": "DropShadowSmallType",
-      "attributes": {
-        "category": "drop shadow small",
-        "type": "type"
-      },
-      "path": [
-        "drop shadow small",
-        "type"
-      ]
-    },
-    "radius": {
-      "value": 6,
-      "type": "number",
-      "unit": "pixel",
-      "original": {
+      "radius": {
         "value": 6,
         "type": "number",
-        "unit": "pixel"
+        "unit": "pixel",
+        "original": {
+          "value": 6,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "EffectsDropShadowSmallRadius",
+        "attributes": {
+          "category": "effects",
+          "type": "drop shadow small",
+          "item": "radius"
+        },
+        "path": [
+          "effects",
+          "drop shadow small",
+          "radius"
+        ]
       },
-      "name": "DropShadowSmallRadius",
-      "attributes": {
-        "category": "drop shadow small",
-        "type": "radius"
-      },
-      "path": [
-        "drop shadow small",
-        "radius"
-      ]
-    },
-    "color": {
-      "value": "rgba(0, 0, 0, 0.04)",
-      "type": "color",
-      "original": {
+      "color": {
         "value": "rgba(0, 0, 0, 0.04)",
-        "type": "color"
+        "type": "color",
+        "original": {
+          "value": "rgba(0, 0, 0, 0.04)",
+          "type": "color"
+        },
+        "name": "EffectsDropShadowSmallColor",
+        "attributes": {
+          "category": "effects",
+          "type": "drop shadow small",
+          "item": "color"
+        },
+        "path": [
+          "effects",
+          "drop shadow small",
+          "color"
+        ]
       },
-      "name": "DropShadowSmallColor",
-      "attributes": {
-        "category": "drop shadow small",
-        "type": "color"
+      "offset": {
+        "x": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "EffectsDropShadowSmallOffsetX",
+          "attributes": {
+            "category": "effects",
+            "type": "drop shadow small",
+            "item": "offset",
+            "subitem": "x"
+          },
+          "path": [
+            "effects",
+            "drop shadow small",
+            "offset",
+            "x"
+          ]
+        },
+        "y": {
+          "value": 4,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 4,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "EffectsDropShadowSmallOffsetY",
+          "attributes": {
+            "category": "effects",
+            "type": "drop shadow small",
+            "item": "offset",
+            "subitem": "y"
+          },
+          "path": [
+            "effects",
+            "drop shadow small",
+            "offset",
+            "y"
+          ]
+        }
       },
-      "path": [
-        "drop shadow small",
-        "color"
-      ]
-    },
-    "offset": {
-      "x": {
+      "spread": {
         "value": 0,
         "type": "number",
         "unit": "pixel",
@@ -9234,58 +10694,323 @@ module.exports = {
           "type": "number",
           "unit": "pixel"
         },
-        "name": "DropShadowSmallOffsetX",
+        "name": "EffectsDropShadowSmallSpread",
         "attributes": {
-          "category": "drop shadow small",
-          "type": "offset",
-          "item": "x"
+          "category": "effects",
+          "type": "drop shadow small",
+          "item": "spread"
         },
         "path": [
+          "effects",
           "drop shadow small",
-          "offset",
-          "x"
-        ]
-      },
-      "y": {
-        "value": 4,
-        "type": "number",
-        "unit": "pixel",
-        "original": {
-          "value": 4,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "name": "DropShadowSmallOffsetY",
-        "attributes": {
-          "category": "drop shadow small",
-          "type": "offset",
-          "item": "y"
-        },
-        "path": [
-          "drop shadow small",
-          "offset",
-          "y"
+          "spread"
         ]
       }
     },
-    "spread": {
-      "value": 0,
-      "type": "number",
-      "unit": "pixel",
-      "original": {
+    "background blur": {
+      "category": "effect",
+      "type": {
+        "value": "backgroundBlur",
+        "type": "string",
+        "original": {
+          "value": "backgroundBlur",
+          "type": "string"
+        },
+        "name": "EffectsBackgroundBlurType",
+        "attributes": {
+          "category": "effects",
+          "type": "background blur",
+          "item": "type"
+        },
+        "path": [
+          "effects",
+          "background blur",
+          "type"
+        ]
+      },
+      "radius": {
+        "value": 67,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 67,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "EffectsBackgroundBlurRadius",
+        "attributes": {
+          "category": "effects",
+          "type": "background blur",
+          "item": "radius"
+        },
+        "path": [
+          "effects",
+          "background blur",
+          "radius"
+        ]
+      }
+    },
+    "drop shadow large": {
+      "category": "effect",
+      "type": {
+        "value": "dropShadow",
+        "type": "string",
+        "original": {
+          "value": "dropShadow",
+          "type": "string"
+        },
+        "name": "EffectsDropShadowLargeType",
+        "attributes": {
+          "category": "effects",
+          "type": "drop shadow large",
+          "item": "type"
+        },
+        "path": [
+          "effects",
+          "drop shadow large",
+          "type"
+        ]
+      },
+      "radius": {
+        "value": 64,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 64,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "EffectsDropShadowLargeRadius",
+        "attributes": {
+          "category": "effects",
+          "type": "drop shadow large",
+          "item": "radius"
+        },
+        "path": [
+          "effects",
+          "drop shadow large",
+          "radius"
+        ]
+      },
+      "color": {
+        "value": "rgba(0, 0, 0, 0.05)",
+        "type": "color",
+        "original": {
+          "value": "rgba(0, 0, 0, 0.05)",
+          "type": "color"
+        },
+        "name": "EffectsDropShadowLargeColor",
+        "attributes": {
+          "category": "effects",
+          "type": "drop shadow large",
+          "item": "color"
+        },
+        "path": [
+          "effects",
+          "drop shadow large",
+          "color"
+        ]
+      },
+      "offset": {
+        "x": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "EffectsDropShadowLargeOffsetX",
+          "attributes": {
+            "category": "effects",
+            "type": "drop shadow large",
+            "item": "offset",
+            "subitem": "x"
+          },
+          "path": [
+            "effects",
+            "drop shadow large",
+            "offset",
+            "x"
+          ]
+        },
+        "y": {
+          "value": 32,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 32,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "EffectsDropShadowLargeOffsetY",
+          "attributes": {
+            "category": "effects",
+            "type": "drop shadow large",
+            "item": "offset",
+            "subitem": "y"
+          },
+          "path": [
+            "effects",
+            "drop shadow large",
+            "offset",
+            "y"
+          ]
+        }
+      },
+      "spread": {
         "value": 0,
         "type": "number",
-        "unit": "pixel"
+        "unit": "pixel",
+        "original": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "EffectsDropShadowLargeSpread",
+        "attributes": {
+          "category": "effects",
+          "type": "drop shadow large",
+          "item": "spread"
+        },
+        "path": [
+          "effects",
+          "drop shadow large",
+          "spread"
+        ]
+      }
+    },
+    "drop shadow medium": {
+      "category": "effect",
+      "type": {
+        "value": "dropShadow",
+        "type": "string",
+        "original": {
+          "value": "dropShadow",
+          "type": "string"
+        },
+        "name": "EffectsDropShadowMediumType",
+        "attributes": {
+          "category": "effects",
+          "type": "drop shadow medium",
+          "item": "type"
+        },
+        "path": [
+          "effects",
+          "drop shadow medium",
+          "type"
+        ]
       },
-      "name": "DropShadowSmallSpread",
-      "attributes": {
-        "category": "drop shadow small",
-        "type": "spread"
+      "radius": {
+        "value": 16,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 16,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "EffectsDropShadowMediumRadius",
+        "attributes": {
+          "category": "effects",
+          "type": "drop shadow medium",
+          "item": "radius"
+        },
+        "path": [
+          "effects",
+          "drop shadow medium",
+          "radius"
+        ]
       },
-      "path": [
-        "drop shadow small",
-        "spread"
-      ]
+      "color": {
+        "value": "rgba(0, 0, 0, 0.04)",
+        "type": "color",
+        "original": {
+          "value": "rgba(0, 0, 0, 0.04)",
+          "type": "color"
+        },
+        "name": "EffectsDropShadowMediumColor",
+        "attributes": {
+          "category": "effects",
+          "type": "drop shadow medium",
+          "item": "color"
+        },
+        "path": [
+          "effects",
+          "drop shadow medium",
+          "color"
+        ]
+      },
+      "offset": {
+        "x": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "EffectsDropShadowMediumOffsetX",
+          "attributes": {
+            "category": "effects",
+            "type": "drop shadow medium",
+            "item": "offset",
+            "subitem": "x"
+          },
+          "path": [
+            "effects",
+            "drop shadow medium",
+            "offset",
+            "x"
+          ]
+        },
+        "y": {
+          "value": 12,
+          "type": "number",
+          "unit": "pixel",
+          "original": {
+            "value": 12,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "name": "EffectsDropShadowMediumOffsetY",
+          "attributes": {
+            "category": "effects",
+            "type": "drop shadow medium",
+            "item": "offset",
+            "subitem": "y"
+          },
+          "path": [
+            "effects",
+            "drop shadow medium",
+            "offset",
+            "y"
+          ]
+        }
+      },
+      "spread": {
+        "value": 0,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "EffectsDropShadowMediumSpread",
+        "attributes": {
+          "category": "effects",
+          "type": "drop shadow medium",
+          "item": "spread"
+        },
+        "path": [
+          "effects",
+          "drop shadow medium",
+          "spread"
+        ]
+      }
     }
   }
 };
