@@ -1,9 +1,1284 @@
 /**
  * Do not edit directly
- * Generated on Sat, 15 May 2021 17:48:04 GMT
+ * Generated on Mon, 17 May 2021 20:34:02 GMT
  */
 
 module.exports = {
+  "spacing": {
+    "2": {
+      "category": "spacing",
+      "top": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 10,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "Spacing2Top",
+        "attributes": {
+          "category": "spacing",
+          "type": "2",
+          "item": "top"
+        },
+        "path": [
+          "spacing",
+          "2",
+          "top"
+        ]
+      },
+      "right": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 10,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "Spacing2Right",
+        "attributes": {
+          "category": "spacing",
+          "type": "2",
+          "item": "right"
+        },
+        "path": [
+          "spacing",
+          "2",
+          "right"
+        ]
+      },
+      "bottom": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 10,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "Spacing2Bottom",
+        "attributes": {
+          "category": "spacing",
+          "type": "2",
+          "item": "bottom"
+        },
+        "path": [
+          "spacing",
+          "2",
+          "bottom"
+        ]
+      },
+      "left": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 10,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "Spacing2Left",
+        "attributes": {
+          "category": "spacing",
+          "type": "2",
+          "item": "left"
+        },
+        "path": [
+          "spacing",
+          "2",
+          "left"
+        ]
+      }
+    },
+    "4": {
+      "category": "spacing",
+      "top": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 10,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "Spacing4Top",
+        "attributes": {
+          "category": "spacing",
+          "type": "4",
+          "item": "top"
+        },
+        "path": [
+          "spacing",
+          "4",
+          "top"
+        ]
+      },
+      "right": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 10,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "Spacing4Right",
+        "attributes": {
+          "category": "spacing",
+          "type": "4",
+          "item": "right"
+        },
+        "path": [
+          "spacing",
+          "4",
+          "right"
+        ]
+      },
+      "bottom": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 10,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "Spacing4Bottom",
+        "attributes": {
+          "category": "spacing",
+          "type": "4",
+          "item": "bottom"
+        },
+        "path": [
+          "spacing",
+          "4",
+          "bottom"
+        ]
+      },
+      "left": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 10,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "Spacing4Left",
+        "attributes": {
+          "category": "spacing",
+          "type": "4",
+          "item": "left"
+        },
+        "path": [
+          "spacing",
+          "4",
+          "left"
+        ]
+      }
+    },
+    "8": {
+      "category": "spacing",
+      "top": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 10,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "Spacing8Top",
+        "attributes": {
+          "category": "spacing",
+          "type": "8",
+          "item": "top"
+        },
+        "path": [
+          "spacing",
+          "8",
+          "top"
+        ]
+      },
+      "right": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 10,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "Spacing8Right",
+        "attributes": {
+          "category": "spacing",
+          "type": "8",
+          "item": "right"
+        },
+        "path": [
+          "spacing",
+          "8",
+          "right"
+        ]
+      },
+      "bottom": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 10,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "Spacing8Bottom",
+        "attributes": {
+          "category": "spacing",
+          "type": "8",
+          "item": "bottom"
+        },
+        "path": [
+          "spacing",
+          "8",
+          "bottom"
+        ]
+      },
+      "left": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 10,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "Spacing8Left",
+        "attributes": {
+          "category": "spacing",
+          "type": "8",
+          "item": "left"
+        },
+        "path": [
+          "spacing",
+          "8",
+          "left"
+        ]
+      }
+    },
+    "12": {
+      "category": "spacing",
+      "top": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 10,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "Spacing12Top",
+        "attributes": {
+          "category": "spacing",
+          "type": "12",
+          "item": "top"
+        },
+        "path": [
+          "spacing",
+          "12",
+          "top"
+        ]
+      },
+      "right": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 10,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "Spacing12Right",
+        "attributes": {
+          "category": "spacing",
+          "type": "12",
+          "item": "right"
+        },
+        "path": [
+          "spacing",
+          "12",
+          "right"
+        ]
+      },
+      "bottom": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 10,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "Spacing12Bottom",
+        "attributes": {
+          "category": "spacing",
+          "type": "12",
+          "item": "bottom"
+        },
+        "path": [
+          "spacing",
+          "12",
+          "bottom"
+        ]
+      },
+      "left": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 10,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "Spacing12Left",
+        "attributes": {
+          "category": "spacing",
+          "type": "12",
+          "item": "left"
+        },
+        "path": [
+          "spacing",
+          "12",
+          "left"
+        ]
+      }
+    },
+    "16": {
+      "category": "spacing",
+      "top": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 10,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "Spacing16Top",
+        "attributes": {
+          "category": "spacing",
+          "type": "16",
+          "item": "top"
+        },
+        "path": [
+          "spacing",
+          "16",
+          "top"
+        ]
+      },
+      "right": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 10,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "Spacing16Right",
+        "attributes": {
+          "category": "spacing",
+          "type": "16",
+          "item": "right"
+        },
+        "path": [
+          "spacing",
+          "16",
+          "right"
+        ]
+      },
+      "bottom": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 10,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "Spacing16Bottom",
+        "attributes": {
+          "category": "spacing",
+          "type": "16",
+          "item": "bottom"
+        },
+        "path": [
+          "spacing",
+          "16",
+          "bottom"
+        ]
+      },
+      "left": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 10,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "Spacing16Left",
+        "attributes": {
+          "category": "spacing",
+          "type": "16",
+          "item": "left"
+        },
+        "path": [
+          "spacing",
+          "16",
+          "left"
+        ]
+      }
+    },
+    "24": {
+      "category": "spacing",
+      "top": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 10,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "Spacing24Top",
+        "attributes": {
+          "category": "spacing",
+          "type": "24",
+          "item": "top"
+        },
+        "path": [
+          "spacing",
+          "24",
+          "top"
+        ]
+      },
+      "right": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 10,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "Spacing24Right",
+        "attributes": {
+          "category": "spacing",
+          "type": "24",
+          "item": "right"
+        },
+        "path": [
+          "spacing",
+          "24",
+          "right"
+        ]
+      },
+      "bottom": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 10,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "Spacing24Bottom",
+        "attributes": {
+          "category": "spacing",
+          "type": "24",
+          "item": "bottom"
+        },
+        "path": [
+          "spacing",
+          "24",
+          "bottom"
+        ]
+      },
+      "left": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 10,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "Spacing24Left",
+        "attributes": {
+          "category": "spacing",
+          "type": "24",
+          "item": "left"
+        },
+        "path": [
+          "spacing",
+          "24",
+          "left"
+        ]
+      }
+    },
+    "32": {
+      "category": "spacing",
+      "top": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 10,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "Spacing32Top",
+        "attributes": {
+          "category": "spacing",
+          "type": "32",
+          "item": "top"
+        },
+        "path": [
+          "spacing",
+          "32",
+          "top"
+        ]
+      },
+      "right": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 10,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "Spacing32Right",
+        "attributes": {
+          "category": "spacing",
+          "type": "32",
+          "item": "right"
+        },
+        "path": [
+          "spacing",
+          "32",
+          "right"
+        ]
+      },
+      "bottom": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 10,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "Spacing32Bottom",
+        "attributes": {
+          "category": "spacing",
+          "type": "32",
+          "item": "bottom"
+        },
+        "path": [
+          "spacing",
+          "32",
+          "bottom"
+        ]
+      },
+      "left": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 10,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "Spacing32Left",
+        "attributes": {
+          "category": "spacing",
+          "type": "32",
+          "item": "left"
+        },
+        "path": [
+          "spacing",
+          "32",
+          "left"
+        ]
+      }
+    },
+    "48": {
+      "category": "spacing",
+      "top": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 10,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "Spacing48Top",
+        "attributes": {
+          "category": "spacing",
+          "type": "48",
+          "item": "top"
+        },
+        "path": [
+          "spacing",
+          "48",
+          "top"
+        ]
+      },
+      "right": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 10,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "Spacing48Right",
+        "attributes": {
+          "category": "spacing",
+          "type": "48",
+          "item": "right"
+        },
+        "path": [
+          "spacing",
+          "48",
+          "right"
+        ]
+      },
+      "bottom": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 10,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "Spacing48Bottom",
+        "attributes": {
+          "category": "spacing",
+          "type": "48",
+          "item": "bottom"
+        },
+        "path": [
+          "spacing",
+          "48",
+          "bottom"
+        ]
+      },
+      "left": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 10,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "Spacing48Left",
+        "attributes": {
+          "category": "spacing",
+          "type": "48",
+          "item": "left"
+        },
+        "path": [
+          "spacing",
+          "48",
+          "left"
+        ]
+      }
+    },
+    "56": {
+      "category": "spacing",
+      "top": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 10,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "Spacing56Top",
+        "attributes": {
+          "category": "spacing",
+          "type": "56",
+          "item": "top"
+        },
+        "path": [
+          "spacing",
+          "56",
+          "top"
+        ]
+      },
+      "right": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 10,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "Spacing56Right",
+        "attributes": {
+          "category": "spacing",
+          "type": "56",
+          "item": "right"
+        },
+        "path": [
+          "spacing",
+          "56",
+          "right"
+        ]
+      },
+      "bottom": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 10,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "Spacing56Bottom",
+        "attributes": {
+          "category": "spacing",
+          "type": "56",
+          "item": "bottom"
+        },
+        "path": [
+          "spacing",
+          "56",
+          "bottom"
+        ]
+      },
+      "left": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 10,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "Spacing56Left",
+        "attributes": {
+          "category": "spacing",
+          "type": "56",
+          "item": "left"
+        },
+        "path": [
+          "spacing",
+          "56",
+          "left"
+        ]
+      }
+    },
+    "64": {
+      "category": "spacing",
+      "top": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 10,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "Spacing64Top",
+        "attributes": {
+          "category": "spacing",
+          "type": "64",
+          "item": "top"
+        },
+        "path": [
+          "spacing",
+          "64",
+          "top"
+        ]
+      },
+      "right": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 10,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "Spacing64Right",
+        "attributes": {
+          "category": "spacing",
+          "type": "64",
+          "item": "right"
+        },
+        "path": [
+          "spacing",
+          "64",
+          "right"
+        ]
+      },
+      "bottom": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 10,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "Spacing64Bottom",
+        "attributes": {
+          "category": "spacing",
+          "type": "64",
+          "item": "bottom"
+        },
+        "path": [
+          "spacing",
+          "64",
+          "bottom"
+        ]
+      },
+      "left": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 10,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "Spacing64Left",
+        "attributes": {
+          "category": "spacing",
+          "type": "64",
+          "item": "left"
+        },
+        "path": [
+          "spacing",
+          "64",
+          "left"
+        ]
+      }
+    },
+    "96": {
+      "category": "spacing",
+      "top": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 10,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "Spacing96Top",
+        "attributes": {
+          "category": "spacing",
+          "type": "96",
+          "item": "top"
+        },
+        "path": [
+          "spacing",
+          "96",
+          "top"
+        ]
+      },
+      "right": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 10,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "Spacing96Right",
+        "attributes": {
+          "category": "spacing",
+          "type": "96",
+          "item": "right"
+        },
+        "path": [
+          "spacing",
+          "96",
+          "right"
+        ]
+      },
+      "bottom": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 10,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "Spacing96Bottom",
+        "attributes": {
+          "category": "spacing",
+          "type": "96",
+          "item": "bottom"
+        },
+        "path": [
+          "spacing",
+          "96",
+          "bottom"
+        ]
+      },
+      "left": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 10,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "Spacing96Left",
+        "attributes": {
+          "category": "spacing",
+          "type": "96",
+          "item": "left"
+        },
+        "path": [
+          "spacing",
+          "96",
+          "left"
+        ]
+      }
+    },
+    "128": {
+      "category": "spacing",
+      "top": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 10,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "Spacing128Top",
+        "attributes": {
+          "category": "spacing",
+          "type": "128",
+          "item": "top"
+        },
+        "path": [
+          "spacing",
+          "128",
+          "top"
+        ]
+      },
+      "right": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 10,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "Spacing128Right",
+        "attributes": {
+          "category": "spacing",
+          "type": "128",
+          "item": "right"
+        },
+        "path": [
+          "spacing",
+          "128",
+          "right"
+        ]
+      },
+      "bottom": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 10,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "Spacing128Bottom",
+        "attributes": {
+          "category": "spacing",
+          "type": "128",
+          "item": "bottom"
+        },
+        "path": [
+          "spacing",
+          "128",
+          "bottom"
+        ]
+      },
+      "left": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 10,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "Spacing128Left",
+        "attributes": {
+          "category": "spacing",
+          "type": "128",
+          "item": "left"
+        },
+        "path": [
+          "spacing",
+          "128",
+          "left"
+        ]
+      }
+    },
+    "160": {
+      "category": "spacing",
+      "top": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 10,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "Spacing160Top",
+        "attributes": {
+          "category": "spacing",
+          "type": "160",
+          "item": "top"
+        },
+        "path": [
+          "spacing",
+          "160",
+          "top"
+        ]
+      },
+      "right": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 10,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "Spacing160Right",
+        "attributes": {
+          "category": "spacing",
+          "type": "160",
+          "item": "right"
+        },
+        "path": [
+          "spacing",
+          "160",
+          "right"
+        ]
+      },
+      "bottom": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 10,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "Spacing160Bottom",
+        "attributes": {
+          "category": "spacing",
+          "type": "160",
+          "item": "bottom"
+        },
+        "path": [
+          "spacing",
+          "160",
+          "bottom"
+        ]
+      },
+      "left": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 10,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "Spacing160Left",
+        "attributes": {
+          "category": "spacing",
+          "type": "160",
+          "item": "left"
+        },
+        "path": [
+          "spacing",
+          "160",
+          "left"
+        ]
+      }
+    }
+  },
+  "borders": {
+    "8": {
+      "category": "border",
+      "strokeAlign": {
+        "value": "inside",
+        "type": "string",
+        "original": {
+          "value": "inside",
+          "type": "string"
+        },
+        "name": "Borders8StrokeAlign",
+        "attributes": {
+          "category": "borders",
+          "type": "8",
+          "item": "strokeAlign"
+        },
+        "path": [
+          "borders",
+          "8",
+          "strokeAlign"
+        ]
+      },
+      "dashPattern": {
+        "value": "",
+        "type": "string",
+        "original": {
+          "value": "",
+          "type": "string"
+        },
+        "name": "Borders8DashPattern",
+        "attributes": {
+          "category": "borders",
+          "type": "8",
+          "item": "dashPattern"
+        },
+        "path": [
+          "borders",
+          "8",
+          "dashPattern"
+        ]
+      },
+      "strokeCap": {
+        "value": "none",
+        "type": "string",
+        "original": {
+          "value": "none",
+          "type": "string"
+        },
+        "name": "Borders8StrokeCap",
+        "attributes": {
+          "category": "borders",
+          "type": "8",
+          "item": "strokeCap"
+        },
+        "path": [
+          "borders",
+          "8",
+          "strokeCap"
+        ]
+      },
+      "strokeJoin": {
+        "value": "miter",
+        "type": "string",
+        "original": {
+          "value": "miter",
+          "type": "string"
+        },
+        "name": "Borders8StrokeJoin",
+        "attributes": {
+          "category": "borders",
+          "type": "8",
+          "item": "strokeJoin"
+        },
+        "path": [
+          "borders",
+          "8",
+          "strokeJoin"
+        ]
+      },
+      "strokeMiterLimit": {
+        "value": 4,
+        "type": "number",
+        "unit": "degree",
+        "original": {
+          "value": 4,
+          "type": "number",
+          "unit": "degree"
+        },
+        "name": "Borders8StrokeMiterLimit",
+        "attributes": {
+          "category": "borders",
+          "type": "8",
+          "item": "strokeMiterLimit"
+        },
+        "path": [
+          "borders",
+          "8",
+          "strokeMiterLimit"
+        ]
+      },
+      "strokeWeight": {
+        "value": 1,
+        "type": "number",
+        "unit": "pixel",
+        "original": {
+          "value": 1,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "name": "Borders8StrokeWeight",
+        "attributes": {
+          "category": "borders",
+          "type": "8",
+          "item": "strokeWeight"
+        },
+        "path": [
+          "borders",
+          "8",
+          "strokeWeight"
+        ]
+      },
+      "stroke": {
+        "value": "rgba(0, 0, 0, 1)",
+        "type": "color",
+        "original": {
+          "value": "rgba(0, 0, 0, 1)",
+          "type": "color"
+        },
+        "name": "Borders8Stroke",
+        "attributes": {
+          "category": "borders",
+          "type": "8",
+          "item": "stroke"
+        },
+        "path": [
+          "borders",
+          "8",
+          "stroke"
+        ]
+      }
+    }
+  },
   "colors": {
     "grayscale": {
       "50": {
@@ -4382,11 +5657,11 @@ module.exports = {
           ]
         },
         "lineHeight": {
-          "value": 34,
+          "value": 32,
           "type": "number",
           "unit": "pixels",
           "original": {
-            "value": 34,
+            "value": 32,
             "type": "number",
             "unit": "pixels"
           },
